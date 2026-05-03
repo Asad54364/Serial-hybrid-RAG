@@ -1,0 +1,918 @@
+[
+  {
+    "text": "Patient diagnosed with Acute viral pharyngitis (disorder) starting 2015-01-08 until 2015-01-20.",
+    "type": "condition"
+  },
+  {
+    "text": "Patient diagnosed with Severe anxiety (panic) (finding starting 2015-02-17 until 2017-02-28.",
+    "type": "condition"
+  },
+  {
+    "text": "Patient diagnosed with Viral sinusitis (disorder) starting 2016-10-24 until 2016-11-15.",
+    "type": "condition"
+  },
+  {
+    "text": "Patient diagnosed with Risk activity involvement (finding) starting 2017-02-28 until 2018-03-06.",
+    "type": "condition"
+  },
+  {
+    "text": "Patient diagnosed with Acute bronchitis (disorder) starting 2018-09-27 until 2018-10-08.",
+    "type": "condition"
+  },
+  {
+    "text": "Patient diagnosed with Risk activity involvement (finding) starting 2019-03-12 (ongoing).",
+    "type": "condition"
+  },
+  {
+    "text": "Patient diagnosed with Normal pregnancy starting 2020-04-21 until 2020-11-17.",
+    "type": "condition"
+  },
+  {
+    "text": "Patient diagnosed with Received higher education (finding) starting 2021-03-23 (ongoing).",
+    "type": "condition"
+  },
+  {
+    "text": "Patient diagnosed with Full-time employment (finding) starting 2021-03-23 (ongoing).",
+    "type": "condition"
+  },
+  {
+    "text": "Patient diagnosed with Normal pregnancy starting 2021-09-07 until 2021-09-27.",
+    "type": "condition"
+  },
+  {
+    "text": "Patient prescribed Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet starting 2016-10-24T08:07:31Z until 2016-11-15T08:07:31Z for Viral sinusitis (disorder).",
+    "type": "medication"
+  },
+  {
+    "text": "Patient prescribed Acetaminophen 325 MG Oral Tablet starting 2018-09-27T21:10:37Z until 2018-10-08T21:10:37Z for Acute bronchitis (disorder).",
+    "type": "medication"
+  },
+  {
+    "text": "Patient had a ambulatory encounter (Encounter for symptom) from 2011-06-01T00:07:31Z to 2011-06-01T00:22:31Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a wellness encounter (Well child visit (procedure)) from 2012-01-31T12:07:31Z to 2012-01-31T12:22:31Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a wellness encounter (Well child visit (procedure)) from 2013-02-05T12:07:31Z to 2013-02-05T12:22:31Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a wellness encounter (Well child visit (procedure)) from 2014-02-11T12:07:31Z to 2014-02-11T12:22:31Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a outpatient encounter (Encounter for check up (procedure)) from 2015-01-13T12:07:31Z to 2015-01-13T12:22:31Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a ambulatory encounter (Encounter for symptom) from 2015-01-08T21:07:31Z to 2015-01-08T21:22:31Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a wellness encounter (Well child visit (procedure)) from 2015-02-17T12:07:31Z to 2015-02-17T12:22:31Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a wellness encounter (Well child visit (procedure)) from 2016-02-23T12:07:31Z to 2016-02-23T12:22:31Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a ambulatory encounter (Encounter for symptom) from 2016-10-24T08:07:31Z to 2016-10-24T08:22:31Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a wellness encounter (Well child visit (procedure)) from 2017-02-28T12:07:31Z to 2017-02-28T12:22:31Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a wellness encounter (Well child visit (procedure)) from 2018-03-06T12:07:31Z to 2018-03-06T12:22:31Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a ambulatory encounter (Encounter for symptom) from 2018-09-27T21:07:31Z to 2018-09-27T21:22:31Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a outpatient encounter (Encounter for check up (procedure)) from 2018-10-09T12:07:31Z to 2018-10-09T12:22:31Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a wellness encounter (Well child visit (procedure)) from 2019-03-12T12:07:31Z to 2019-03-12T12:22:31Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a wellness encounter (Well child visit (procedure)) from 2020-03-17T12:07:31Z to 2020-03-17T12:22:31Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a ambulatory encounter (Prenatal initial visit) from 2020-04-21T12:07:31Z to 2020-04-21T12:22:31Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a ambulatory encounter (Prenatal visit) from 2020-05-19T12:07:31Z to 2020-05-19T12:22:31Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a ambulatory encounter (Prenatal visit) from 2020-06-16T12:07:31Z to 2020-06-16T12:22:31Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a ambulatory encounter (Prenatal visit) from 2020-07-14T12:07:31Z to 2020-07-14T12:22:31Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a ambulatory encounter (Prenatal visit) from 2020-08-11T12:07:31Z to 2020-08-11T12:22:31Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a ambulatory encounter (Prenatal visit) from 2020-09-08T12:07:31Z to 2020-09-08T12:22:31Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a ambulatory encounter (Prenatal visit) from 2020-10-06T12:07:31Z to 2020-10-06T12:22:31Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a ambulatory encounter (Prenatal visit) from 2020-11-03T12:07:31Z to 2020-11-03T12:22:31Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a emergency encounter (Obstetric emergency hospital admission) from 2020-11-17T12:07:31Z to 2020-11-17T13:07:31Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a ambulatory encounter (Postnatal visit) from 2020-12-29T12:07:31Z to 2020-12-29T12:22:31Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a wellness encounter (General examination of patient (procedure)) from 2021-03-23T12:07:31Z to 2021-03-23T12:22:31Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a outpatient encounter (Administration of vaccine to produce active immunity (procedure)) from 2021-03-30T12:07:31Z to 2021-03-30T12:22:31Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a outpatient encounter (Administration of vaccine to produce active immunity (procedure)) from 2021-04-20T12:07:31Z to 2021-04-20T12:22:31Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a ambulatory encounter (Prenatal initial visit) from 2021-09-07T12:07:31Z to 2021-09-07T12:22:31Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a ambulatory encounter (Patient-initiated encounter) from 2021-09-17T12:07:31Z to 2021-09-17T12:22:31Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a ambulatory encounter (Prenatal visit) from 2021-09-27T12:07:31Z to 2021-09-27T12:22:31Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient on care plan: Respiratory therapy starting 2011-05-31 until 2012-01-31 for Acute bronchitis (disorder).",
+    "type": "careplan"
+  },
+  {
+    "text": "Patient on care plan: Respiratory therapy starting 2018-09-27 until 2018-10-08 for Acute bronchitis (disorder).",
+    "type": "careplan"
+  },
+  {
+    "text": "Patient on care plan: Routine antenatal care starting 2020-04-21 until 2020-11-17 for Normal pregnancy.",
+    "type": "careplan"
+  },
+  {
+    "text": "Patient underwent procedure: Medication Reconciliation (procedure) on 2012-01-31T12:07:31Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Medication Reconciliation (procedure) on 2013-02-05T12:07:31Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Assessment of anxiety (procedure) on 2015-02-17T12:07:31Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Depression screening (procedure) on 2015-02-17T12:25:42Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Depression screening using Patient Health Questionnaire Nine Item score (procedure) on 2015-02-17T12:37:37Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Depression screening (procedure) on 2016-02-23T12:07:31Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Medication Reconciliation (procedure) on 2016-02-23T12:07:31Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Depression screening using Patient Health Questionnaire Nine Item score (procedure) on 2016-02-23T12:20:56Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Assessment of anxiety (procedure) on 2017-02-28T12:07:31Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Medication Reconciliation (procedure) on 2017-02-28T12:07:31Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Assessment of substance use (procedure) on 2017-02-28T12:26:27Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) on 2017-02-28T12:37:51Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Health risks education (procedure) on 2017-02-28T12:53:15Z for Risk activity involvement (finding).",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Assessment of anxiety (procedure) on 2018-03-06T12:07:31Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Assessment of substance use (procedure) on 2018-03-06T12:27:37Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) on 2018-03-06T12:40:50Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Anticipatory guidance (procedure) on 2018-03-06T12:58:24Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Sputum examination (procedure) on 2018-09-27T21:07:31Z for Acute bronchitis (disorder).",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Assessment of anxiety (procedure) on 2018-10-09T12:07:31Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Depression screening (procedure) on 2018-10-09T12:35:44Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Depression screening using Patient Health Questionnaire Nine Item score (procedure) on 2018-10-09T12:48:56Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Assessment of anxiety (procedure) on 2019-03-12T12:07:31Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Medication Reconciliation (procedure) on 2019-03-12T12:07:31Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Depression screening (procedure) on 2019-03-12T12:28:53Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Depression screening using Patient Health Questionnaire Nine Item score (procedure) on 2019-03-12T12:43:05Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Assessment of substance use (procedure) on 2019-03-12T13:11:11Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) on 2019-03-12T13:22:17Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Health risks education (procedure) on 2019-03-12T13:49:44Z for Risk activity involvement (finding).",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Standard pregnancy test on 2020-04-21T12:07:31Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Ultrasound scan for fetal viability on 2020-04-21T12:07:31Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Evaluation of uterine fundal height on 2020-04-21T12:07:31Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Auscultation of the fetal heart on 2020-04-21T12:07:31Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Blood typing  RH typing on 2020-04-21T12:07:31Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Hemoglobin / Hematocrit / Platelet count on 2020-04-21T12:07:31Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Hepatitis B Surface Antigen Measurement on 2020-04-21T12:07:31Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Human immunodeficiency virus antigen test on 2020-04-21T12:07:31Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Chlamydia antigen test on 2020-04-21T12:07:31Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Gonorrhea infection test on 2020-04-21T12:07:31Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Syphilis infection test on 2020-04-21T12:07:31Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Urine culture on 2020-04-21T12:07:31Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Cytopathology procedure  preparation of smear  genital source on 2020-04-21T12:07:31Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Urine screening test for diabetes on 2020-04-21T12:07:31Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Hepatitis C antibody test on 2020-04-21T12:07:31Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Rubella screening on 2020-04-21T12:07:31Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Measurement of Varicella-zoster virus antibody on 2020-04-21T12:07:31Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Skin test for tuberculosis on 2020-04-21T12:07:31Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Urine protein test on 2020-04-21T12:07:31Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Physical examination of mother on 2020-04-21T12:07:31Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Evaluation of uterine fundal height on 2020-05-19T12:07:31Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Auscultation of the fetal heart on 2020-05-19T12:07:31Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Screening for chromosomal aneuploidy in prenatal amniotic fluid on 2020-05-19T12:07:31Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Fetal anatomy study on 2020-06-16T12:07:31Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Alpha-fetoprotein test on 2020-06-16T12:07:31Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Evaluation of uterine fundal height on 2020-06-16T12:07:31Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Auscultation of the fetal heart on 2020-06-16T12:07:31Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Evaluation of uterine fundal height on 2020-07-14T12:07:31Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Auscultation of the fetal heart on 2020-07-14T12:07:31Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Evaluation of uterine fundal height on 2020-08-11T12:07:31Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Auscultation of the fetal heart on 2020-08-11T12:07:31Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Hemoglobin / Hematocrit / Platelet count on 2020-09-08T12:07:31Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Vaccination for diphtheria  pertussis  and tetanus on 2020-09-08T12:07:31Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Urine screening for glucose on 2020-09-08T12:07:31Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Evaluation of uterine fundal height on 2020-09-08T12:07:31Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Auscultation of the fetal heart on 2020-09-08T12:07:31Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Evaluation of uterine fundal height on 2020-10-06T12:07:31Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Auscultation of the fetal heart on 2020-10-06T12:07:31Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Streptococcus pneumoniae group B antigen test on 2020-11-03T12:07:31Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Evaluation of uterine fundal height on 2020-11-03T12:07:31Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Auscultation of the fetal heart on 2020-11-03T12:07:31Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Episiotomy on 2020-11-17T12:07:31Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Childbirth on 2020-11-17T12:07:31Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Physical examination following birth on 2020-12-29T12:07:31Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Depression screening on 2020-12-29T12:07:31Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Assessment of health and social care needs (procedure) on 2021-03-23T12:07:31Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Assessment of anxiety (procedure) on 2021-03-23T12:44:31Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Depression screening (procedure) on 2021-03-23T13:02:50Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Depression screening using Patient Health Questionnaire Two-Item score (procedure) on 2021-03-23T13:16:44Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Assessment of substance use (procedure) on 2021-03-23T13:43:36Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) on 2021-03-23T13:53:47Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Standard pregnancy test on 2021-09-07T12:07:31Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Ultrasound scan for fetal viability on 2021-09-07T12:07:31Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Counseling for termination of pregnancy on 2021-09-17T12:07:31Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Induced termination of pregnancy on 2021-09-17T12:07:31Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Pregnancy termination care on 2021-09-27T12:07:31Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Physical exam following abortion on 2021-09-27T12:07:31Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Depression screening on 2021-09-27T12:07:31Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient received immunization: Influenza  seasonal  injectable  preservative free on 2012-01-31T12:07:31Z.",
+    "type": "immunization"
+  },
+  {
+    "text": "Patient received immunization: Influenza  seasonal  injectable  preservative free on 2013-02-05T12:07:31Z.",
+    "type": "immunization"
+  },
+  {
+    "text": "Patient received immunization: Tdap on 2014-02-11T12:07:31Z.",
+    "type": "immunization"
+  },
+  {
+    "text": "Patient received immunization: Influenza  seasonal  injectable  preservative free on 2014-02-11T12:07:31Z.",
+    "type": "immunization"
+  },
+  {
+    "text": "Patient received immunization: HPV  quadrivalent on 2014-02-11T12:07:31Z.",
+    "type": "immunization"
+  },
+  {
+    "text": "Patient received immunization: meningococcal MCV4P on 2014-02-11T12:07:31Z.",
+    "type": "immunization"
+  },
+  {
+    "text": "Patient received immunization: Influenza  seasonal  injectable  preservative free on 2015-01-13T12:07:31Z.",
+    "type": "immunization"
+  },
+  {
+    "text": "Patient received immunization: HPV  quadrivalent on 2015-01-13T12:07:31Z.",
+    "type": "immunization"
+  },
+  {
+    "text": "Patient received immunization: HPV  quadrivalent on 2015-02-17T12:07:31Z.",
+    "type": "immunization"
+  },
+  {
+    "text": "Patient received immunization: Influenza  seasonal  injectable  preservative free on 2016-02-23T12:07:31Z.",
+    "type": "immunization"
+  },
+  {
+    "text": "Patient received immunization: Influenza  seasonal  injectable  preservative free on 2017-02-28T12:07:31Z.",
+    "type": "immunization"
+  },
+  {
+    "text": "Patient received immunization: Influenza  seasonal  injectable  preservative free on 2018-03-06T12:07:31Z.",
+    "type": "immunization"
+  },
+  {
+    "text": "Patient received immunization: Influenza  seasonal  injectable  preservative free on 2018-10-09T12:07:31Z.",
+    "type": "immunization"
+  },
+  {
+    "text": "Patient received immunization: meningococcal MCV4P on 2019-03-12T12:07:31Z.",
+    "type": "immunization"
+  },
+  {
+    "text": "Patient received immunization: Influenza  seasonal  injectable  preservative free on 2020-03-17T12:07:31Z.",
+    "type": "immunization"
+  },
+  {
+    "text": "Patient received immunization: Influenza  seasonal  injectable  preservative free on 2021-03-23T12:07:31Z.",
+    "type": "immunization"
+  },
+  {
+    "text": "Patient received immunization: SARS-COV-2 (COVID-19) vaccine  mRNA  spike protein  LNP  preservative free  30 mcg/0.3mL dose on 2021-03-30T12:07:31Z.",
+    "type": "immunization"
+  },
+  {
+    "text": "Patient received immunization: SARS-COV-2 (COVID-19) vaccine  mRNA  spike protein  LNP  preservative free  30 mcg/0.3mL dose on 2021-04-20T12:07:31Z.",
+    "type": "immunization"
+  },
+  {
+    "text": "Patient insurance: Mario764 Walter473 (ownership: Guardian) from 2003-02-04T12:07:31Z to 2004-02-10T12:07:31Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Linnie39 Gibson10 (ownership: Guardian) from 2004-02-10T12:07:31Z to 2005-02-15T12:07:31Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Linnie39 Gibson10 (ownership: Guardian) from 2005-02-15T12:07:31Z to 2006-02-21T12:07:31Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Linnie39 Gibson10 (ownership: Guardian) from 2006-02-21T12:07:31Z to 2007-02-27T12:07:31Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Linnie39 Gibson10 (ownership: Guardian) from 2007-02-27T12:07:31Z to 2008-03-04T12:07:31Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Linnie39 Gibson10 (ownership: Guardian) from 2008-03-04T12:07:31Z to 2009-03-10T12:07:31Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Linnie39 Gibson10 (ownership: Guardian) from 2009-03-10T12:07:31Z to 2010-03-16T12:07:31Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Linnie39 Gibson10 (ownership: Guardian) from 2010-03-16T12:07:31Z to 2011-03-22T12:07:31Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Linnie39 Gibson10 (ownership: Guardian) from 2011-03-22T12:07:31Z to 2012-03-27T12:07:31Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Mario764 Walter473 (ownership: Guardian) from 2012-03-27T12:07:31Z to 2013-04-02T12:07:31Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Mario764 Walter473 (ownership: Guardian) from 2013-04-02T12:07:31Z to 2014-04-08T12:07:31Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Linnie39 Gibson10 (ownership: Guardian) from 2014-04-08T12:07:31Z to 2015-04-14T12:07:31Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Linnie39 Gibson10 (ownership: Guardian) from 2015-04-14T12:07:31Z to 2016-04-19T12:07:31Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Mario764 Walter473 (ownership: Guardian) from 2016-04-19T12:07:31Z to 2017-04-25T12:07:31Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Mario764 Walter473 (ownership: Guardian) from 2017-04-25T12:07:31Z to 2018-05-01T12:07:31Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Linnie39 Gibson10 (ownership: Guardian) from 2018-05-01T12:07:31Z to 2019-05-07T12:07:31Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Mario764 Walter473 (ownership: Guardian) from 2019-05-07T12:07:31Z to 2020-05-12T12:07:31Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Phillis443 Walter473 (ownership: Self) from 2020-05-12T12:07:31Z to 2021-05-18T12:07:31Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Phillis443 Walter473 (ownership: Self) from 2021-05-18T12:07:31Z to 2022-05-18T12:07:31Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient observation \u2014 Body Height (vital-signs): 131.2 cm on 2012-01-31T12:07:31Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Pain severity - 0-10 verbal numeric rating [Score] - Reported (vital-signs): 2.0 {score} on 2012-01-31T12:07:31Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Body Weight (vital-signs): 28.5 kg on 2012-01-31T12:07:31Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Body Mass Index (vital-signs): 16.5 kg/m2 on 2012-01-31T12:07:31Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Body mass index (BMI) [Percentile] Per age and gender (vital-signs): 54.1 % on 2012-01-31T12:07:31Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Diastolic Blood Pressure (vital-signs): 82.0 mm[Hg] on 2012-01-31T12:07:31Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Systolic Blood Pressure (vital-signs): 106.0 mm[Hg] on 2012-01-31T12:07:31Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Heart rate (vital-signs): 67.0 /min on 2012-01-31T12:07:31Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Respiratory rate (vital-signs): 15.0 /min on 2012-01-31T12:07:31Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Tobacco smoking status NHIS (survey): Never smoker on 2012-01-31T12:07:31Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Body Height (vital-signs): 136.2 cm on 2013-02-05T12:07:31Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Pain severity - 0-10 verbal numeric rating [Score] - Reported (vital-signs): 1.0 {score} on 2013-02-05T12:07:31Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Body Weight (vital-signs): 31.4 kg on 2013-02-05T12:07:31Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Body Mass Index (vital-signs): 17.0 kg/m2 on 2013-02-05T12:07:31Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Body mass index (BMI) [Percentile] Per age and gender (vital-signs): 51.6 % on 2013-02-05T12:07:31Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Diastolic Blood Pressure (vital-signs): 81.0 mm[Hg] on 2013-02-05T12:07:31Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Systolic Blood Pressure (vital-signs): 102.0 mm[Hg] on 2013-02-05T12:07:31Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Heart rate (vital-signs): 72.0 /min on 2013-02-05T12:07:31Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Respiratory rate (vital-signs): 14.0 /min on 2013-02-05T12:07:31Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Tobacco smoking status NHIS (survey): Never smoker on 2013-02-05T12:07:31Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Body Height (vital-signs): 142.0 cm on 2014-02-11T12:07:31Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Pain severity - 0-10 verbal numeric rating [Score] - Reported (vital-signs): 3.0 {score} on 2014-02-11T12:07:31Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Body Weight (vital-signs): 37.0 kg on 2014-02-11T12:07:31Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Body Mass Index (vital-signs): 18.3 kg/m2 on 2014-02-11T12:07:31Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Body mass index (BMI) [Percentile] Per age and gender (vital-signs): 62.7 % on 2014-02-11T12:07:31Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Diastolic Blood Pressure (vital-signs): 84.0 mm[Hg] on 2014-02-11T12:07:31Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Systolic Blood Pressure (vital-signs): 122.0 mm[Hg] on 2014-02-11T12:07:31Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Heart rate (vital-signs): 78.0 /min on 2014-02-11T12:07:31Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Respiratory rate (vital-signs): 16.0 /min on 2014-02-11T12:07:31Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Leukocytes [#/volume] in Blood by Automated count (laboratory): 9.2 10*3/uL on 2014-02-11T12:07:31Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Erythrocytes [#/volume] in Blood by Automated count (laboratory): 4.9 10*6/uL on 2014-02-11T12:07:31Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Hemoglobin [Mass/volume] in Blood (laboratory): 13.8 g/dL on 2014-02-11T12:07:31Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Hematocrit [Volume Fraction] of Blood by Automated count (laboratory): 44.7 % on 2014-02-11T12:07:31Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 MCV [Entitic volume] by Automated count (laboratory): 82.9 fL on 2014-02-11T12:07:31Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 MCH [Entitic mass] by Automated count (laboratory): 32.9 pg on 2014-02-11T12:07:31Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 MCHC [Mass/volume] by Automated count (laboratory): 33.5 g/dL on 2014-02-11T12:07:31Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Erythrocyte distribution width [Entitic volume] by Automated count (laboratory): 43.5 fL on 2014-02-11T12:07:31Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Platelets [#/volume] in Blood by Automated count (laboratory): 422.1 10*3/uL on 2014-02-11T12:07:31Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Platelet distribution width [Entitic volume] in Blood by Automated count (laboratory): 251.0 fL on 2014-02-11T12:07:31Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Platelet mean volume [Entitic volume] in Blood by Automated count (laboratory): 11.1 fL on 2014-02-11T12:07:31Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Tobacco smoking status NHIS (survey): Never smoker on 2014-02-11T12:07:31Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Body temperature (vital-signs): 37.3 Cel on 2015-01-08T21:07:31Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Body Height (vital-signs): 148.6 cm on 2015-01-13T12:07:31Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Pain severity - 0-10 verbal numeric rating [Score] - Reported (vital-signs): 4.0 {score} on 2015-01-13T12:07:31Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Body Weight (vital-signs): 41.7 kg on 2015-01-13T12:07:31Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Body Mass Index (vital-signs): 18.9 kg/m2 on 2015-01-13T12:07:31Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Body mass index (BMI) [Percentile] Per age and gender (vital-signs): 61.5 % on 2015-01-13T12:07:31Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Diastolic Blood Pressure (vital-signs): 80.0 mm[Hg] on 2015-01-13T12:07:31Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Systolic Blood Pressure (vital-signs): 137.0 mm[Hg] on 2015-01-13T12:07:31Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Heart rate (vital-signs): 67.0 /min on 2015-01-13T12:07:31Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Respiratory rate (vital-signs): 13.0 /min on 2015-01-13T12:07:31Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Tobacco smoking status NHIS (survey): Never smoker on 2015-01-13T12:07:31Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Body Height (vital-signs): 149.2 cm on 2015-02-17T12:07:31Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Pain severity - 0-10 verbal numeric rating [Score] - Reported (vital-signs): 3.0 {score} on 2015-02-17T12:07:31Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Body Weight (vital-signs): 42.0 kg on 2015-02-17T12:07:31Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Body Mass Index (vital-signs): 18.9 kg/m2 on 2015-02-17T12:07:31Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Body mass index (BMI) [Percentile] Per age and gender (vital-signs): 60.4 % on 2015-02-17T12:07:31Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Diastolic Blood Pressure (vital-signs): 78.0 mm[Hg] on 2015-02-17T12:07:31Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Systolic Blood Pressure (vital-signs): 118.0 mm[Hg] on 2015-02-17T12:07:31Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Heart rate (vital-signs): 96.0 /min on 2015-02-17T12:07:31Z.",
+    "type": "observation"
+  }
+]

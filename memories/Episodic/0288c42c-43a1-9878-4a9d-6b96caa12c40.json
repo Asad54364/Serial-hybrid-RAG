@@ -1,0 +1,954 @@
+[
+  {
+    "text": "Patient diagnosed with Risk activity involvement (finding) starting 1994-01-17 (ongoing).",
+    "type": "condition"
+  },
+  {
+    "text": "Patient diagnosed with Received higher education (finding) starting 1998-02-09 (ongoing).",
+    "type": "condition"
+  },
+  {
+    "text": "Patient diagnosed with Stress (finding) starting 1998-02-09 until 2018-03-12.",
+    "type": "condition"
+  },
+  {
+    "text": "Patient diagnosed with Limited social contact (finding) starting 1999-02-15 (ongoing).",
+    "type": "condition"
+  },
+  {
+    "text": "Patient diagnosed with Social isolation (finding) starting 2002-02-18 until 2017-03-06.",
+    "type": "condition"
+  },
+  {
+    "text": "Patient diagnosed with Part-time employment (finding) starting 2005-02-21 until 2008-02-25.",
+    "type": "condition"
+  },
+  {
+    "text": "Patient diagnosed with Full-time employment (finding) starting 2011-02-28 until 2014-02-17.",
+    "type": "condition"
+  },
+  {
+    "text": "Patient diagnosed with Escherichia coli urinary tract infection starting 2012-03-28 until 2012-04-04.",
+    "type": "condition"
+  },
+  {
+    "text": "Patient diagnosed with Chronic low back pain (finding) starting 2014-02-05 (ongoing).",
+    "type": "condition"
+  },
+  {
+    "text": "Patient diagnosed with Chronic neck pain (finding) starting 2014-02-05 (ongoing).",
+    "type": "condition"
+  },
+  {
+    "text": "Patient diagnosed with Part-time employment (finding) starting 2014-02-17 until 2015-02-23.",
+    "type": "condition"
+  },
+  {
+    "text": "Patient diagnosed with Full-time employment (finding) starting 2015-02-23 until 2016-02-29.",
+    "type": "condition"
+  },
+  {
+    "text": "Patient diagnosed with Victim of intimate partner abuse (finding) starting 2015-02-23 until 2016-02-29.",
+    "type": "condition"
+  },
+  {
+    "text": "Patient diagnosed with Full-time employment (finding) starting 2016-02-29 until 2017-03-06.",
+    "type": "condition"
+  },
+  {
+    "text": "Patient diagnosed with Full-time employment (finding) starting 2017-03-06 until 2018-03-12.",
+    "type": "condition"
+  },
+  {
+    "text": "Patient diagnosed with Cystitis starting 2018-02-11 until 2018-02-25.",
+    "type": "condition"
+  },
+  {
+    "text": "Patient diagnosed with Full-time employment (finding) starting 2018-03-12 until 2019-03-18.",
+    "type": "condition"
+  },
+  {
+    "text": "Patient diagnosed with Social isolation (finding) starting 2018-03-12 until 2021-03-29.",
+    "type": "condition"
+  },
+  {
+    "text": "Patient diagnosed with Victim of intimate partner abuse (finding) starting 2018-03-12 until 2019-03-18.",
+    "type": "condition"
+  },
+  {
+    "text": "Patient diagnosed with Full-time employment (finding) starting 2019-03-18 until 2020-03-23.",
+    "type": "condition"
+  },
+  {
+    "text": "Patient diagnosed with Stress (finding) starting 2019-03-18 until 2021-03-29.",
+    "type": "condition"
+  },
+  {
+    "text": "Patient diagnosed with Full-time employment (finding) starting 2020-03-23 until 2021-03-29.",
+    "type": "condition"
+  },
+  {
+    "text": "Patient diagnosed with Part-time employment (finding) starting 2021-03-29 (ongoing).",
+    "type": "condition"
+  },
+  {
+    "text": "Patient prescribed diphenhydrAMINE Hydrochloride 25 MG Oral Tablet starting 1981-05-17T12:47:36Z (ongoing).",
+    "type": "medication"
+  },
+  {
+    "text": "Patient prescribed Nitrofurantoin 5 MG/ML Oral Suspension starting 2012-03-28T17:25:20Z until 2012-04-04T17:25:20Z for Escherichia coli urinary tract infection.",
+    "type": "medication"
+  },
+  {
+    "text": "Patient prescribed Phenazopyridine hydrochloride 100 MG Oral Tablet starting 2012-03-28T17:25:20Z until 2012-04-04T17:25:20Z for Escherichia coli urinary tract infection.",
+    "type": "medication"
+  },
+  {
+    "text": "Patient prescribed Acetaminophen 325 MG Oral Tablet [Tylenol] starting 2014-02-06T02:25:20Z until 2014-02-18T02:25:20Z.",
+    "type": "medication"
+  },
+  {
+    "text": "Patient prescribed Acetaminophen 325 MG Oral Tablet [Tylenol] starting 2014-02-18T02:25:20Z until 2014-02-18T02:25:20Z.",
+    "type": "medication"
+  },
+  {
+    "text": "Patient prescribed Acetaminophen 325 MG Oral Tablet [Tylenol] starting 2014-02-18T02:25:20Z until 2015-02-24T02:25:20Z.",
+    "type": "medication"
+  },
+  {
+    "text": "Patient prescribed Acetaminophen 325 MG Oral Tablet [Tylenol] starting 2015-02-24T02:25:20Z until 2016-03-01T02:25:20Z.",
+    "type": "medication"
+  },
+  {
+    "text": "Patient prescribed Acetaminophen 325 MG Oral Tablet [Tylenol] starting 2016-03-01T02:25:20Z until 2017-03-07T02:25:20Z.",
+    "type": "medication"
+  },
+  {
+    "text": "Patient prescribed Acetaminophen 325 MG Oral Tablet [Tylenol] starting 2017-03-07T02:25:20Z until 2018-03-13T02:25:20Z.",
+    "type": "medication"
+  },
+  {
+    "text": "Patient prescribed Nitrofurantoin 5 MG/ML Oral Suspension starting 2018-02-11T14:25:20Z until 2018-02-18T14:25:20Z for Cystitis.",
+    "type": "medication"
+  },
+  {
+    "text": "Patient prescribed Phenazopyridine hydrochloride 100 MG Oral Tablet starting 2018-02-11T14:25:20Z until 2018-02-25T14:25:20Z for Cystitis.",
+    "type": "medication"
+  },
+  {
+    "text": "Patient prescribed NITROFURANTOIN  MACROCRYSTALS 50 MG Oral Capsule starting 2018-02-18T14:25:20Z until 2018-02-25T14:25:20Z for Cystitis.",
+    "type": "medication"
+  },
+  {
+    "text": "Patient prescribed Acetaminophen 325 MG Oral Tablet [Tylenol] starting 2018-03-13T02:25:20Z until 2019-03-19T02:25:20Z.",
+    "type": "medication"
+  },
+  {
+    "text": "Patient prescribed Acetaminophen 325 MG Oral Tablet [Tylenol] starting 2019-03-19T02:25:20Z until 2020-03-24T02:25:20Z.",
+    "type": "medication"
+  },
+  {
+    "text": "Patient prescribed Acetaminophen 325 MG Oral Tablet [Tylenol] starting 2020-03-24T02:25:20Z until 2021-03-30T02:25:20Z.",
+    "type": "medication"
+  },
+  {
+    "text": "Patient prescribed Acetaminophen 325 MG Oral Tablet [Tylenol] starting 2021-03-30T02:25:20Z (ongoing).",
+    "type": "medication"
+  },
+  {
+    "text": "Patient had a ambulatory encounter (Encounter for problem) from 1981-05-02T16:25:20Z to 1981-05-02T16:40:20Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a ambulatory encounter (Encounter for problem) from 1981-05-17T12:25:20Z to 1981-05-17T12:47:36Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a wellness encounter (Well child visit (procedure)) from 1994-01-18T02:25:20Z to 1994-01-18T02:40:20Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a wellness encounter (General examination of patient (procedure)) from 1998-02-10T02:25:20Z to 1998-02-10T02:40:20Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a wellness encounter (General examination of patient (procedure)) from 1999-02-16T02:25:20Z to 1999-02-16T02:40:20Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a wellness encounter (General examination of patient (procedure)) from 2002-02-19T02:25:20Z to 2002-02-19T02:40:20Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a wellness encounter (General examination of patient (procedure)) from 2005-02-22T02:25:20Z to 2005-02-22T02:40:20Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a wellness encounter (General examination of patient (procedure)) from 2011-03-01T02:25:20Z to 2011-03-01T02:40:20Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a ambulatory encounter (Encounter for symptom) from 2012-03-28T17:25:20Z to 2012-03-28T17:40:20Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a outpatient encounter (Encounter for problem (procedure)) from 2014-02-06T02:25:20Z to 2014-02-06T02:40:20Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a ambulatory encounter (Patient encounter procedure (procedure)) from 2014-02-09T02:25:20Z to 2014-02-09T03:19:40Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a wellness encounter (General examination of patient (procedure)) from 2014-02-18T02:25:20Z to 2014-02-18T02:40:20Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a ambulatory encounter (Patient encounter procedure (procedure)) from 2014-02-12T03:19:40Z to 2014-02-12T04:05:09Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a ambulatory encounter (Patient encounter procedure (procedure)) from 2014-02-15T04:05:09Z to 2014-02-15T04:52:02Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a ambulatory encounter (Patient encounter procedure (procedure)) from 2014-02-18T04:52:02Z to 2014-02-18T05:51:33Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a ambulatory encounter (Patient encounter procedure (procedure)) from 2014-02-21T05:51:33Z to 2014-02-21T06:38:17Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a ambulatory encounter (Patient encounter procedure (procedure)) from 2014-02-24T06:38:17Z to 2014-02-24T07:34:44Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a ambulatory encounter (Patient encounter procedure (procedure)) from 2014-02-27T07:34:44Z to 2014-02-27T08:26:55Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a ambulatory encounter (Patient encounter procedure (procedure)) from 2014-03-02T08:26:55Z to 2014-03-02T09:19:38Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a ambulatory encounter (Patient encounter procedure (procedure)) from 2014-03-05T09:19:38Z to 2014-03-05T10:19:28Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a ambulatory encounter (Patient encounter procedure (procedure)) from 2014-03-08T10:19:28Z to 2014-03-08T11:14:06Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a wellness encounter (General examination of patient (procedure)) from 2015-02-24T02:25:20Z to 2015-02-24T02:40:20Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a wellness encounter (General examination of patient (procedure)) from 2016-03-01T02:25:20Z to 2016-03-01T02:40:20Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a wellness encounter (General examination of patient (procedure)) from 2017-03-07T02:25:20Z to 2017-03-07T02:40:20Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a ambulatory encounter (Encounter for symptom) from 2018-02-11T14:25:20Z to 2018-02-11T14:40:20Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a ambulatory encounter (Encounter for symptom) from 2018-02-18T14:25:20Z to 2018-02-18T14:40:20Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a wellness encounter (General examination of patient (procedure)) from 2018-03-13T02:25:20Z to 2018-03-13T02:40:20Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a wellness encounter (General examination of patient (procedure)) from 2019-03-19T02:25:20Z to 2019-03-19T02:40:20Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a wellness encounter (General examination of patient (procedure)) from 2020-03-24T02:25:20Z to 2020-03-24T02:40:20Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a wellness encounter (General examination of patient (procedure)) from 2021-03-30T02:25:20Z to 2021-03-30T02:40:20Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a outpatient encounter (Administration of vaccine to produce active immunity (procedure)) from 2021-05-04T02:25:20Z to 2021-05-04T02:40:20Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a outpatient encounter (Administration of vaccine to produce active immunity (procedure)) from 2021-06-01T02:25:20Z to 2021-06-01T02:40:20Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient has allergy to Cow's milk (substance) (category: food, type: allergy), noted 1981-05-17 (ongoing).",
+    "type": "allergy"
+  },
+  {
+    "text": "Patient on care plan: Self-care interventions (procedure) starting 1981-05-02 (ongoing).",
+    "type": "careplan"
+  },
+  {
+    "text": "Patient on care plan: Urinary tract infection care starting 2012-03-28 until 2012-04-04 for Escherichia coli urinary tract infection.",
+    "type": "careplan"
+  },
+  {
+    "text": "Patient on care plan: Therapy (regime/therapy) starting 2014-02-05 until 2014-03-08.",
+    "type": "careplan"
+  },
+  {
+    "text": "Patient on care plan: Urinary tract infection care starting 2018-02-11 until 2018-02-25 for Cystitis.",
+    "type": "careplan"
+  },
+  {
+    "text": "Patient underwent procedure: Movement therapy (regime/therapy) on 2014-02-09T02:25:20Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Movement therapy (regime/therapy) on 2014-02-12T03:19:40Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Movement therapy (regime/therapy) on 2014-02-15T04:05:09Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Assessment of health and social care needs (procedure) on 2014-02-18T02:25:20Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Medication Reconciliation (procedure) on 2014-02-18T02:25:20Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Movement therapy (regime/therapy) on 2014-02-18T04:52:02Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Movement therapy (regime/therapy) on 2014-02-21T05:51:33Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Movement therapy (regime/therapy) on 2014-02-24T06:38:17Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Screening for domestic abuse (procedure) on 2014-02-18T03:09:43Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Movement therapy (regime/therapy) on 2014-02-27T07:34:44Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Movement therapy (regime/therapy) on 2014-03-02T08:26:55Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Movement therapy (regime/therapy) on 2014-03-05T09:19:38Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Movement therapy (regime/therapy) on 2014-03-08T10:19:28Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Assessment of health and social care needs (procedure) on 2015-02-24T02:25:20Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Screening for domestic abuse (procedure) on 2015-02-24T02:55:28Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Depression screening (procedure) on 2015-02-24T03:36:46Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Depression screening using Patient Health Questionnaire Two-Item score (procedure) on 2015-02-24T03:50:00Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Assessment of health and social care needs (procedure) on 2016-03-01T02:25:20Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Medication Reconciliation (procedure) on 2016-03-01T02:25:20Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Depression screening (procedure) on 2016-03-01T03:16:45Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Depression screening using Patient Health Questionnaire Two-Item score (procedure) on 2016-03-01T03:26:47Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Assessment of health and social care needs (procedure) on 2017-03-07T02:25:20Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Screening for domestic abuse (procedure) on 2017-03-07T03:06:35Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Depression screening (procedure) on 2017-03-07T03:51:01Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Depression screening using Patient Health Questionnaire Two-Item score (procedure) on 2017-03-07T04:05:00Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Assessment of substance use (procedure) on 2017-03-07T04:34:28Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) on 2017-03-07T04:45:28Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Assessment of health and social care needs (procedure) on 2018-03-13T02:25:20Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Assessment of anxiety (procedure) on 2018-03-13T03:16:29Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Depression screening (procedure) on 2018-03-13T03:41:49Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Depression screening using Patient Health Questionnaire Two-Item score (procedure) on 2018-03-13T03:53:04Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Assessment of health and social care needs (procedure) on 2019-03-19T02:25:20Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Medication Reconciliation (procedure) on 2019-03-19T02:25:20Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Assessment of anxiety (procedure) on 2019-03-19T03:04:26Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Depression screening (procedure) on 2019-03-19T03:29:03Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Depression screening using Patient Health Questionnaire Two-Item score (procedure) on 2019-03-19T03:41:56Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Depression screening using Patient Health Questionnaire Nine Item score (procedure) on 2019-03-19T04:07:08Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Assessment of substance use (procedure) on 2019-03-19T04:28:39Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Screening for drug abuse (procedure) on 2019-03-19T04:43:01Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Assessment of health and social care needs (procedure) on 2020-03-24T02:25:20Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Depression screening (procedure) on 2020-03-24T03:24:41Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Depression screening using Patient Health Questionnaire Two-Item score (procedure) on 2020-03-24T03:37:30Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Assessment of health and social care needs (procedure) on 2021-03-30T02:25:20Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Assessment of anxiety (procedure) on 2021-03-30T03:00:24Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Screening for domestic abuse (procedure) on 2021-03-30T03:29:17Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Depression screening (procedure) on 2021-03-30T03:58:14Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Depression screening using Patient Health Questionnaire Two-Item score (procedure) on 2021-03-30T04:11:46Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient received immunization: Influenza  seasonal  injectable  preservative free on 2014-02-18T02:25:20Z.",
+    "type": "immunization"
+  },
+  {
+    "text": "Patient received immunization: Influenza  seasonal  injectable  preservative free on 2015-02-24T02:25:20Z.",
+    "type": "immunization"
+  },
+  {
+    "text": "Patient received immunization: Influenza  seasonal  injectable  preservative free on 2016-03-01T02:25:20Z.",
+    "type": "immunization"
+  },
+  {
+    "text": "Patient received immunization: Influenza  seasonal  injectable  preservative free on 2017-03-07T02:25:20Z.",
+    "type": "immunization"
+  },
+  {
+    "text": "Patient received immunization: Influenza  seasonal  injectable  preservative free on 2018-03-13T02:25:20Z.",
+    "type": "immunization"
+  },
+  {
+    "text": "Patient received immunization: Influenza  seasonal  injectable  preservative free on 2019-03-19T02:25:20Z.",
+    "type": "immunization"
+  },
+  {
+    "text": "Patient received immunization: Influenza  seasonal  injectable  preservative free on 2020-03-24T02:25:20Z.",
+    "type": "immunization"
+  },
+  {
+    "text": "Patient received immunization: Hep A  adult on 2020-03-24T02:25:20Z.",
+    "type": "immunization"
+  },
+  {
+    "text": "Patient received immunization: Influenza  seasonal  injectable  preservative free on 2021-03-30T02:25:20Z.",
+    "type": "immunization"
+  },
+  {
+    "text": "Patient received immunization: Td (adult) preservative free on 2021-03-30T02:25:20Z.",
+    "type": "immunization"
+  },
+  {
+    "text": "Patient received immunization: Hep A  adult on 2021-03-30T02:25:20Z.",
+    "type": "immunization"
+  },
+  {
+    "text": "Patient received immunization: SARS-COV-2 (COVID-19) vaccine  mRNA  spike protein  LNP  preservative free  100 mcg/0.5mL dose on 2021-05-04T02:25:20Z.",
+    "type": "immunization"
+  },
+  {
+    "text": "Patient received immunization: SARS-COV-2 (COVID-19) vaccine  mRNA  spike protein  LNP  preservative free  100 mcg/0.5mL dose on 2021-06-01T02:25:20Z.",
+    "type": "immunization"
+  },
+  {
+    "text": "Patient insurance: Luciano237 Morar593 (ownership: Guardian) from 1979-12-25T02:25:20Z to 1980-12-30T02:25:20Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Luciano237 Morar593 (ownership: Guardian) from 1980-12-30T02:25:20Z to 1982-01-05T02:25:20Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Luciano237 Morar593 (ownership: Guardian) from 1982-01-05T02:25:20Z to 1983-01-11T02:25:20Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Luciano237 Morar593 (ownership: Guardian) from 1983-01-11T02:25:20Z to 1984-01-17T02:25:20Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Luciano237 Morar593 (ownership: Guardian) from 1984-01-17T02:25:20Z to 1985-01-22T02:25:20Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Luciano237 Morar593 (ownership: Guardian) from 1985-01-22T02:25:20Z to 1986-01-28T02:25:20Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Bridgett849 Marvin195 (ownership: Guardian) from 1986-01-28T02:25:20Z to 1987-02-03T02:25:20Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Bridgett849 Marvin195 (ownership: Guardian) from 1987-02-03T02:25:20Z to 1988-02-09T02:25:20Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Bridgett849 Marvin195 (ownership: Guardian) from 1988-02-09T02:25:20Z to 1989-02-14T02:25:20Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Bridgett849 Marvin195 (ownership: Guardian) from 1989-02-14T02:25:20Z to 1990-02-20T02:25:20Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Luciano237 Morar593 (ownership: Guardian) from 1990-02-20T02:25:20Z to 1991-02-26T02:25:20Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Luciano237 Morar593 (ownership: Guardian) from 1991-02-26T02:25:20Z to 1992-03-03T02:25:20Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Luciano237 Morar593 (ownership: Guardian) from 1992-03-03T02:25:20Z to 1993-03-09T02:25:20Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Luciano237 Morar593 (ownership: Guardian) from 1993-03-09T02:25:20Z to 1994-03-15T02:25:20Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Bridgett849 Marvin195 (ownership: Guardian) from 1994-03-15T02:25:20Z to 1995-03-21T02:25:20Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Luciano237 Morar593 (ownership: Guardian) from 1995-03-21T02:25:20Z to 1996-03-26T02:25:20Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Luciano237 Morar593 (ownership: Guardian) from 1996-03-26T02:25:20Z to 1997-04-01T02:25:20Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Luciano237 Morar593 (ownership: Guardian) from 1997-04-01T02:25:20Z to 1998-04-07T02:25:20Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Miki234 Morar593 (ownership: Self) from 1998-04-07T02:25:20Z to 1999-04-13T02:25:20Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Miki234 Morar593 (ownership: Self) from 1999-04-13T02:25:20Z to 2000-04-18T02:25:20Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Miki234 Morar593 (ownership: Self) from 2000-04-18T02:25:20Z to 2001-04-24T02:25:20Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Miki234 Morar593 (ownership: Self) from 2001-04-24T02:25:20Z to 2002-04-30T02:25:20Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Miki234 Morar593 (ownership: Self) from 2002-04-30T02:25:20Z to 2003-05-06T02:25:20Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Miki234 Morar593 (ownership: Self) from 2003-05-06T02:25:20Z to 2004-05-11T02:25:20Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Miki234 Morar593 (ownership: Self) from 2004-05-11T02:25:20Z to 2005-05-17T02:25:20Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Miki234 Morar593 (ownership: Self) from 2005-05-17T02:25:20Z to 2006-05-23T02:25:20Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Miki234 Morar593 (ownership: Self) from 2006-05-23T02:25:20Z to 2007-05-29T02:25:20Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Miki234 Kozey370 (ownership: Self) from 2007-05-29T02:25:20Z to 2008-06-03T02:25:20Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Miki234 Kozey370 (ownership: Self) from 2008-06-03T02:25:20Z to 2009-06-09T02:25:20Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Miki234 Kozey370 (ownership: Self) from 2009-06-09T02:25:20Z to 2010-06-15T02:25:20Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Mr. Kozey370 (ownership: Spouse) from 2010-06-15T02:25:20Z to 2011-06-21T02:25:20Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Miki234 Kozey370 (ownership: Self) from 2011-06-21T02:25:20Z to 2012-06-26T02:25:20Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Mr. Kozey370 (ownership: Spouse) from 2012-06-26T02:25:20Z to 2013-07-02T02:25:20Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Miki234 Kozey370 (ownership: Self) from 2013-07-02T02:25:20Z to 2014-07-08T02:25:20Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Miki234 Kozey370 (ownership: Self) from 2014-07-08T02:25:20Z to 2015-07-14T02:25:20Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Mr. Kozey370 (ownership: Spouse) from 2015-07-14T02:25:20Z to 2016-07-19T02:25:20Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Miki234 Kozey370 (ownership: Self) from 2016-07-19T02:25:20Z to 2017-07-25T02:25:20Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Miki234 Kozey370 (ownership: Self) from 2017-07-25T02:25:20Z to 2018-07-31T02:25:20Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Mr. Kozey370 (ownership: Spouse) from 2018-07-31T02:25:20Z to 2019-08-06T02:25:20Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Miki234 Kozey370 (ownership: Self) from 2019-08-06T02:25:20Z to 2020-08-11T02:25:20Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Miki234 Kozey370 (ownership: Self) from 2020-08-11T02:25:20Z to 2021-08-17T02:25:20Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Miki234 Kozey370 (ownership: Self) from 2021-08-17T02:25:20Z to 2022-08-17T02:25:20Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient observation \u2014 What number best describes how  during the past week  pain has interfered with your general activity? (survey): 2.7 {score} on 2014-02-06T02:25:20Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 What number best describes how  during the past week  pain has interfered with your enjoyment of life? (survey): 9.8 {score} on 2014-02-06T02:25:20Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 What number best describes your pain on average in the past week? (survey): 2.3 {score} on 2014-02-06T02:25:20Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Drugs of abuse 5 panel - Urine by Screen method (laboratory): Negative (qualifier value) n/a on 2014-02-06T02:25:20Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Pain severity - Reported (survey): 9.3 {score} on 2014-02-09T03:19:40Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Pain severity - Reported (survey): 4.9 {score} on 2014-02-12T04:05:09Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Pain severity - Reported (survey): 10.0 {score} on 2014-02-15T04:52:02Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Body Height (vital-signs): 157.9 cm on 2014-02-18T02:25:20Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Pain severity - 0-10 verbal numeric rating [Score] - Reported (vital-signs): 2.0 {score} on 2014-02-18T02:25:20Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Body Weight (vital-signs): 72.0 kg on 2014-02-18T02:25:20Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Body Mass Index (vital-signs): 28.9 kg/m2 on 2014-02-18T02:25:20Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Diastolic Blood Pressure (vital-signs): 74.0 mm[Hg] on 2014-02-18T02:25:20Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Systolic Blood Pressure (vital-signs): 127.0 mm[Hg] on 2014-02-18T02:25:20Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Heart rate (vital-signs): 75.0 /min on 2014-02-18T02:25:20Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Respiratory rate (vital-signs): 13.0 /min on 2014-02-18T02:25:20Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Leukocytes [#/volume] in Blood by Automated count (laboratory): 9.5 10*3/uL on 2014-02-18T02:25:20Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Erythrocytes [#/volume] in Blood by Automated count (laboratory): 4.4 10*6/uL on 2014-02-18T02:25:20Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Hemoglobin [Mass/volume] in Blood (laboratory): 16.9 g/dL on 2014-02-18T02:25:20Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Hematocrit [Volume Fraction] of Blood by Automated count (laboratory): 42.5 % on 2014-02-18T02:25:20Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 MCV [Entitic volume] by Automated count (laboratory): 88.9 fL on 2014-02-18T02:25:20Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 MCH [Entitic mass] by Automated count (laboratory): 28.3 pg on 2014-02-18T02:25:20Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 MCHC [Mass/volume] by Automated count (laboratory): 33.9 g/dL on 2014-02-18T02:25:20Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Erythrocyte distribution width [Entitic volume] by Automated count (laboratory): 41.0 fL on 2014-02-18T02:25:20Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Platelets [#/volume] in Blood by Automated count (laboratory): 383.3 10*3/uL on 2014-02-18T02:25:20Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Platelet distribution width [Entitic volume] in Blood by Automated count (laboratory): 362.5 fL on 2014-02-18T02:25:20Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Platelet mean volume [Entitic volume] in Blood by Automated count (laboratory): 11.8 fL on 2014-02-18T02:25:20Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Tobacco smoking status NHIS (survey): Never smoker on 2014-02-18T02:25:20Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Pain severity - Reported (survey): 1.9 {score} on 2014-02-18T05:51:33Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Pain severity - Reported (survey): 1.9 {score} on 2014-02-21T06:38:17Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Pain severity - Reported (survey): 6.7 {score} on 2014-02-24T07:34:44Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 In the past year  have you been afraid of your partner or ex-partner? (survey): No on 2014-02-18T03:09:43Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Do you feel physically and emotionally safe where you currently live? (survey): Yes on 2014-02-18T03:09:43Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Are you a refugee? (survey): No on 2014-02-18T03:09:43Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility? (survey): No on 2014-02-18T03:09:43Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Stress is when someone feels tense  nervous  anxious or can't sleep at night because their mind is troubled. How stressed are you? (survey): A little bit on 2014-02-18T03:09:43Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)? (survey): 5 or more times a week on 2014-02-18T03:09:43Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living? (survey): No on 2014-02-18T03:09:43Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 In the past year  have you or any family members you live with been unable to get any of the following when it was really needed? (survey): I choose not to answer this question on 2014-02-18T03:09:43Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 During the past year  what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. (survey): 149432 /a on 2014-02-18T03:09:43Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 What is your main insurance? (survey): Private insurance on 2014-02-18T03:09:43Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 What is your current work situation? (survey): Part-time or temporary work on 2014-02-18T03:09:43Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 What is the highest level of school that you have finished? (survey): More than high school on 2014-02-18T03:09:43Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 What address do you live at? (laboratory): 636 Stamm Gateway on 2014-02-18T03:09:43Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Are you worried about losing your housing? (survey): No on 2014-02-18T03:09:43Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 What is your housing situation today? (survey): I have housing on 2014-02-18T03:09:43Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 How many family members  including yourself  do you currently live with? (survey): 4.0 {#} on 2014-02-18T03:09:43Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 What language are you most comfortable speaking? (survey): English on 2014-02-18T03:09:43Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Have you been discharged from the armed forces of the United States? (survey): No on 2014-02-18T03:09:43Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income? (survey): No on 2014-02-18T03:09:43Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Which race(s) are you? (survey): White on 2014-02-18T03:09:43Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Are you Hispanic or Latino? (survey): No on 2014-02-18T03:09:43Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Total score [HARK] (survey): 0.0 {score} on 2014-02-18T03:39:13Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Pain severity - Reported (survey): 8.5 {score} on 2014-02-27T08:26:55Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Pain severity - Reported (survey): 3.4 {score} on 2014-03-02T09:19:38Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Pain severity - Reported (survey): 8.4 {score} on 2014-03-05T10:19:28Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Pain severity - Reported (survey): 7.2 {score} on 2014-03-08T11:14:06Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Body Height (vital-signs): 157.9 cm on 2015-02-24T02:25:20Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Pain severity - 0-10 verbal numeric rating [Score] - Reported (vital-signs): 1.0 {score} on 2015-02-24T02:25:20Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Body Weight (vital-signs): 73.8 kg on 2015-02-24T02:25:20Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Body Mass Index (vital-signs): 29.6 kg/m2 on 2015-02-24T02:25:20Z.",
+    "type": "observation"
+  }
+]

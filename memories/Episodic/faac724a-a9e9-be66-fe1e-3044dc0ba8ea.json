@@ -1,0 +1,382 @@
+[
+  {
+    "text": "Patient diagnosed with Dyspnea (finding) starting 2021-07-04 until 2021-07-30.",
+    "type": "condition"
+  },
+  {
+    "text": "Patient diagnosed with Wheezing (finding) starting 2021-07-04 until 2021-07-30.",
+    "type": "condition"
+  },
+  {
+    "text": "Patient diagnosed with Suspected COVID-19 starting 2021-07-04 until 2021-07-04.",
+    "type": "condition"
+  },
+  {
+    "text": "Patient diagnosed with COVID-19 starting 2021-07-04 until 2021-07-30.",
+    "type": "condition"
+  },
+  {
+    "text": "Patient had a wellness encounter (Well child visit (procedure)) from 2020-12-04T08:26:20Z to 2020-12-04T08:41:20Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a wellness encounter (Well child visit (procedure)) from 2021-01-08T08:26:20Z to 2021-01-08T08:41:20Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a wellness encounter (Well child visit (procedure)) from 2021-03-12T08:26:20Z to 2021-03-12T08:41:20Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a wellness encounter (Well child visit (procedure)) from 2021-05-14T08:26:20Z to 2021-05-14T08:41:20Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a ambulatory encounter (Encounter for symptom (procedure)) from 2021-07-04T08:26:20Z to 2021-07-04T09:49:52Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a wellness encounter (Well child visit (procedure)) from 2021-08-13T08:26:20Z to 2021-08-13T08:41:20Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a wellness encounter (Well child visit (procedure)) from 2021-11-12T08:26:20Z to 2021-11-12T08:41:20Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient on care plan: Infectious disease care plan (record artifact) starting 2021-07-04 until 2021-07-04 for Suspected COVID-19.",
+    "type": "careplan"
+  },
+  {
+    "text": "Patient on care plan: Infectious disease care plan (record artifact) starting 2021-07-04 until 2021-07-30 for COVID-19.",
+    "type": "careplan"
+  },
+  {
+    "text": "Patient underwent procedure: Medication Reconciliation (procedure) on 2020-12-04T08:26:20Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Medication Reconciliation (procedure) on 2021-05-14T08:26:20Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Face mask (physical object) on 2021-07-04T08:26:20Z for Suspected COVID-19.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Medication Reconciliation (procedure) on 2021-08-13T08:26:20Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient received immunization: Hep B  adolescent or pediatric on 2020-12-04T08:26:20Z.",
+    "type": "immunization"
+  },
+  {
+    "text": "Patient received immunization: Hep B  adolescent or pediatric on 2021-01-08T08:26:20Z.",
+    "type": "immunization"
+  },
+  {
+    "text": "Patient received immunization: Hib (PRP-OMP) on 2021-03-12T08:26:20Z.",
+    "type": "immunization"
+  },
+  {
+    "text": "Patient received immunization: rotavirus  monovalent on 2021-03-12T08:26:20Z.",
+    "type": "immunization"
+  },
+  {
+    "text": "Patient received immunization: IPV on 2021-03-12T08:26:20Z.",
+    "type": "immunization"
+  },
+  {
+    "text": "Patient received immunization: DTaP on 2021-03-12T08:26:20Z.",
+    "type": "immunization"
+  },
+  {
+    "text": "Patient received immunization: Pneumococcal conjugate PCV 13 on 2021-03-12T08:26:20Z.",
+    "type": "immunization"
+  },
+  {
+    "text": "Patient received immunization: Hib (PRP-OMP) on 2021-05-14T08:26:20Z.",
+    "type": "immunization"
+  },
+  {
+    "text": "Patient received immunization: rotavirus  monovalent on 2021-05-14T08:26:20Z.",
+    "type": "immunization"
+  },
+  {
+    "text": "Patient received immunization: IPV on 2021-05-14T08:26:20Z.",
+    "type": "immunization"
+  },
+  {
+    "text": "Patient received immunization: DTaP on 2021-05-14T08:26:20Z.",
+    "type": "immunization"
+  },
+  {
+    "text": "Patient received immunization: Pneumococcal conjugate PCV 13 on 2021-05-14T08:26:20Z.",
+    "type": "immunization"
+  },
+  {
+    "text": "Patient received immunization: IPV on 2021-08-13T08:26:20Z.",
+    "type": "immunization"
+  },
+  {
+    "text": "Patient received immunization: Influenza  seasonal  injectable  preservative free on 2021-08-13T08:26:20Z.",
+    "type": "immunization"
+  },
+  {
+    "text": "Patient received immunization: DTaP on 2021-08-13T08:26:20Z.",
+    "type": "immunization"
+  },
+  {
+    "text": "Patient received immunization: Pneumococcal conjugate PCV 13 on 2021-08-13T08:26:20Z.",
+    "type": "immunization"
+  },
+  {
+    "text": "Patient received immunization: Hep B  adolescent or pediatric on 2021-08-13T08:26:20Z.",
+    "type": "immunization"
+  },
+  {
+    "text": "Patient insurance: Tia76 Orn563 (ownership: Guardian) from 2020-12-11T08:26:20Z to 2021-12-11T08:26:20Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient observation \u2014 Body Height (vital-signs): 49.8 cm on 2020-12-04T08:26:20Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Pain severity - 0-10 verbal numeric rating [Score] - Reported (vital-signs): 2.0 {score} on 2020-12-04T08:26:20Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Body Weight (vital-signs): 3.8 kg on 2020-12-04T08:26:20Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Weight-for-length Per age and sex (vital-signs): 79.9 % on 2020-12-04T08:26:20Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Head Occipital-frontal circumference (vital-signs): 33.5 cm on 2020-12-04T08:26:20Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Diastolic Blood Pressure (vital-signs): 81.0 mm[Hg] on 2020-12-04T08:26:20Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Systolic Blood Pressure (vital-signs): 104.0 mm[Hg] on 2020-12-04T08:26:20Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Heart rate (vital-signs): 88.0 /min on 2020-12-04T08:26:20Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Respiratory rate (vital-signs): 13.0 /min on 2020-12-04T08:26:20Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Leukocytes [#/volume] in Blood by Automated count (laboratory): 5.1 10*3/uL on 2020-12-04T08:26:20Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Erythrocytes [#/volume] in Blood by Automated count (laboratory): 5.0 10*6/uL on 2020-12-04T08:26:20Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Hemoglobin [Mass/volume] in Blood (laboratory): 12.8 g/dL on 2020-12-04T08:26:20Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Hematocrit [Volume Fraction] of Blood by Automated count (laboratory): 43.0 % on 2020-12-04T08:26:20Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 MCV [Entitic volume] by Automated count (laboratory): 88.6 fL on 2020-12-04T08:26:20Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 MCH [Entitic mass] by Automated count (laboratory): 27.6 pg on 2020-12-04T08:26:20Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 MCHC [Mass/volume] by Automated count (laboratory): 35.6 g/dL on 2020-12-04T08:26:20Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Erythrocyte distribution width [Entitic volume] by Automated count (laboratory): 41.0 fL on 2020-12-04T08:26:20Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Platelets [#/volume] in Blood by Automated count (laboratory): 308.7 10*3/uL on 2020-12-04T08:26:20Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Platelet distribution width [Entitic volume] in Blood by Automated count (laboratory): 203.2 fL on 2020-12-04T08:26:20Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Platelet mean volume [Entitic volume] in Blood by Automated count (laboratory): 11.8 fL on 2020-12-04T08:26:20Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Tobacco smoking status NHIS (survey): Never smoker on 2020-12-04T08:26:20Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Body Height (vital-signs): 53.4 cm on 2021-01-08T08:26:20Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Pain severity - 0-10 verbal numeric rating [Score] - Reported (vital-signs): 0.0 {score} on 2021-01-08T08:26:20Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Body Weight (vital-signs): 4.5 kg on 2021-01-08T08:26:20Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Weight-for-length Per age and sex (vital-signs): 76.2 % on 2021-01-08T08:26:20Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Head Occipital-frontal circumference (vital-signs): 36.9 cm on 2021-01-08T08:26:20Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Diastolic Blood Pressure (vital-signs): 89.0 mm[Hg] on 2021-01-08T08:26:20Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Systolic Blood Pressure (vital-signs): 134.0 mm[Hg] on 2021-01-08T08:26:20Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Heart rate (vital-signs): 81.0 /min on 2021-01-08T08:26:20Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Respiratory rate (vital-signs): 12.0 /min on 2021-01-08T08:26:20Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Tobacco smoking status NHIS (survey): Never smoker on 2021-01-08T08:26:20Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Body Height (vital-signs): 58.5 cm on 2021-03-12T08:26:20Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Pain severity - 0-10 verbal numeric rating [Score] - Reported (vital-signs): 0.0 {score} on 2021-03-12T08:26:20Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Body Weight (vital-signs): 5.9 kg on 2021-03-12T08:26:20Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Weight-for-length Per age and sex (vital-signs): 64.8 % on 2021-03-12T08:26:20Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Head Occipital-frontal circumference (vital-signs): 39.4 cm on 2021-03-12T08:26:20Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Diastolic Blood Pressure (vital-signs): 79.0 mm[Hg] on 2021-03-12T08:26:20Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Systolic Blood Pressure (vital-signs): 126.0 mm[Hg] on 2021-03-12T08:26:20Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Heart rate (vital-signs): 81.0 /min on 2021-03-12T08:26:20Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Respiratory rate (vital-signs): 14.0 /min on 2021-03-12T08:26:20Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Tobacco smoking status NHIS (survey): Never smoker on 2021-03-12T08:26:20Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Body Height (vital-signs): 62.3 cm on 2021-05-14T08:26:20Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Pain severity - 0-10 verbal numeric rating [Score] - Reported (vital-signs): 1.0 {score} on 2021-05-14T08:26:20Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Body Weight (vital-signs): 7.0 kg on 2021-05-14T08:26:20Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Weight-for-length Per age and sex (vital-signs): 80.4 % on 2021-05-14T08:26:20Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Head Occipital-frontal circumference (vital-signs): 41.1 cm on 2021-05-14T08:26:20Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Diastolic Blood Pressure (vital-signs): 86.0 mm[Hg] on 2021-05-14T08:26:20Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Systolic Blood Pressure (vital-signs): 120.0 mm[Hg] on 2021-05-14T08:26:20Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Heart rate (vital-signs): 95.0 /min on 2021-05-14T08:26:20Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Respiratory rate (vital-signs): 14.0 /min on 2021-05-14T08:26:20Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Tobacco smoking status NHIS (survey): Never smoker on 2021-05-14T08:26:20Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Body temperature (vital-signs): 38.9 Cel on 2021-07-04T08:26:20Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Respiratory rate (vital-signs): 36.9 /min on 2021-07-04T08:26:20Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Heart rate (vital-signs): 158.4 /min on 2021-07-04T08:26:20Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Oxygen saturation in Arterial blood (vital-signs): 82.3 % on 2021-07-04T08:26:20Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Diastolic Blood Pressure (vital-signs): 85.0 mm[Hg] on 2021-07-04T08:26:20Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Systolic Blood Pressure (vital-signs): 110.0 mm[Hg] on 2021-07-04T08:26:20Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Body Weight (vital-signs): 7.9 kg on 2021-07-04T08:26:20Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Influenza virus A RNA [Presence] in Respiratory specimen by NAA with probe detection (laboratory): Negative (qualifier value) on 2021-07-04T08:37:49Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Influenza virus B RNA [Presence] in Respiratory specimen by NAA with probe detection (laboratory): Negative (qualifier value) on 2021-07-04T08:37:49Z.",
+    "type": "observation"
+  }
+]

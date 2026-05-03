@@ -1,0 +1,1098 @@
+[
+  {
+    "text": "Patient diagnosed with Received certificate of high school equivalency (finding) starting 1976-11-11 (ongoing).",
+    "type": "condition"
+  },
+  {
+    "text": "Patient diagnosed with Full-time employment (finding) starting 1976-11-11 until 1977-11-17.",
+    "type": "condition"
+  },
+  {
+    "text": "Patient diagnosed with Stress (finding) starting 1976-11-11 until 1977-11-17.",
+    "type": "condition"
+  },
+  {
+    "text": "Patient diagnosed with Chronic sinusitis (disorder) starting 1981-09-15 (ongoing).",
+    "type": "condition"
+  },
+  {
+    "text": "Patient diagnosed with Stress (finding) starting 1986-11-27 until 1989-11-30.",
+    "type": "condition"
+  },
+  {
+    "text": "Patient diagnosed with Has a criminal record (finding) starting 1986-11-27 (ongoing).",
+    "type": "condition"
+  },
+  {
+    "text": "Patient diagnosed with Prediabetes starting 1989-11-29 (ongoing).",
+    "type": "condition"
+  },
+  {
+    "text": "Patient diagnosed with Anemia (disorder) starting 1992-12-02 (ongoing).",
+    "type": "condition"
+  },
+  {
+    "text": "Patient diagnosed with Full-time employment (finding) starting 1992-12-02 until 1995-12-07.",
+    "type": "condition"
+  },
+  {
+    "text": "Patient diagnosed with Stress (finding) starting 1992-12-02 until 1995-12-07.",
+    "type": "condition"
+  },
+  {
+    "text": "Patient diagnosed with Part-time employment (finding) starting 1998-09-24 until 2000-09-28.",
+    "type": "condition"
+  },
+  {
+    "text": "Patient diagnosed with Limited social contact (finding) starting 1998-09-24 until 2009-09-24.",
+    "type": "condition"
+  },
+  {
+    "text": "Patient diagnosed with Full-time employment (finding) starting 2000-09-28 until 2002-10-03.",
+    "type": "condition"
+  },
+  {
+    "text": "Patient diagnosed with Stress (finding) starting 2000-09-28 until 2004-10-07.",
+    "type": "condition"
+  },
+  {
+    "text": "Patient diagnosed with Part-time employment (finding) starting 2002-10-03 until 2004-10-07.",
+    "type": "condition"
+  },
+  {
+    "text": "Patient diagnosed with Unhealthy alcohol drinking behavior (finding) starting 2002-10-03 until 2008-09-18.",
+    "type": "condition"
+  },
+  {
+    "text": "Patient diagnosed with Acute viral pharyngitis (disorder) starting 2003-01-21 until 2003-02-02.",
+    "type": "condition"
+  },
+  {
+    "text": "Patient diagnosed with Full-time employment (finding) starting 2004-10-07 until 2006-10-12.",
+    "type": "condition"
+  },
+  {
+    "text": "Patient diagnosed with Reports of violence in the environment (finding) starting 2004-10-07 until 2006-10-12.",
+    "type": "condition"
+  },
+  {
+    "text": "Patient diagnosed with Severe anxiety (panic) (finding starting 2004-10-07 until 2008-09-18.",
+    "type": "condition"
+  },
+  {
+    "text": "Patient diagnosed with Bleeding from anus starting 2006-01-26 (ongoing).",
+    "type": "condition"
+  },
+  {
+    "text": "Patient diagnosed with Protracted diarrhea starting 2006-01-26 (ongoing).",
+    "type": "condition"
+  },
+  {
+    "text": "Patient diagnosed with Secondary malignant neoplasm of colon starting 2006-02-05 (ongoing).",
+    "type": "condition"
+  },
+  {
+    "text": "Patient diagnosed with Fracture of forearm starting 2006-06-01 until 2006-07-31.",
+    "type": "condition"
+  },
+  {
+    "text": "Patient diagnosed with Part-time employment (finding) starting 2006-10-12 until 2008-09-18.",
+    "type": "condition"
+  },
+  {
+    "text": "Patient diagnosed with Not in labor force (finding) starting 2008-09-18 until 2009-09-24.",
+    "type": "condition"
+  },
+  {
+    "text": "Patient diagnosed with Full-time employment (finding) starting 2009-09-24 (ongoing).",
+    "type": "condition"
+  },
+  {
+    "text": "Patient diagnosed with Stress (finding) starting 2009-09-24 (ongoing).",
+    "type": "condition"
+  },
+  {
+    "text": "Patient prescribed Estrostep Fe 28 Day Pack starting 1999-03-03T00:52:31Z until 2000-02-26T00:52:31Z.",
+    "type": "medication"
+  },
+  {
+    "text": "Patient prescribed Estrostep Fe 28 Day Pack starting 2002-02-15T00:52:31Z until 2003-02-10T00:52:31Z.",
+    "type": "medication"
+  },
+  {
+    "text": "Patient prescribed Mirena 52 MG Intrauterine System starting 2003-02-10T00:52:31Z until 2004-02-09T07:40:12Z.",
+    "type": "medication"
+  },
+  {
+    "text": "Patient prescribed Yaz 28 Day Pack starting 2004-02-09T07:40:12Z until 2005-02-03T07:40:12Z.",
+    "type": "medication"
+  },
+  {
+    "text": "Patient prescribed Mirena 52 MG Intrauterine System starting 2005-02-03T07:40:12Z until 2006-02-03T00:24:30Z.",
+    "type": "medication"
+  },
+  {
+    "text": "Patient prescribed Estrostep Fe 28 Day Pack starting 2006-02-03T00:24:30Z until 2007-01-29T00:24:30Z.",
+    "type": "medication"
+  },
+  {
+    "text": "Patient prescribed Leucovorin 100 MG Injection starting 2006-03-11T09:56:43Z (ongoing) for Secondary malignant neoplasm of colon.",
+    "type": "medication"
+  },
+  {
+    "text": "Patient prescribed 10 ML oxaliplatin 5 MG/ML Injection starting 2006-03-11T09:56:43Z (ongoing) for Secondary malignant neoplasm of colon.",
+    "type": "medication"
+  },
+  {
+    "text": "Patient prescribed Ibuprofen 200 MG Oral Tablet starting 2006-06-01T05:46:31Z until 2006-07-31T05:46:31Z.",
+    "type": "medication"
+  },
+  {
+    "text": "Patient prescribed Yaz 28 Day Pack starting 2007-01-29T00:24:30Z until 2008-01-24T00:24:30Z.",
+    "type": "medication"
+  },
+  {
+    "text": "Patient prescribed Seasonique 91 Day Pack starting 2008-01-24T00:24:30Z until 2009-01-18T00:24:30Z.",
+    "type": "medication"
+  },
+  {
+    "text": "Patient had a ambulatory encounter (Encounter for problem) from 1959-12-22T03:22:51Z to 1959-12-22T03:37:51Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a ambulatory encounter (Encounter for problem) from 1960-01-05T08:22:51Z to 1960-01-05T08:37:51Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a wellness encounter (General examination of patient (procedure)) from 1976-11-11T04:22:51Z to 1976-11-11T04:37:51Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a ambulatory encounter (Encounter for symptom) from 1981-09-15T14:22:51Z to 1981-09-15T14:37:51Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a wellness encounter (General examination of patient (procedure)) from 1986-11-27T04:22:51Z to 1986-11-27T04:37:51Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a wellness encounter (General examination of patient (procedure)) from 1989-11-30T04:22:51Z to 1989-11-30T04:37:51Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a wellness encounter (General examination of patient (procedure)) from 1992-12-03T04:22:51Z to 1992-12-03T04:37:51Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a ambulatory encounter (Encounter for problem) from 1992-12-03T04:22:51Z to 1992-12-03T04:37:51Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a wellness encounter (General examination of patient (procedure)) from 1998-09-24T04:22:51Z to 1998-09-24T04:37:51Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a outpatient encounter (Consultation for treatment) from 1999-03-03T00:52:31Z to 1999-03-03T01:07:31Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a outpatient encounter (Patient encounter procedure) from 2000-03-23T04:22:51Z to 2000-03-23T05:27:37Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a wellness encounter (General examination of patient (procedure)) from 2000-09-28T04:22:51Z to 2000-09-28T04:37:51Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a outpatient encounter (Consultation for treatment) from 2002-02-15T00:52:31Z to 2002-02-15T01:07:31Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a wellness encounter (General examination of patient (procedure)) from 2002-10-03T04:22:51Z to 2002-10-03T04:37:51Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a ambulatory encounter (Encounter for symptom) from 2003-01-21T11:22:51Z to 2003-01-21T11:37:51Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a outpatient encounter (Consultation for treatment) from 2003-02-10T00:52:31Z to 2003-02-10T01:07:31Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a outpatient encounter (Patient encounter procedure) from 2003-02-14T06:52:31Z to 2003-02-14T07:40:12Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a outpatient encounter (Consultation for treatment) from 2004-02-09T07:40:12Z to 2004-02-09T07:55:12Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a outpatient encounter (Patient encounter procedure) from 2004-03-25T04:22:51Z to 2004-03-25T05:25:25Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a wellness encounter (General examination of patient (procedure)) from 2004-10-07T04:22:51Z to 2004-10-07T04:37:51Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a outpatient encounter (Consultation for treatment) from 2005-02-03T07:40:12Z to 2005-02-03T07:55:12Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a outpatient encounter (Patient encounter procedure) from 2005-02-07T23:40:12Z to 2005-02-08T00:24:30Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a ambulatory encounter (Encounter for symptom) from 2006-01-27T04:22:51Z to 2006-01-27T04:37:51Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a ambulatory encounter (Encounter for 'check-up') from 2006-01-30T22:22:51Z to 2006-01-30T22:56:43Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a urgentcare encounter (Urgent care clinic (procedure)) from 2006-02-09T04:22:51Z to 2006-02-09T04:37:51Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a ambulatory encounter (Encounter for problem) from 2006-02-05T21:56:43Z to 2006-02-05T22:11:43Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a outpatient encounter (Consultation for treatment) from 2006-02-03T00:24:30Z to 2006-02-03T00:39:30Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a inpatient encounter (Encounter for problem) from 2006-02-18T21:56:43Z to 2006-02-19T21:56:43Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a ambulatory encounter (Encounter for problem) from 2006-03-11T09:56:43Z to 2006-03-11T10:11:43Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a ambulatory encounter (Encounter for problem) from 2006-04-09T11:56:43Z to 2006-04-09T12:11:43Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a ambulatory encounter (Encounter for problem) from 2006-05-12T01:56:43Z to 2006-05-12T02:11:43Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a emergency encounter (Emergency room admission (procedure)) from 2006-06-01T05:26:03Z to 2006-06-01T06:26:03Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a ambulatory encounter (Encounter for problem) from 2006-06-13T07:56:43Z to 2006-06-13T08:11:43Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a ambulatory encounter (Encounter for problem) from 2006-07-12T17:56:43Z to 2006-07-12T18:11:43Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a ambulatory encounter (Encounter for 'check-up') from 2006-07-31T05:46:31Z to 2006-07-31T06:01:31Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a ambulatory encounter (Encounter for problem) from 2006-08-11T12:56:43Z to 2006-08-11T13:11:43Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a wellness encounter (General examination of patient (procedure)) from 2006-10-12T04:22:51Z to 2006-10-12T04:37:51Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a outpatient encounter (Consultation for treatment) from 2007-01-29T00:24:30Z to 2007-01-29T00:39:30Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a outpatient encounter (Consultation for treatment) from 2008-01-24T00:24:30Z to 2008-01-24T00:39:30Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a outpatient encounter (Patient encounter procedure) from 2008-03-27T04:22:51Z to 2008-03-27T05:36:46Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a wellness encounter (General examination of patient (procedure)) from 2008-09-18T04:22:51Z to 2008-09-18T04:37:51Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a outpatient encounter (Patient encounter procedure) from 2009-01-29T04:22:51Z to 2009-01-29T04:43:50Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a wellness encounter (General examination of patient (procedure)) from 2009-09-24T04:22:51Z to 2009-09-24T04:37:51Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a wellness encounter (Death Certification) from 2009-11-19T04:22:51Z to 2009-11-19T04:37:51Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient has allergy to Mold (organism) (category: environment, type: allergy), noted 1960-01-05 (ongoing).",
+    "type": "allergy"
+  },
+  {
+    "text": "Patient has allergy to House dust mite (organism) (category: environment, type: allergy), noted 1960-01-05 (ongoing).",
+    "type": "allergy"
+  },
+  {
+    "text": "Patient has allergy to Animal dander (substance) (category: environment, type: allergy), noted 1960-01-05 (ongoing).",
+    "type": "allergy"
+  },
+  {
+    "text": "Patient has allergy to Shellfish (substance) (category: food, type: allergy) (reaction: Eruption of skin (disorder)) \u2014 severity: MODERATE, noted 1960-01-05 (ongoing).",
+    "type": "allergy"
+  },
+  {
+    "text": "Patient on care plan: Self-care interventions (procedure) starting 1959-12-21 (ongoing).",
+    "type": "careplan"
+  },
+  {
+    "text": "Patient on care plan: Diabetes self management plan starting 1989-11-29 (ongoing) for Prediabetes.",
+    "type": "careplan"
+  },
+  {
+    "text": "Patient on care plan: Cancer care plan starting 2006-02-05 (ongoing) for Secondary malignant neoplasm of colon.",
+    "type": "careplan"
+  },
+  {
+    "text": "Patient on care plan: Major surgery care management starting 2006-02-18 until 2006-02-28 for Secondary malignant neoplasm of colon.",
+    "type": "careplan"
+  },
+  {
+    "text": "Patient on care plan: Fracture care starting 2006-06-01 until 2006-07-31 for Fracture of forearm.",
+    "type": "careplan"
+  },
+  {
+    "text": "Patient underwent procedure: Removal of subcutaneous contraceptive on 2000-03-23T04:22:51Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Insertion of subcutaneous contraceptive on 2000-03-23T04:53:35Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Assessment of health and social care needs (procedure) on 2000-09-28T04:22:51Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Assessment of anxiety (procedure) on 2000-09-28T05:07:34Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Depression screening (procedure) on 2000-09-28T05:35:11Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Depression screening using Patient Health Questionnaire Two-Item score (procedure) on 2000-09-28T05:48:32Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Assessment of health and social care needs (procedure) on 2002-10-03T04:22:51Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Screening for domestic abuse (procedure) on 2002-10-03T05:17:49Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Depression screening (procedure) on 2002-10-03T05:53:35Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Depression screening using Patient Health Questionnaire Two-Item score (procedure) on 2002-10-03T06:05:29Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Assessment of substance use (procedure) on 2002-10-03T06:31:14Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) on 2002-10-03T06:42:59Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Insertion of intrauterine contraceptive device on 2003-02-14T06:52:31Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Removal of subcutaneous contraceptive on 2004-03-25T04:22:51Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Insertion of subcutaneous contraceptive on 2004-03-25T04:46:03Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Assessment of health and social care needs (procedure) on 2004-10-07T04:22:51Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Assessment of anxiety (procedure) on 2004-10-07T05:14:59Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Depression screening (procedure) on 2004-10-07T05:32:30Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Depression screening using Patient Health Questionnaire Two-Item score (procedure) on 2004-10-07T05:47:17Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Insertion of intrauterine contraceptive device on 2005-02-07T23:40:12Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Colonoscopy on 2006-01-30T22:22:51Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Construction of diverting colostomy on 2006-02-18T21:56:43Z for Secondary malignant neoplasm of colon.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Combined chemotherapy and radiation therapy (procedure) on 2006-03-11T09:56:43Z for Secondary malignant neoplasm of colon.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Combined chemotherapy and radiation therapy (procedure) on 2006-04-09T11:56:43Z for Secondary malignant neoplasm of colon.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Combined chemotherapy and radiation therapy (procedure) on 2006-05-12T01:56:43Z for Secondary malignant neoplasm of colon.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Upper arm X-ray on 2006-06-01T05:26:03Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Bone immobilization on 2006-06-01T05:26:03Z for Fracture of forearm.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Combined chemotherapy and radiation therapy (procedure) on 2006-06-13T07:56:43Z for Secondary malignant neoplasm of colon.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Combined chemotherapy and radiation therapy (procedure) on 2006-07-12T17:56:43Z for Secondary malignant neoplasm of colon.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Combined chemotherapy and radiation therapy (procedure) on 2006-08-11T12:56:43Z for Secondary malignant neoplasm of colon.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Assessment of health and social care needs (procedure) on 2006-10-12T04:22:51Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Medication Reconciliation (procedure) on 2006-10-12T04:22:51Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Depression screening (procedure) on 2006-10-12T05:21:21Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Depression screening using Patient Health Questionnaire Two-Item score (procedure) on 2006-10-12T05:32:32Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Assessment of substance use (procedure) on 2006-10-12T05:58:36Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Screening for drug abuse (procedure) on 2006-10-12T06:08:59Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Removal of subcutaneous contraceptive on 2008-03-27T04:22:51Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Insertion of subcutaneous contraceptive on 2008-03-27T05:02:38Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Assessment of health and social care needs (procedure) on 2008-09-18T04:22:51Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Assessment of anxiety (procedure) on 2008-09-18T05:08:49Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Screening for domestic abuse (procedure) on 2008-09-18T05:31:45Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Depression screening (procedure) on 2008-09-18T06:07:02Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Depression screening using Patient Health Questionnaire Two-Item score (procedure) on 2008-09-18T06:20:43Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Assessment of substance use (procedure) on 2008-09-18T06:42:29Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) on 2008-09-18T06:56:05Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Removal of subcutaneous contraceptive on 2009-01-29T04:22:51Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Assessment of health and social care needs (procedure) on 2009-09-24T04:22:51Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Medication Reconciliation (procedure) on 2009-09-24T04:22:51Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Assessment of anxiety (procedure) on 2009-09-24T05:05:16Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Depression screening (procedure) on 2009-09-24T05:29:52Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Depression screening using Patient Health Questionnaire Two-Item score (procedure) on 2009-09-24T05:42:26Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient received immunization: Influenza  seasonal  injectable  preservative free on 2000-09-28T04:22:51Z.",
+    "type": "immunization"
+  },
+  {
+    "text": "Patient received immunization: Td (adult) preservative free on 2000-09-28T04:22:51Z.",
+    "type": "immunization"
+  },
+  {
+    "text": "Patient received immunization: Hep A  adult on 2000-09-28T04:22:51Z.",
+    "type": "immunization"
+  },
+  {
+    "text": "Patient received immunization: Influenza  seasonal  injectable  preservative free on 2002-10-03T04:22:51Z.",
+    "type": "immunization"
+  },
+  {
+    "text": "Patient received immunization: Influenza  seasonal  injectable  preservative free on 2004-10-07T04:22:51Z.",
+    "type": "immunization"
+  },
+  {
+    "text": "Patient received immunization: Influenza  seasonal  injectable  preservative free on 2006-02-09T04:22:51Z.",
+    "type": "immunization"
+  },
+  {
+    "text": "Patient received immunization: Influenza  seasonal  injectable  preservative free on 2006-10-12T04:22:51Z.",
+    "type": "immunization"
+  },
+  {
+    "text": "Patient received immunization: zoster on 2008-09-18T04:22:51Z.",
+    "type": "immunization"
+  },
+  {
+    "text": "Patient received immunization: Influenza  seasonal  injectable  preservative free on 2008-09-18T04:22:51Z.",
+    "type": "immunization"
+  },
+  {
+    "text": "Patient received immunization: zoster on 2009-09-24T04:22:51Z.",
+    "type": "immunization"
+  },
+  {
+    "text": "Patient received immunization: Influenza  seasonal  injectable  preservative free on 2009-09-24T04:22:51Z.",
+    "type": "immunization"
+  },
+  {
+    "text": "Patient received immunization: Td (adult) preservative free on 2009-09-24T04:22:51Z.",
+    "type": "immunization"
+  },
+  {
+    "text": "Patient had imaging study: Digital Radiography of Arm on 2006-06-01T05:26:03Z.",
+    "type": "imaging_study"
+  },
+  {
+    "text": "Patient insurance: Germaine912 Stark857 (ownership: Guardian) from 1958-09-25T04:22:51Z to 1959-10-01T04:22:51Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Roscoe437 Blanda868 (ownership: Guardian) from 1959-10-01T04:22:51Z to 1960-10-06T04:22:51Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Roscoe437 Blanda868 (ownership: Guardian) from 1960-10-06T04:22:51Z to 1961-10-12T04:22:51Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Germaine912 Stark857 (ownership: Guardian) from 1961-10-12T04:22:51Z to 1962-10-18T04:22:51Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Germaine912 Stark857 (ownership: Guardian) from 1962-10-18T04:22:51Z to 1963-10-24T04:22:51Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Germaine912 Stark857 (ownership: Guardian) from 1963-10-24T04:22:51Z to 1964-10-29T04:22:51Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Roscoe437 Blanda868 (ownership: Guardian) from 1964-10-29T04:22:51Z to 1965-11-04T04:22:51Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Germaine912 Stark857 (ownership: Guardian) from 1965-11-04T04:22:51Z to 1966-11-10T04:22:51Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Roscoe437 Blanda868 (ownership: Guardian) from 1966-11-10T04:22:51Z to 1967-11-16T04:22:51Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Roscoe437 Blanda868 (ownership: Guardian) from 1967-11-16T04:22:51Z to 1968-11-21T04:22:51Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Germaine912 Stark857 (ownership: Guardian) from 1968-11-21T04:22:51Z to 1969-11-27T04:22:51Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Germaine912 Stark857 (ownership: Guardian) from 1969-11-27T04:22:51Z to 1970-12-03T04:22:51Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Germaine912 Stark857 (ownership: Guardian) from 1970-12-03T04:22:51Z to 1971-12-09T04:22:51Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Germaine912 Stark857 (ownership: Guardian) from 1971-12-09T04:22:51Z to 1972-12-14T04:22:51Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Germaine912 Stark857 (ownership: Guardian) from 1972-12-14T04:22:51Z to 1973-12-20T04:22:51Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Roscoe437 Blanda868 (ownership: Guardian) from 1973-12-20T04:22:51Z to 1974-12-26T04:22:51Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Germaine912 Stark857 (ownership: Guardian) from 1974-12-26T04:22:51Z to 1976-01-01T04:22:51Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Germaine912 Stark857 (ownership: Guardian) from 1976-01-01T04:22:51Z to 1977-01-06T04:22:51Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Maddie576 Blanda868 (ownership: Self) from 1977-01-06T04:22:51Z to 1978-01-12T04:22:51Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Maddie576 Blanda868 (ownership: Self) from 1978-01-12T04:22:51Z to 1978-12-07T04:22:51Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance:  (ownership: ) from 1978-12-07T04:22:51Z to 1979-07-05T04:22:51Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance:  (ownership: ) from 1979-07-05T04:22:51Z to 1980-07-10T04:22:51Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Maddie576 Blanda868 (ownership: Self) from 1980-07-10T04:22:51Z to 1981-07-16T04:22:51Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Maddie576 Blanda868 (ownership: Self) from 1981-07-16T04:22:51Z to 1982-07-22T04:22:51Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Maddie576 Blanda868 (ownership: Self) from 1982-07-22T04:22:51Z to 1983-07-28T04:22:51Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Maddie576 Blanda868 (ownership: Self) from 1983-07-28T04:22:51Z to 1984-08-02T04:22:51Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Maddie576 Blanda868 (ownership: Self) from 1984-08-02T04:22:51Z to 1985-08-08T04:22:51Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Maddie576 Blanda868 (ownership: Self) from 1985-08-08T04:22:51Z to 1986-08-14T04:22:51Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Maddie576 Gutmann970 (ownership: Self) from 1986-08-14T04:22:51Z to 1987-08-20T04:22:51Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Maddie576 Gutmann970 (ownership: Self) from 1987-08-20T04:22:51Z to 1988-08-25T04:22:51Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Maddie576 Gutmann970 (ownership: Self) from 1988-08-25T04:22:51Z to 1989-08-31T04:22:51Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Mr. Gutmann970 (ownership: Spouse) from 1989-08-31T04:22:51Z to 1990-07-05T04:22:51Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance:  (ownership: ) from 1990-07-05T04:22:51Z to 1990-11-01T04:22:51Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance:  (ownership: ) from 1990-11-01T04:22:51Z to 1991-03-07T04:22:51Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance:  (ownership: ) from 1991-03-07T04:22:51Z to 1991-07-04T04:22:51Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance:  (ownership: ) from 1991-07-04T04:22:51Z to 1991-12-05T04:22:51Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance:  (ownership: ) from 1991-12-05T04:22:51Z to 1992-06-04T04:22:51Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance:  (ownership: ) from 1992-06-04T04:22:51Z to 1992-12-03T04:22:51Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance:  (ownership: ) from 1992-12-03T04:22:51Z to 1993-05-06T04:22:51Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance:  (ownership: ) from 1993-05-06T04:22:51Z to 1993-08-05T04:22:51Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance:  (ownership: ) from 1993-08-05T04:22:51Z to 1993-12-02T04:22:51Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance:  (ownership: ) from 1993-12-02T04:22:51Z to 1994-12-08T04:22:51Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Maddie576 Gutmann970 (ownership: Self) from 1994-12-08T04:22:51Z to 1995-12-14T04:22:51Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Mr. Gutmann970 (ownership: Spouse) from 1995-12-14T04:22:51Z to 1996-12-19T04:22:51Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Maddie576 Gutmann970 (ownership: Self) from 1996-12-19T04:22:51Z to 1997-12-25T04:22:51Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Mr. Gutmann970 (ownership: Spouse) from 1997-12-25T04:22:51Z to 1998-12-31T04:22:51Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Mr. Gutmann970 (ownership: Spouse) from 1998-12-31T04:22:51Z to 2000-01-06T04:22:51Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Mr. Gutmann970 (ownership: Spouse) from 2000-01-06T04:22:51Z to 2001-01-11T04:22:51Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Mr. Gutmann970 (ownership: Spouse) from 2001-01-11T04:22:51Z to 2002-01-17T04:22:51Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Mr. Gutmann970 (ownership: Spouse) from 2002-01-17T04:22:51Z to 2003-01-23T04:22:51Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Mr. Gutmann970 (ownership: Spouse) from 2003-01-23T04:22:51Z to 2004-01-29T04:22:51Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Mr. Gutmann970 (ownership: Spouse) from 2004-01-29T04:22:51Z to 2005-02-03T04:22:51Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Mr. Gutmann970 (ownership: Spouse) from 2005-02-03T04:22:51Z to 2006-02-09T04:22:51Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Mr. Gutmann970 (ownership: Spouse) from 2006-02-09T04:22:51Z to 2006-05-04T04:22:51Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance:  (ownership: ) from 2006-05-04T04:22:51Z to 2007-05-10T04:22:51Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Mr. Gutmann970 (ownership: Spouse) from 2007-05-10T04:22:51Z to 2008-05-15T04:22:51Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Maddie576 Gutmann970 (ownership: Self) from 2008-05-15T04:22:51Z to 2009-05-21T04:22:51Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Maddie576 Gutmann970 (ownership: Self) from 2009-05-21T04:22:51Z to 2010-05-21T04:22:51Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient observation \u2014 Body Height (vital-signs): 155.4 cm on 2000-09-28T04:22:51Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Pain severity - 0-10 verbal numeric rating [Score] - Reported (vital-signs): 1.0 {score} on 2000-09-28T04:22:51Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Body Weight (vital-signs): 67.5 kg on 2000-09-28T04:22:51Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Body Mass Index (vital-signs): 28.0 kg/m2 on 2000-09-28T04:22:51Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Diastolic Blood Pressure (vital-signs): 74.0 mm[Hg] on 2000-09-28T04:22:51Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Systolic Blood Pressure (vital-signs): 110.0 mm[Hg] on 2000-09-28T04:22:51Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Heart rate (vital-signs): 76.0 /min on 2000-09-28T04:22:51Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Respiratory rate (vital-signs): 15.0 /min on 2000-09-28T04:22:51Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Glucose (laboratory): 95.7 mg/dL on 2000-09-28T04:22:51Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Urea Nitrogen (laboratory): 10.7 mg/dL on 2000-09-28T04:22:51Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Creatinine (laboratory): 1.0 mg/dL on 2000-09-28T04:22:51Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Calcium (laboratory): 8.7 mg/dL on 2000-09-28T04:22:51Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Sodium (laboratory): 138.8 mmol/L on 2000-09-28T04:22:51Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Potassium (laboratory): 5.0 mmol/L on 2000-09-28T04:22:51Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Chloride (laboratory): 104.3 mmol/L on 2000-09-28T04:22:51Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Carbon Dioxide (laboratory): 27.7 mmol/L on 2000-09-28T04:22:51Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Total Cholesterol (laboratory): 167.2 mg/dL on 2000-09-28T04:22:51Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Triglycerides (laboratory): 134.6 mg/dL on 2000-09-28T04:22:51Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Low Density Lipoprotein Cholesterol (laboratory): 75.2 mg/dL on 2000-09-28T04:22:51Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 High Density Lipoprotein Cholesterol (laboratory): 65.1 mg/dL on 2000-09-28T04:22:51Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Tobacco smoking status NHIS (survey): Former smoker on 2000-09-28T04:22:51Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Hemoglobin A1c/Hemoglobin.total in Blood (laboratory): 6.2 % on 2000-09-28T04:22:51Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 In the past year  have you been afraid of your partner or ex-partner? (survey): No on 2000-09-28T05:07:34Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Do you feel physically and emotionally safe where you currently live? (survey): Yes on 2000-09-28T05:07:34Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Are you a refugee? (survey): No on 2000-09-28T05:07:34Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility? (survey): Yes on 2000-09-28T05:07:34Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Stress is when someone feels tense  nervous  anxious or can't sleep at night because their mind is troubled. How stressed are you? (survey): A little bit on 2000-09-28T05:07:34Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)? (survey): 3 to 5 times a week on 2000-09-28T05:07:34Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living? (survey): No on 2000-09-28T05:07:34Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 In the past year  have you or any family members you live with been unable to get any of the following when it was really needed? (survey): I choose not to answer this question on 2000-09-28T05:07:34Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 During the past year  what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. (survey): 85421 /a on 2000-09-28T05:07:34Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 What is your main insurance? (survey): Private insurance on 2000-09-28T05:07:34Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 What is your current work situation? (survey): Full-time work on 2000-09-28T05:07:34Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 What is the highest level of school that you have finished? (survey): High school diploma or GED on 2000-09-28T05:07:34Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 What address do you live at? (laboratory): 577 Schmeler Frontage road Unit 7 on 2000-09-28T05:07:34Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Are you worried about losing your housing? (survey): No on 2000-09-28T05:07:34Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 What is your housing situation today? (survey): I have housing on 2000-09-28T05:07:34Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 How many family members  including yourself  do you currently live with? (survey): 1.0 {#} on 2000-09-28T05:07:34Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 What language are you most comfortable speaking? (survey): English on 2000-09-28T05:07:34Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Have you been discharged from the armed forces of the United States? (survey): No on 2000-09-28T05:07:34Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income? (survey): No on 2000-09-28T05:07:34Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Which race(s) are you? (survey): White on 2000-09-28T05:07:34Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Are you Hispanic or Latino? (survey): No on 2000-09-28T05:07:34Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] (survey): 8.0 {score} on 2000-09-28T05:35:11Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] (survey): 1.0 {score} on 2000-09-28T06:16:59Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Body Height (vital-signs): 155.4 cm on 2002-10-03T04:22:51Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Pain severity - 0-10 verbal numeric rating [Score] - Reported (vital-signs): 2.0 {score} on 2002-10-03T04:22:51Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Body Weight (vital-signs): 71.0 kg on 2002-10-03T04:22:51Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Body Mass Index (vital-signs): 29.4 kg/m2 on 2002-10-03T04:22:51Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Diastolic Blood Pressure (vital-signs): 85.0 mm[Hg] on 2002-10-03T04:22:51Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Systolic Blood Pressure (vital-signs): 120.0 mm[Hg] on 2002-10-03T04:22:51Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Heart rate (vital-signs): 71.0 /min on 2002-10-03T04:22:51Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Respiratory rate (vital-signs): 15.0 /min on 2002-10-03T04:22:51Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Glucose (laboratory): 84.1 mg/dL on 2002-10-03T04:22:51Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Urea Nitrogen (laboratory): 19.3 mg/dL on 2002-10-03T04:22:51Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Creatinine (laboratory): 0.8 mg/dL on 2002-10-03T04:22:51Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Calcium (laboratory): 9.5 mg/dL on 2002-10-03T04:22:51Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Sodium (laboratory): 139.7 mmol/L on 2002-10-03T04:22:51Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Potassium (laboratory): 5.1 mmol/L on 2002-10-03T04:22:51Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Chloride (laboratory): 101.9 mmol/L on 2002-10-03T04:22:51Z.",
+    "type": "observation"
+  }
+]

@@ -1,0 +1,1438 @@
+[
+  {
+    "text": "Patient diagnosed with Risk activity involvement (finding) starting 1998-04-19 until 2001-05-06.",
+    "type": "condition"
+  },
+  {
+    "text": "Patient diagnosed with Risk activity involvement (finding) starting 2002-05-12 (ongoing).",
+    "type": "condition"
+  },
+  {
+    "text": "Patient diagnosed with Hypertension starting 2003-05-18 (ongoing).",
+    "type": "condition"
+  },
+  {
+    "text": "Patient diagnosed with Received higher education (finding) starting 2003-05-18 (ongoing).",
+    "type": "condition"
+  },
+  {
+    "text": "Patient diagnosed with Unemployed (finding) starting 2003-05-18 (ongoing).",
+    "type": "condition"
+  },
+  {
+    "text": "Patient diagnosed with Victim of intimate partner abuse (finding) starting 2005-05-29 until 2006-06-04.",
+    "type": "condition"
+  },
+  {
+    "text": "Patient diagnosed with Limited social contact (finding) starting 2008-06-15 until 2013-07-14.",
+    "type": "condition"
+  },
+  {
+    "text": "Patient diagnosed with Stress (finding) starting 2008-06-15 until 2013-07-14.",
+    "type": "condition"
+  },
+  {
+    "text": "Patient diagnosed with Victim of intimate partner abuse (finding) starting 2010-06-27 until 2011-07-03.",
+    "type": "condition"
+  },
+  {
+    "text": "Patient diagnosed with Unhealthy alcohol drinking behavior (finding) starting 2011-07-03 until 2019-08-18.",
+    "type": "condition"
+  },
+  {
+    "text": "Patient diagnosed with Laceration of thigh starting 2011-12-23 until 2012-01-16.",
+    "type": "condition"
+  },
+  {
+    "text": "Patient diagnosed with Victim of intimate partner abuse (finding) starting 2013-07-14 (ongoing).",
+    "type": "condition"
+  },
+  {
+    "text": "Patient diagnosed with Limited social contact (finding) starting 2014-07-20 until 2021-08-29.",
+    "type": "condition"
+  },
+  {
+    "text": "Patient diagnosed with Stress (finding) starting 2015-07-26 until 2018-08-12.",
+    "type": "condition"
+  },
+  {
+    "text": "Patient diagnosed with Acute bronchitis (disorder) starting 2016-11-09 until 2016-11-19.",
+    "type": "condition"
+  },
+  {
+    "text": "Patient diagnosed with Normal pregnancy starting 2017-09-17 until 2018-04-22.",
+    "type": "condition"
+  },
+  {
+    "text": "Patient diagnosed with Escherichia coli urinary tract infection starting 2017-09-12 until 2017-09-19.",
+    "type": "condition"
+  },
+  {
+    "text": "Patient diagnosed with Normal pregnancy starting 2018-11-04 until 2019-01-13.",
+    "type": "condition"
+  },
+  {
+    "text": "Patient diagnosed with Stress (finding) starting 2019-08-18 until 2020-08-23.",
+    "type": "condition"
+  },
+  {
+    "text": "Patient diagnosed with Reports of violence in the environment (finding) starting 2020-08-23 until 2021-08-29.",
+    "type": "condition"
+  },
+  {
+    "text": "Patient prescribed Hydrochlorothiazide 25 MG Oral Tablet starting 2003-05-18T16:18:09Z until 2004-05-23T16:18:09Z for Hypertension.",
+    "type": "medication"
+  },
+  {
+    "text": "Patient prescribed Hydrochlorothiazide 25 MG Oral Tablet starting 2004-05-23T16:18:09Z until 2005-05-29T16:18:09Z for Hypertension.",
+    "type": "medication"
+  },
+  {
+    "text": "Patient prescribed Hydrochlorothiazide 25 MG Oral Tablet starting 2005-05-29T16:18:09Z until 2006-06-04T16:18:09Z for Hypertension.",
+    "type": "medication"
+  },
+  {
+    "text": "Patient prescribed Hydrochlorothiazide 25 MG Oral Tablet starting 2006-06-04T16:18:09Z until 2007-06-10T16:18:09Z for Hypertension.",
+    "type": "medication"
+  },
+  {
+    "text": "Patient prescribed Hydrochlorothiazide 25 MG Oral Tablet starting 2007-06-10T16:18:09Z until 2008-06-15T16:18:09Z for Hypertension.",
+    "type": "medication"
+  },
+  {
+    "text": "Patient prescribed Hydrochlorothiazide 25 MG Oral Tablet starting 2008-06-15T16:18:09Z until 2009-06-21T16:18:09Z for Hypertension.",
+    "type": "medication"
+  },
+  {
+    "text": "Patient prescribed Hydrochlorothiazide 25 MG Oral Tablet starting 2009-06-21T16:18:09Z until 2010-06-27T16:18:09Z for Hypertension.",
+    "type": "medication"
+  },
+  {
+    "text": "Patient prescribed Hydrochlorothiazide 25 MG Oral Tablet starting 2010-06-27T16:18:09Z until 2011-07-03T16:18:09Z for Hypertension.",
+    "type": "medication"
+  },
+  {
+    "text": "Patient prescribed Natazia 28 Day Pack starting 2011-06-12T16:18:09Z until 2012-06-06T16:18:09Z.",
+    "type": "medication"
+  },
+  {
+    "text": "Patient prescribed Hydrochlorothiazide 25 MG Oral Tablet starting 2011-07-03T16:18:09Z until 2012-07-08T16:18:09Z for Hypertension.",
+    "type": "medication"
+  },
+  {
+    "text": "Patient prescribed Naproxen sodium 220 MG Oral Tablet starting 2011-12-23T17:19:30Z until 2012-01-16T17:19:30Z.",
+    "type": "medication"
+  },
+  {
+    "text": "Patient prescribed Mirena 52 MG Intrauterine System starting 2012-06-06T16:18:09Z until 2013-06-06T16:25:24Z.",
+    "type": "medication"
+  },
+  {
+    "text": "Patient prescribed Hydrochlorothiazide 25 MG Oral Tablet starting 2012-07-08T16:18:09Z until 2013-07-14T16:18:09Z for Hypertension.",
+    "type": "medication"
+  },
+  {
+    "text": "Patient prescribed Trinessa 28 Day Pack starting 2013-06-06T16:25:24Z until 2014-06-01T16:25:24Z.",
+    "type": "medication"
+  },
+  {
+    "text": "Patient prescribed Hydrochlorothiazide 25 MG Oral Tablet starting 2013-07-14T16:18:09Z until 2014-07-20T16:18:09Z for Hypertension.",
+    "type": "medication"
+  },
+  {
+    "text": "Patient prescribed Hydrochlorothiazide 25 MG Oral Tablet starting 2014-07-20T16:18:09Z until 2015-07-26T16:18:09Z for Hypertension.",
+    "type": "medication"
+  },
+  {
+    "text": "Patient prescribed Seasonique 91 Day Pack starting 2015-05-27T16:25:24Z until 2016-05-21T16:25:24Z.",
+    "type": "medication"
+  },
+  {
+    "text": "Patient prescribed Hydrochlorothiazide 25 MG Oral Tablet starting 2015-07-26T16:18:09Z until 2016-07-31T16:18:09Z for Hypertension.",
+    "type": "medication"
+  },
+  {
+    "text": "Patient prescribed Hydrochlorothiazide 25 MG Oral Tablet starting 2016-07-31T16:18:09Z until 2017-08-06T16:18:09Z for Hypertension.",
+    "type": "medication"
+  },
+  {
+    "text": "Patient prescribed Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution starting 2016-11-09T12:35:25Z until 2016-11-19T12:35:25Z for Acute bronchitis (disorder).",
+    "type": "medication"
+  },
+  {
+    "text": "Patient prescribed Hydrochlorothiazide 25 MG Oral Tablet starting 2017-08-06T16:18:09Z until 2018-08-12T16:18:09Z for Hypertension.",
+    "type": "medication"
+  },
+  {
+    "text": "Patient prescribed Nitrofurantoin 5 MG/ML Oral Suspension starting 2017-09-12T05:18:09Z until 2017-09-19T05:18:09Z for Escherichia coli urinary tract infection.",
+    "type": "medication"
+  },
+  {
+    "text": "Patient prescribed Phenazopyridine hydrochloride 100 MG Oral Tablet starting 2017-09-12T05:18:09Z until 2017-09-19T05:18:09Z for Escherichia coli urinary tract infection.",
+    "type": "medication"
+  },
+  {
+    "text": "Patient prescribed Hydrochlorothiazide 25 MG Oral Tablet starting 2018-08-12T16:18:09Z until 2019-08-18T16:18:09Z for Hypertension.",
+    "type": "medication"
+  },
+  {
+    "text": "Patient prescribed 1 ML medroxyPROGESTERone acetate 150 MG/ML Injection starting 2019-05-29T16:18:09Z until 2020-05-23T16:36:06Z.",
+    "type": "medication"
+  },
+  {
+    "text": "Patient prescribed Hydrochlorothiazide 25 MG Oral Tablet starting 2019-08-18T16:18:09Z until 2020-08-23T16:18:09Z for Hypertension.",
+    "type": "medication"
+  },
+  {
+    "text": "Patient prescribed Liletta 52 MG Intrauterine System starting 2020-05-23T16:36:06Z until 2021-05-23T01:34:01Z.",
+    "type": "medication"
+  },
+  {
+    "text": "Patient prescribed Hydrochlorothiazide 25 MG Oral Tablet starting 2020-08-23T16:18:09Z until 2021-08-29T16:18:09Z for Hypertension.",
+    "type": "medication"
+  },
+  {
+    "text": "Patient prescribed Hydrochlorothiazide 25 MG Oral Tablet starting 2021-08-29T16:18:09Z (ongoing) for Hypertension.",
+    "type": "medication"
+  },
+  {
+    "text": "Patient had a ambulatory encounter (Encounter for symptom) from 1998-04-17T05:18:09Z to 1998-04-17T05:33:09Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a wellness encounter (Well child visit (procedure)) from 2002-05-12T16:18:09Z to 2002-05-12T16:33:09Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a wellness encounter (General examination of patient (procedure)) from 2003-05-18T16:18:09Z to 2003-05-18T16:33:09Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a wellness encounter (General examination of patient (procedure)) from 2004-05-23T16:18:09Z to 2004-05-23T16:33:09Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a ambulatory encounter (Prenatal initial visit) from 2005-05-08T16:18:09Z to 2005-05-08T16:33:09Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a wellness encounter (General examination of patient (procedure)) from 2005-05-29T16:18:09Z to 2005-05-29T16:33:09Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a ambulatory encounter (Prenatal visit) from 2005-06-05T16:18:09Z to 2005-06-05T16:33:09Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a wellness encounter (General examination of patient (procedure)) from 2006-06-04T16:18:09Z to 2006-06-04T16:33:09Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a wellness encounter (General examination of patient (procedure)) from 2007-06-10T16:18:09Z to 2007-06-10T16:33:09Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a wellness encounter (General examination of patient (procedure)) from 2008-06-15T16:18:09Z to 2008-06-15T16:33:09Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a wellness encounter (General examination of patient (procedure)) from 2009-06-21T16:18:09Z to 2009-06-21T16:33:09Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a ambulatory encounter (Prenatal initial visit) from 2009-07-12T16:18:09Z to 2009-07-12T16:33:09Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a wellness encounter (General examination of patient (procedure)) from 2010-06-27T16:18:09Z to 2010-06-27T16:33:09Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a outpatient encounter (Consultation for treatment) from 2011-06-12T16:18:09Z to 2011-06-12T16:33:09Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a wellness encounter (General examination of patient (procedure)) from 2011-07-03T16:18:09Z to 2011-07-03T16:33:09Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a emergency encounter (Emergency room admission (procedure)) from 2011-12-23T16:56:32Z to 2011-12-23T17:56:32Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a outpatient encounter (Consultation for treatment) from 2012-06-06T16:18:09Z to 2012-06-06T16:33:09Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a outpatient encounter (Patient encounter procedure) from 2012-06-11T15:18:09Z to 2012-06-11T16:25:24Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a wellness encounter (General examination of patient (procedure)) from 2012-07-08T16:18:09Z to 2012-07-08T16:33:09Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a outpatient encounter (Consultation for treatment) from 2013-06-06T16:25:24Z to 2013-06-06T16:40:24Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a wellness encounter (General examination of patient (procedure)) from 2013-07-14T16:18:09Z to 2013-07-14T16:33:09Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a wellness encounter (General examination of patient (procedure)) from 2014-07-20T16:18:09Z to 2014-07-20T16:33:09Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a outpatient encounter (Consultation for treatment) from 2015-05-27T16:25:24Z to 2015-05-27T16:40:24Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a wellness encounter (General examination of patient (procedure)) from 2015-07-26T16:18:09Z to 2015-07-26T16:33:09Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a wellness encounter (General examination of patient (procedure)) from 2016-07-31T16:18:09Z to 2016-07-31T16:33:09Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a ambulatory encounter (Encounter for symptom) from 2016-11-09T12:18:09Z to 2016-11-09T12:35:25Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a outpatient encounter (Patient encounter procedure) from 2017-06-18T16:18:09Z to 2017-06-18T17:01:27Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a outpatient encounter (Patient encounter procedure) from 2017-07-23T16:18:09Z to 2017-07-23T17:21:46Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a wellness encounter (General examination of patient (procedure)) from 2017-08-06T16:18:09Z to 2017-08-06T16:33:09Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a ambulatory encounter (Prenatal initial visit) from 2017-09-17T16:18:09Z to 2017-09-17T16:33:09Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a ambulatory encounter (Encounter for symptom) from 2017-09-12T05:18:09Z to 2017-09-12T05:33:09Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a ambulatory encounter (Prenatal visit) from 2017-10-15T16:18:09Z to 2017-10-15T16:33:09Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a ambulatory encounter (Prenatal visit) from 2017-11-12T16:18:09Z to 2017-11-12T16:33:09Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a ambulatory encounter (Prenatal visit) from 2017-12-10T16:18:09Z to 2017-12-10T16:33:09Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a ambulatory encounter (Prenatal visit) from 2018-01-07T16:18:09Z to 2018-01-07T16:33:09Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a ambulatory encounter (Prenatal visit) from 2018-02-04T16:18:09Z to 2018-02-04T16:33:09Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a ambulatory encounter (Prenatal visit) from 2018-03-04T16:18:09Z to 2018-03-04T16:33:09Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a ambulatory encounter (Prenatal visit) from 2018-04-01T16:18:09Z to 2018-04-01T16:33:09Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a ambulatory encounter (Prenatal visit) from 2018-04-15T16:18:09Z to 2018-04-15T16:33:09Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a emergency encounter (Obstetric emergency hospital admission) from 2018-04-22T16:18:09Z to 2018-04-22T17:18:09Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a ambulatory encounter (Postnatal visit) from 2018-06-03T16:18:09Z to 2018-06-03T16:33:09Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a wellness encounter (General examination of patient (procedure)) from 2018-08-12T16:18:09Z to 2018-08-12T16:33:09Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a ambulatory encounter (Prenatal initial visit) from 2018-11-04T16:18:09Z to 2018-11-04T16:33:09Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a ambulatory encounter (Prenatal visit) from 2018-12-02T16:18:09Z to 2018-12-02T16:33:09Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a ambulatory encounter (Prenatal visit) from 2018-12-30T16:18:09Z to 2018-12-30T16:33:09Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a ambulatory encounter (Prenatal visit) from 2019-01-13T16:18:09Z to 2019-01-13T16:33:09Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a outpatient encounter (Consultation for treatment) from 2019-05-29T16:18:09Z to 2019-05-29T16:36:06Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a wellness encounter (General examination of patient (procedure)) from 2019-08-18T16:18:09Z to 2019-08-18T16:33:09Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a outpatient encounter (Patient encounter procedure) from 2019-09-08T16:18:09Z to 2019-09-08T16:33:09Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a outpatient encounter (Patient encounter procedure) from 2019-12-08T16:18:09Z to 2019-12-08T16:33:09Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a outpatient encounter (Patient encounter procedure) from 2020-03-08T16:18:09Z to 2020-03-08T16:33:09Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a outpatient encounter (Consultation for treatment) from 2020-05-23T16:36:06Z to 2020-05-23T16:51:06Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a outpatient encounter (Patient encounter procedure) from 2020-05-28T00:36:06Z to 2020-05-28T01:34:01Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a outpatient encounter (Patient encounter procedure) from 2020-06-07T16:18:09Z to 2020-06-07T16:33:24Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a wellness encounter (General examination of patient (procedure)) from 2020-08-23T16:18:09Z to 2020-08-23T16:33:09Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a outpatient encounter (Patient encounter procedure) from 2020-09-06T16:18:09Z to 2020-09-06T16:35:17Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a outpatient encounter (Patient encounter procedure) from 2020-12-06T16:18:09Z to 2020-12-06T16:36:46Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a outpatient encounter (Patient encounter procedure) from 2021-03-07T16:18:09Z to 2021-03-07T16:35:11Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a outpatient encounter (Patient encounter procedure) from 2021-06-06T16:18:09Z to 2021-06-06T16:33:09Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a wellness encounter (General examination of patient (procedure)) from 2021-08-29T16:18:09Z to 2021-08-29T16:33:09Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a outpatient encounter (Patient encounter procedure) from 2021-09-05T16:18:09Z to 2021-09-05T16:33:09Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient on care plan: Lifestyle education regarding hypertension starting 2003-05-18 (ongoing) for Hypertension.",
+    "type": "careplan"
+  },
+  {
+    "text": "Patient on care plan: Routine antenatal care starting 2005-05-08 until 2005-12-04 for Normal pregnancy.",
+    "type": "careplan"
+  },
+  {
+    "text": "Patient on care plan: Routine antenatal care starting 2009-07-12 until 2010-02-14 for Normal pregnancy.",
+    "type": "careplan"
+  },
+  {
+    "text": "Patient on care plan: Wound care starting 2011-12-23 until 2012-01-16 for Laceration of thigh.",
+    "type": "careplan"
+  },
+  {
+    "text": "Patient on care plan: Respiratory therapy starting 2016-11-09 until 2017-08-06 for Acute bronchitis (disorder).",
+    "type": "careplan"
+  },
+  {
+    "text": "Patient on care plan: Routine antenatal care starting 2017-09-17 until 2018-04-22 for Normal pregnancy.",
+    "type": "careplan"
+  },
+  {
+    "text": "Patient on care plan: Urinary tract infection care starting 2017-09-12 until 2017-09-19 for Escherichia coli urinary tract infection.",
+    "type": "careplan"
+  },
+  {
+    "text": "Patient on care plan: Routine antenatal care starting 2018-11-04 (ongoing) for Normal pregnancy.",
+    "type": "careplan"
+  },
+  {
+    "text": "Patient underwent procedure: Suture open wound on 2011-12-23T16:56:32Z for Laceration of thigh.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Insertion of intrauterine contraceptive device on 2012-06-11T15:18:09Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Assessment of health and social care needs (procedure) on 2012-07-08T16:18:09Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Medication Reconciliation (procedure) on 2012-07-08T16:18:09Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Screening for domestic abuse (procedure) on 2012-07-08T17:16:56Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Depression screening (procedure) on 2012-07-08T17:52:31Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Depression screening using Patient Health Questionnaire Two-Item score (procedure) on 2012-07-08T18:05:27Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Assessment of substance use (procedure) on 2012-07-08T18:29:23Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Screening for drug abuse (procedure) on 2012-07-08T18:41:10Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Assessment of health and social care needs (procedure) on 2013-07-14T16:18:09Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Screening for domestic abuse (procedure) on 2013-07-14T16:56:19Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Depression screening (procedure) on 2013-07-14T17:27:42Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Depression screening using Patient Health Questionnaire Two-Item score (procedure) on 2013-07-14T17:39:33Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Assessment of health and social care needs (procedure) on 2014-07-20T16:18:09Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Assessment of anxiety (procedure) on 2014-07-20T16:52:19Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Assessment of substance use (procedure) on 2014-07-20T17:22:18Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Screening for drug abuse (procedure) on 2014-07-20T17:32:57Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Assessment of health and social care needs (procedure) on 2015-07-26T16:18:09Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Medication Reconciliation (procedure) on 2015-07-26T16:18:09Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Assessment of anxiety (procedure) on 2015-07-26T16:50:37Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Assessment of substance use (procedure) on 2015-07-26T17:08:06Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Screening for drug abuse (procedure) on 2015-07-26T17:18:40Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Assessment of health and social care needs (procedure) on 2016-07-31T16:18:09Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Medication Reconciliation (procedure) on 2016-07-31T16:18:09Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Screening for domestic abuse (procedure) on 2016-07-31T16:56:12Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Depression screening (procedure) on 2016-07-31T17:23:19Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Depression screening using Patient Health Questionnaire Two-Item score (procedure) on 2016-07-31T17:38:06Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Measurement of respiratory function (procedure) on 2016-11-09T12:18:09Z for Acute bronchitis (disorder).",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Replacement of contraceptive intrauterine device on 2017-06-18T16:18:09Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Removal of intrauterine device on 2017-07-23T16:18:09Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Assessment of health and social care needs (procedure) on 2017-08-06T16:18:09Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Standard pregnancy test on 2017-09-17T16:18:09Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Ultrasound scan for fetal viability on 2017-09-17T16:18:09Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Evaluation of uterine fundal height on 2017-09-17T16:18:09Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Auscultation of the fetal heart on 2017-09-17T16:18:09Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Blood typing  RH typing on 2017-09-17T16:18:09Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Hemoglobin / Hematocrit / Platelet count on 2017-09-17T16:18:09Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Hepatitis B Surface Antigen Measurement on 2017-09-17T16:18:09Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Human immunodeficiency virus antigen test on 2017-09-17T16:18:09Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Chlamydia antigen test on 2017-09-17T16:18:09Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Gonorrhea infection test on 2017-09-17T16:18:09Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Syphilis infection test on 2017-09-17T16:18:09Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Urine culture on 2017-09-17T16:18:09Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Cytopathology procedure  preparation of smear  genital source on 2017-09-17T16:18:09Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Urine screening test for diabetes on 2017-09-17T16:18:09Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Hepatitis C antibody test on 2017-09-17T16:18:09Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Rubella screening on 2017-09-17T16:18:09Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Measurement of Varicella-zoster virus antibody on 2017-09-17T16:18:09Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Skin test for tuberculosis on 2017-09-17T16:18:09Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Urine protein test on 2017-09-17T16:18:09Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Physical examination of mother on 2017-09-17T16:18:09Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Evaluation of uterine fundal height on 2017-10-15T16:18:09Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Auscultation of the fetal heart on 2017-10-15T16:18:09Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Screening for chromosomal aneuploidy in prenatal amniotic fluid on 2017-10-15T16:18:09Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Fetal anatomy study on 2017-11-12T16:18:09Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Alpha-fetoprotein test on 2017-11-12T16:18:09Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Evaluation of uterine fundal height on 2017-11-12T16:18:09Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Auscultation of the fetal heart on 2017-11-12T16:18:09Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Evaluation of uterine fundal height on 2017-12-10T16:18:09Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Auscultation of the fetal heart on 2017-12-10T16:18:09Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Evaluation of uterine fundal height on 2018-01-07T16:18:09Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Auscultation of the fetal heart on 2018-01-07T16:18:09Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Hemoglobin / Hematocrit / Platelet count on 2018-02-04T16:18:09Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Vaccination for diphtheria  pertussis  and tetanus on 2018-02-04T16:18:09Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Urine screening for glucose on 2018-02-04T16:18:09Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Evaluation of uterine fundal height on 2018-02-04T16:18:09Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Auscultation of the fetal heart on 2018-02-04T16:18:09Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Evaluation of uterine fundal height on 2018-03-04T16:18:09Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Auscultation of the fetal heart on 2018-03-04T16:18:09Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Streptococcus pneumoniae group B antigen test on 2018-04-01T16:18:09Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Evaluation of uterine fundal height on 2018-04-01T16:18:09Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Auscultation of the fetal heart on 2018-04-01T16:18:09Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Evaluation of uterine fundal height on 2018-04-15T16:18:09Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Auscultation of the fetal heart on 2018-04-15T16:18:09Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Episiotomy on 2018-04-22T16:18:09Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Childbirth on 2018-04-22T16:18:09Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Physical examination following birth on 2018-06-03T16:18:09Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Depression screening on 2018-06-03T16:18:09Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Assessment of health and social care needs (procedure) on 2018-08-12T16:18:09Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Medication Reconciliation (procedure) on 2018-08-12T16:18:09Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Standard pregnancy test on 2018-11-04T16:18:09Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Ultrasound scan for fetal viability on 2018-11-04T16:18:09Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Evaluation of uterine fundal height on 2018-11-04T16:18:09Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Auscultation of the fetal heart on 2018-11-04T16:18:09Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Blood typing  RH typing on 2018-11-04T16:18:09Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Hemoglobin / Hematocrit / Platelet count on 2018-11-04T16:18:09Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Hepatitis B Surface Antigen Measurement on 2018-11-04T16:18:09Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Human immunodeficiency virus antigen test on 2018-11-04T16:18:09Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Chlamydia antigen test on 2018-11-04T16:18:09Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Gonorrhea infection test on 2018-11-04T16:18:09Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Syphilis infection test on 2018-11-04T16:18:09Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Urine culture on 2018-11-04T16:18:09Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Cytopathology procedure  preparation of smear  genital source on 2018-11-04T16:18:09Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Urine screening test for diabetes on 2018-11-04T16:18:09Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Hepatitis C antibody test on 2018-11-04T16:18:09Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Rubella screening on 2018-11-04T16:18:09Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Measurement of Varicella-zoster virus antibody on 2018-11-04T16:18:09Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Skin test for tuberculosis on 2018-11-04T16:18:09Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Urine protein test on 2018-11-04T16:18:09Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Physical examination of mother on 2018-11-04T16:18:09Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Evaluation of uterine fundal height on 2018-12-02T16:18:09Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Auscultation of the fetal heart on 2018-12-02T16:18:09Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Screening for chromosomal aneuploidy in prenatal amniotic fluid on 2018-12-02T16:18:09Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Physical examination on 2019-01-13T16:18:09Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Depression screening on 2019-01-13T16:18:09Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Intramuscular injection on 2019-05-29T16:18:09Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Assessment of health and social care needs (procedure) on 2019-08-18T16:18:09Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Medication Reconciliation (procedure) on 2019-08-18T16:18:09Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Assessment of anxiety (procedure) on 2019-08-18T17:02:51Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Screening for domestic abuse (procedure) on 2019-08-18T17:24:36Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Depression screening (procedure) on 2019-08-18T18:02:42Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Depression screening using Patient Health Questionnaire Two-Item score (procedure) on 2019-08-18T18:14:06Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Assessment of substance use (procedure) on 2019-08-18T18:38:37Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) on 2019-08-18T18:49:29Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Intramuscular injection on 2019-09-08T16:18:09Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Intramuscular injection on 2019-12-08T16:18:09Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Intramuscular injection on 2020-03-08T16:18:09Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Insertion of intrauterine contraceptive device on 2020-05-28T00:36:06Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Intramuscular injection on 2020-06-07T16:18:09Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Assessment of health and social care needs (procedure) on 2020-08-23T16:18:09Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Assessment of anxiety (procedure) on 2020-08-23T17:03:37Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Depression screening (procedure) on 2020-08-23T17:29:37Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Depression screening using Patient Health Questionnaire Two-Item score (procedure) on 2020-08-23T17:44:36Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Intramuscular injection on 2020-09-06T16:18:09Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Intramuscular injection on 2020-12-06T16:18:09Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Intramuscular injection on 2021-03-07T16:18:09Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Intramuscular injection on 2021-06-06T16:18:09Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Assessment of health and social care needs (procedure) on 2021-08-29T16:18:09Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Intramuscular injection on 2021-09-05T16:18:09Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Depression screening (procedure) on 2021-08-29T17:12:57Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Depression screening using Patient Health Questionnaire Two-Item score (procedure) on 2021-08-29T17:24:28Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient received immunization: Influenza  seasonal  injectable  preservative free on 2012-07-08T16:18:09Z.",
+    "type": "immunization"
+  },
+  {
+    "text": "Patient received immunization: Influenza  seasonal  injectable  preservative free on 2013-07-14T16:18:09Z.",
+    "type": "immunization"
+  },
+  {
+    "text": "Patient received immunization: Influenza  seasonal  injectable  preservative free on 2014-07-20T16:18:09Z.",
+    "type": "immunization"
+  },
+  {
+    "text": "Patient received immunization: Influenza  seasonal  injectable  preservative free on 2015-07-26T16:18:09Z.",
+    "type": "immunization"
+  },
+  {
+    "text": "Patient received immunization: Influenza  seasonal  injectable  preservative free on 2016-07-31T16:18:09Z.",
+    "type": "immunization"
+  },
+  {
+    "text": "Patient received immunization: Td (adult) preservative free on 2016-07-31T16:18:09Z.",
+    "type": "immunization"
+  },
+  {
+    "text": "Patient received immunization: Influenza  seasonal  injectable  preservative free on 2017-08-06T16:18:09Z.",
+    "type": "immunization"
+  },
+  {
+    "text": "Patient received immunization: Influenza  seasonal  injectable  preservative free on 2018-08-12T16:18:09Z.",
+    "type": "immunization"
+  },
+  {
+    "text": "Patient received immunization: Influenza  seasonal  injectable  preservative free on 2019-08-18T16:18:09Z.",
+    "type": "immunization"
+  },
+  {
+    "text": "Patient received immunization: Influenza  seasonal  injectable  preservative free on 2020-08-23T16:18:09Z.",
+    "type": "immunization"
+  },
+  {
+    "text": "Patient received immunization: Influenza  seasonal  injectable  preservative free on 2021-08-29T16:18:09Z.",
+    "type": "immunization"
+  },
+  {
+    "text": "Patient insurance: Mitchell808 Moen819 (ownership: Guardian) from 1985-03-31T16:18:09Z to 1986-04-06T16:18:09Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Long300 Maggio310 (ownership: Guardian) from 1986-04-06T16:18:09Z to 1987-04-12T16:18:09Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Mitchell808 Moen819 (ownership: Guardian) from 1987-04-12T16:18:09Z to 1988-04-17T16:18:09Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Mitchell808 Moen819 (ownership: Guardian) from 1988-04-17T16:18:09Z to 1989-04-23T16:18:09Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Mitchell808 Moen819 (ownership: Guardian) from 1989-04-23T16:18:09Z to 1990-04-29T16:18:09Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Long300 Maggio310 (ownership: Guardian) from 1990-04-29T16:18:09Z to 1991-05-05T16:18:09Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Long300 Maggio310 (ownership: Guardian) from 1991-05-05T16:18:09Z to 1992-05-10T16:18:09Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Long300 Maggio310 (ownership: Guardian) from 1992-05-10T16:18:09Z to 1993-05-16T16:18:09Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Mitchell808 Moen819 (ownership: Guardian) from 1993-05-16T16:18:09Z to 1994-05-22T16:18:09Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Long300 Maggio310 (ownership: Guardian) from 1994-05-22T16:18:09Z to 1995-05-28T16:18:09Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Mitchell808 Moen819 (ownership: Guardian) from 1995-05-28T16:18:09Z to 1996-06-02T16:18:09Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Long300 Maggio310 (ownership: Guardian) from 1996-06-02T16:18:09Z to 1997-06-08T16:18:09Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Mitchell808 Moen819 (ownership: Guardian) from 1997-06-08T16:18:09Z to 1998-06-14T16:18:09Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Mitchell808 Moen819 (ownership: Guardian) from 1998-06-14T16:18:09Z to 1999-06-20T16:18:09Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Long300 Maggio310 (ownership: Guardian) from 1999-06-20T16:18:09Z to 2000-06-25T16:18:09Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Mitchell808 Moen819 (ownership: Guardian) from 2000-06-25T16:18:09Z to 2001-07-01T16:18:09Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Mitchell808 Moen819 (ownership: Guardian) from 2001-07-01T16:18:09Z to 2002-07-07T16:18:09Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Mitchell808 Moen819 (ownership: Guardian) from 2002-07-07T16:18:09Z to 2003-07-13T16:18:09Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Lavinia262 Maggio310 (ownership: Self) from 2003-07-13T16:18:09Z to 2004-07-18T16:18:09Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Lavinia262 Maggio310 (ownership: Self) from 2004-07-18T16:18:09Z to 2005-06-05T16:18:09Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance:  (ownership: ) from 2005-06-05T16:18:09Z to 2005-10-02T16:18:09Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance:  (ownership: ) from 2005-10-02T16:18:09Z to 2006-10-08T16:18:09Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Lavinia262 Maggio310 (ownership: Self) from 2006-10-08T16:18:09Z to 2007-10-14T16:18:09Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Lavinia262 Maggio310 (ownership: Self) from 2007-10-14T16:18:09Z to 2008-10-19T16:18:09Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Lavinia262 Maggio310 (ownership: Self) from 2008-10-19T16:18:09Z to 2009-08-02T16:18:09Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance:  (ownership: ) from 2009-08-02T16:18:09Z to 2009-12-06T16:18:09Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance:  (ownership: ) from 2009-12-06T16:18:09Z to 2010-05-02T16:18:09Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance:  (ownership: ) from 2010-05-02T16:18:09Z to 2011-05-08T16:18:09Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Lavinia262 Maggio310 (ownership: Self) from 2011-05-08T16:18:09Z to 2012-05-13T16:18:09Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Lavinia262 Heaney114 (ownership: Self) from 2012-05-13T16:18:09Z to 2013-05-19T16:18:09Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Lavinia262 Heaney114 (ownership: Self) from 2013-05-19T16:18:09Z to 2014-05-25T16:18:09Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Mr. Heaney114 (ownership: Spouse) from 2014-05-25T16:18:09Z to 2015-05-31T16:18:09Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Mr. Heaney114 (ownership: Spouse) from 2015-05-31T16:18:09Z to 2016-06-05T16:18:09Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Lavinia262 Heaney114 (ownership: Self) from 2016-06-05T16:18:09Z to 2017-06-11T16:18:09Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Lavinia262 Heaney114 (ownership: Self) from 2017-06-11T16:18:09Z to 2018-03-04T16:18:09Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance:  (ownership: ) from 2018-03-04T16:18:09Z to 2018-12-02T16:18:09Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance:  (ownership: ) from 2018-12-02T16:18:09Z to 2019-12-08T16:18:09Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Mr. Heaney114 (ownership: Spouse) from 2019-12-08T16:18:09Z to 2020-12-13T16:18:09Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Mr. Heaney114 (ownership: Spouse) from 2020-12-13T16:18:09Z to 2021-12-13T16:18:09Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient observation \u2014 Body Height (vital-signs): 172.9 cm on 2012-07-08T16:18:09Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Pain severity - 0-10 verbal numeric rating [Score] - Reported (vital-signs): 2.0 {score} on 2012-07-08T16:18:09Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Body Weight (vital-signs): 75.1 kg on 2012-07-08T16:18:09Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Body Mass Index (vital-signs): 25.1 kg/m2 on 2012-07-08T16:18:09Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Diastolic Blood Pressure (vital-signs): 82.0 mm[Hg] on 2012-07-08T16:18:09Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Systolic Blood Pressure (vital-signs): 110.0 mm[Hg] on 2012-07-08T16:18:09Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Heart rate (vital-signs): 89.0 /min on 2012-07-08T16:18:09Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Respiratory rate (vital-signs): 14.0 /min on 2012-07-08T16:18:09Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Tobacco smoking status NHIS (survey): Never smoker on 2012-07-08T16:18:09Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 In the past year  have you been afraid of your partner or ex-partner? (survey): No on 2012-07-08T17:16:56Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Do you feel physically and emotionally safe where you currently live? (survey): Yes on 2012-07-08T17:16:56Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Are you a refugee? (survey): No on 2012-07-08T17:16:56Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility? (survey): No on 2012-07-08T17:16:56Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Stress is when someone feels tense  nervous  anxious or can't sleep at night because their mind is troubled. How stressed are you? (survey): A little bit on 2012-07-08T17:16:56Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)? (survey): 5 or more times a week on 2012-07-08T17:16:56Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living? (survey): No on 2012-07-08T17:16:56Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 In the past year  have you or any family members you live with been unable to get any of the following when it was really needed? (survey): I choose not to answer this question on 2012-07-08T17:16:56Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 During the past year  what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. (survey): 51328 /a on 2012-07-08T17:16:56Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 What is your main insurance? (survey): Private insurance on 2012-07-08T17:16:56Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 What is your current work situation? (survey): Unemployed (finding) on 2012-07-08T17:16:56Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 What is the highest level of school that you have finished? (survey): More than high school on 2012-07-08T17:16:56Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 What address do you live at? (laboratory): 446 Kreiger Route on 2012-07-08T17:16:56Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Are you worried about losing your housing? (survey): No on 2012-07-08T17:16:56Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 What is your housing situation today? (survey): I have housing on 2012-07-08T17:16:56Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 How many family members  including yourself  do you currently live with? (survey): 7.0 {#} on 2012-07-08T17:16:56Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 What language are you most comfortable speaking? (survey): English on 2012-07-08T17:16:56Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Have you been discharged from the armed forces of the United States? (survey): No on 2012-07-08T17:16:56Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 At any point in the past 2 years  has season or migrant farm work been your or your family's main source of income? (survey): No on 2012-07-08T17:16:56Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Which race(s) are you? (survey): White on 2012-07-08T17:16:56Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Are you Hispanic or Latino? (survey): No on 2012-07-08T17:16:56Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Total score [HARK] (survey): 0.0 {score} on 2012-07-08T17:52:31Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Patient Health Questionnaire 2 item (PHQ-2) total score [Reported] (survey): 1.0 {score} on 2012-07-08T18:29:23Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Total score [DAST-10] (survey): 0.0 {score} on 2012-07-08T19:02:27Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Body Height (vital-signs): 172.9 cm on 2013-07-14T16:18:09Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Pain severity - 0-10 verbal numeric rating [Score] - Reported (vital-signs): 2.0 {score} on 2013-07-14T16:18:09Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Body Weight (vital-signs): 76.2 kg on 2013-07-14T16:18:09Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Body Mass Index (vital-signs): 25.5 kg/m2 on 2013-07-14T16:18:09Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Diastolic Blood Pressure (vital-signs): 80.0 mm[Hg] on 2013-07-14T16:18:09Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Systolic Blood Pressure (vital-signs): 134.0 mm[Hg] on 2013-07-14T16:18:09Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Heart rate (vital-signs): 75.0 /min on 2013-07-14T16:18:09Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Respiratory rate (vital-signs): 14.0 /min on 2013-07-14T16:18:09Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Tobacco smoking status NHIS (survey): Never smoker on 2013-07-14T16:18:09Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 In the past year  have you been afraid of your partner or ex-partner? (survey): No on 2013-07-14T16:56:19Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Do you feel physically and emotionally safe where you currently live? (survey): Yes on 2013-07-14T16:56:19Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Are you a refugee? (survey): No on 2013-07-14T16:56:19Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 In the past year  have you spent more than 2 nights in a row in a jail  prison  detention center  or juvenile correctional facility? (survey): No on 2013-07-14T16:56:19Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Stress is when someone feels tense  nervous  anxious or can't sleep at night because their mind is troubled. How stressed are you? (survey): Not at all on 2013-07-14T16:56:19Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 How often do you see or talk to people that you care about and feel close to (For example: talking to friends on the phone  visiting friends or family  going to church or club meetings)? (survey): 3 to 5 times a week on 2013-07-14T16:56:19Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Has lack of transportation kept you from medical appointments  meetings  work  or from getting things needed for daily living? (survey): No on 2013-07-14T16:56:19Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 In the past year  have you or any family members you live with been unable to get any of the following when it was really needed? (survey): I choose not to answer this question on 2013-07-14T16:56:19Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 During the past year  what was the total combined income for you and the family members you live with? This information will help us determine if you are eligible for any benefits. (survey): 51328 /a on 2013-07-14T16:56:19Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 What is your main insurance? (survey): Private insurance on 2013-07-14T16:56:19Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 What is your current work situation? (survey): Unemployed (finding) on 2013-07-14T16:56:19Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 What is the highest level of school that you have finished? (survey): More than high school on 2013-07-14T16:56:19Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 What address do you live at? (laboratory): 446 Kreiger Route on 2013-07-14T16:56:19Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Are you worried about losing your housing? (survey): No on 2013-07-14T16:56:19Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 What is your housing situation today? (survey): I have housing on 2013-07-14T16:56:19Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 How many family members  including yourself  do you currently live with? (survey): 7.0 {#} on 2013-07-14T16:56:19Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 What language are you most comfortable speaking? (survey): English on 2013-07-14T16:56:19Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Have you been discharged from the armed forces of the United States? (survey): No on 2013-07-14T16:56:19Z.",
+    "type": "observation"
+  }
+]

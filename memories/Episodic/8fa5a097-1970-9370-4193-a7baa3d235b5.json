@@ -1,0 +1,1750 @@
+[
+  {
+    "text": "Patient diagnosed with Viral sinusitis (disorder) starting 2014-11-12 until 2014-11-19.",
+    "type": "condition"
+  },
+  {
+    "text": "Patient diagnosed with Acute bronchitis (disorder) starting 2015-03-18 until 2015-04-01.",
+    "type": "condition"
+  },
+  {
+    "text": "Patient diagnosed with Laceration of foot starting 2018-03-20 until 2018-04-12.",
+    "type": "condition"
+  },
+  {
+    "text": "Patient diagnosed with Chronic low back pain (finding) starting 2018-09-30 (ongoing).",
+    "type": "condition"
+  },
+  {
+    "text": "Patient diagnosed with Received higher education (finding) starting 2018-10-19 (ongoing).",
+    "type": "condition"
+  },
+  {
+    "text": "Patient diagnosed with Full-time employment (finding) starting 2018-10-19 until 2019-10-25.",
+    "type": "condition"
+  },
+  {
+    "text": "Patient diagnosed with Normal pregnancy starting 2019-10-18 until 2020-05-29.",
+    "type": "condition"
+  },
+  {
+    "text": "Patient diagnosed with Part-time employment (finding) starting 2019-10-25 until 2020-10-30.",
+    "type": "condition"
+  },
+  {
+    "text": "Patient diagnosed with Stress (finding) starting 2019-10-25 until 2020-10-30.",
+    "type": "condition"
+  },
+  {
+    "text": "Patient diagnosed with Victim of intimate partner abuse (finding) starting 2019-10-25 until 2020-10-30.",
+    "type": "condition"
+  },
+  {
+    "text": "Patient diagnosed with Sprain of wrist starting 2020-03-26 until 2020-04-29.",
+    "type": "condition"
+  },
+  {
+    "text": "Patient diagnosed with Acute viral pharyngitis (disorder) starting 2020-08-05 until 2020-08-17.",
+    "type": "condition"
+  },
+  {
+    "text": "Patient diagnosed with Full-time employment (finding) starting 2020-10-30 until 2021-11-05.",
+    "type": "condition"
+  },
+  {
+    "text": "Patient diagnosed with Cough (finding) starting 2021-02-08 until 2021-02-26.",
+    "type": "condition"
+  },
+  {
+    "text": "Patient diagnosed with Fatigue (finding) starting 2021-02-08 until 2021-02-26.",
+    "type": "condition"
+  },
+  {
+    "text": "Patient diagnosed with Dyspnea (finding) starting 2021-02-08 until 2021-02-26.",
+    "type": "condition"
+  },
+  {
+    "text": "Patient diagnosed with Wheezing (finding) starting 2021-02-08 until 2021-02-26.",
+    "type": "condition"
+  },
+  {
+    "text": "Patient diagnosed with Fever (finding) starting 2021-02-08 until 2021-02-26.",
+    "type": "condition"
+  },
+  {
+    "text": "Patient diagnosed with Loss of taste (finding) starting 2021-02-08 until 2021-02-26.",
+    "type": "condition"
+  },
+  {
+    "text": "Patient diagnosed with Suspected COVID-19 starting 2021-02-08 until 2021-02-08.",
+    "type": "condition"
+  },
+  {
+    "text": "Patient diagnosed with COVID-19 starting 2021-02-08 until 2021-02-26.",
+    "type": "condition"
+  },
+  {
+    "text": "Patient diagnosed with Pneumonia (disorder) starting 2021-02-08 until 2021-02-26.",
+    "type": "condition"
+  },
+  {
+    "text": "Patient diagnosed with Hypoxemia (disorder) starting 2021-02-08 (ongoing).",
+    "type": "condition"
+  },
+  {
+    "text": "Patient diagnosed with Respiratory distress (finding) starting 2021-02-08 until 2021-02-26.",
+    "type": "condition"
+  },
+  {
+    "text": "Patient diagnosed with Acute deep venous thrombosis (disorder) starting 2021-02-16 until 2021-02-26.",
+    "type": "condition"
+  },
+  {
+    "text": "Patient diagnosed with Part-time employment (finding) starting 2021-11-05 (ongoing).",
+    "type": "condition"
+  },
+  {
+    "text": "Patient diagnosed with Limited social contact (finding) starting 2021-11-05 (ongoing).",
+    "type": "condition"
+  },
+  {
+    "text": "Patient diagnosed with Stress (finding) starting 2021-11-05 (ongoing).",
+    "type": "condition"
+  },
+  {
+    "text": "Patient prescribed Natazia 28 Day Pack starting 2014-08-25T16:31:45Z until 2015-08-20T16:31:45Z.",
+    "type": "medication"
+  },
+  {
+    "text": "Patient prescribed Acetaminophen 325 MG Oral Tablet starting 2015-03-18T16:50:21Z until 2015-04-01T16:50:21Z for Acute bronchitis (disorder).",
+    "type": "medication"
+  },
+  {
+    "text": "Patient prescribed Seasonique 91 Day Pack starting 2015-08-20T16:31:45Z until 2016-08-14T16:31:45Z.",
+    "type": "medication"
+  },
+  {
+    "text": "Patient prescribed Yaz 28 Day Pack starting 2016-08-14T16:31:45Z until 2017-08-09T16:31:45Z.",
+    "type": "medication"
+  },
+  {
+    "text": "Patient prescribed Ibuprofen 200 MG Oral Tablet starting 2018-03-20T16:46:12Z until 2018-04-12T16:46:12Z.",
+    "type": "medication"
+  },
+  {
+    "text": "Patient prescribed Errin 28 Day Pack starting 2018-08-04T16:31:45Z until 2019-07-30T16:31:45Z.",
+    "type": "medication"
+  },
+  {
+    "text": "Patient prescribed Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] starting 2018-09-30T16:31:45Z until 2018-10-19T16:31:45Z.",
+    "type": "medication"
+  },
+  {
+    "text": "Patient prescribed Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] starting 2018-10-19T16:31:45Z until 2019-10-25T16:31:45Z.",
+    "type": "medication"
+  },
+  {
+    "text": "Patient prescribed Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin] starting 2018-11-29T15:31:45Z until 2019-10-25T16:31:45Z.",
+    "type": "medication"
+  },
+  {
+    "text": "Patient prescribed Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] starting 2019-10-25T16:31:45Z until 2020-10-30T16:31:45Z.",
+    "type": "medication"
+  },
+  {
+    "text": "Patient prescribed Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin] starting 2019-10-25T16:31:45Z until 2020-10-30T16:31:45Z.",
+    "type": "medication"
+  },
+  {
+    "text": "Patient prescribed Acetaminophen 325 MG Oral Tablet starting 2020-03-26T16:46:12Z until 2020-04-29T16:46:12Z.",
+    "type": "medication"
+  },
+  {
+    "text": "Patient prescribed Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] starting 2020-10-30T16:31:45Z until 2021-11-05T16:31:45Z.",
+    "type": "medication"
+  },
+  {
+    "text": "Patient prescribed Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin] starting 2020-10-30T16:31:45Z until 2021-11-05T16:31:45Z.",
+    "type": "medication"
+  },
+  {
+    "text": "Patient prescribed 0.4 ML Enoxaparin sodium 100 MG/ML Prefilled Syringe starting 2021-02-08T17:37:23Z (ongoing).",
+    "type": "medication"
+  },
+  {
+    "text": "Patient prescribed NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler starting 2021-02-08T17:37:23Z (ongoing) for Hypoxemia (disorder).",
+    "type": "medication"
+  },
+  {
+    "text": "Patient prescribed Acetaminophen 500 MG Oral Tablet starting 2021-02-08T17:37:23Z (ongoing).",
+    "type": "medication"
+  },
+  {
+    "text": "Patient prescribed 1 ML Enoxaparin sodium 150 MG/ML Prefilled Syringe starting 2021-02-16T17:37:23Z (ongoing) for Acute deep venous thrombosis (disorder).",
+    "type": "medication"
+  },
+  {
+    "text": "Patient prescribed Seasonique 91 Day Pack starting 2021-07-19T16:31:45Z (ongoing).",
+    "type": "medication"
+  },
+  {
+    "text": "Patient prescribed Acetaminophen 325 MG / Oxycodone Hydrochloride 10 MG Oral Tablet [Percocet] starting 2021-11-05T16:31:45Z (ongoing).",
+    "type": "medication"
+  },
+  {
+    "text": "Patient prescribed Abuse-Deterrent 12 HR Oxycodone Hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin] starting 2021-11-05T16:31:45Z (ongoing).",
+    "type": "medication"
+  },
+  {
+    "text": "Patient had a wellness encounter (Well child visit (procedure)) from 2012-09-14T16:31:45Z to 2012-09-14T16:46:45Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a wellness encounter (Well child visit (procedure)) from 2013-09-20T16:31:45Z to 2013-09-20T16:46:45Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a outpatient encounter (Consultation for treatment) from 2014-08-25T16:31:45Z to 2014-08-25T16:46:45Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a wellness encounter (Well child visit (procedure)) from 2014-09-26T16:31:45Z to 2014-09-26T16:46:45Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a ambulatory encounter (Encounter for symptom) from 2014-11-12T07:31:45Z to 2014-11-12T07:46:45Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a ambulatory encounter (Encounter for symptom) from 2015-03-18T16:31:45Z to 2015-03-18T16:50:21Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a outpatient encounter (Encounter for check up (procedure)) from 2015-03-27T16:31:45Z to 2015-03-27T16:46:45Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a outpatient encounter (Consultation for treatment) from 2015-08-20T16:31:45Z to 2015-08-20T16:46:45Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a wellness encounter (Well child visit (procedure)) from 2015-10-02T16:31:45Z to 2015-10-02T16:46:45Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a outpatient encounter (Consultation for treatment) from 2016-08-14T16:31:45Z to 2016-08-14T16:46:45Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a wellness encounter (Well child visit (procedure)) from 2016-10-07T16:31:45Z to 2016-10-07T16:46:45Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a wellness encounter (Well child visit (procedure)) from 2017-10-13T16:31:45Z to 2017-10-13T16:46:45Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a emergency encounter (Emergency room admission (procedure)) from 2018-03-20T16:31:45Z to 2018-03-20T17:31:45Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a outpatient encounter (Consultation for treatment) from 2018-08-04T16:31:45Z to 2018-08-04T16:46:45Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a outpatient encounter (Encounter for problem (procedure)) from 2018-09-30T16:31:45Z to 2018-09-30T16:46:45Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a wellness encounter (General examination of patient (procedure)) from 2018-10-19T16:31:45Z to 2018-10-19T16:46:45Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a ambulatory encounter (Follow-up encounter (procedure)) from 2018-11-29T15:31:45Z to 2018-11-29T15:46:45Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a ambulatory encounter (Prenatal initial visit) from 2019-10-18T16:31:45Z to 2019-10-18T16:46:45Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a wellness encounter (General examination of patient (procedure)) from 2019-10-25T16:31:45Z to 2019-10-25T16:46:45Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a ambulatory encounter (Prenatal visit) from 2019-11-15T16:31:45Z to 2019-11-15T16:46:45Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a ambulatory encounter (Prenatal visit) from 2019-12-13T16:31:45Z to 2019-12-13T16:46:45Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a ambulatory encounter (Prenatal visit) from 2020-01-10T16:31:45Z to 2020-01-10T16:46:45Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a ambulatory encounter (Prenatal visit) from 2020-02-07T16:31:45Z to 2020-02-07T16:46:45Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a ambulatory encounter (Prenatal visit) from 2020-03-06T16:31:45Z to 2020-03-06T16:46:45Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a emergency encounter (Emergency room admission (procedure)) from 2020-03-26T16:46:12Z to 2020-03-26T17:46:12Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a ambulatory encounter (Prenatal visit) from 2020-04-03T16:31:45Z to 2020-04-03T16:46:45Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a ambulatory encounter (Prenatal visit) from 2020-05-01T16:31:45Z to 2020-05-01T16:46:45Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a ambulatory encounter (Prenatal visit) from 2020-05-15T16:31:45Z to 2020-05-15T16:46:45Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a ambulatory encounter (Prenatal visit) from 2020-05-22T16:31:45Z to 2020-05-22T16:46:45Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a emergency encounter (Obstetric emergency hospital admission) from 2020-05-29T16:31:45Z to 2020-05-29T17:31:45Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a ambulatory encounter (Postnatal visit) from 2020-07-10T16:31:45Z to 2020-07-10T16:46:45Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a ambulatory encounter (Encounter for symptom) from 2020-08-05T23:31:45Z to 2020-08-05T23:46:45Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a wellness encounter (General examination of patient (procedure)) from 2020-10-30T16:31:45Z to 2020-10-30T16:46:45Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a ambulatory encounter (Encounter for symptom (procedure)) from 2021-02-08T16:31:45Z to 2021-02-08T17:17:44Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a inpatient encounter (Hospital admission for isolation (procedure)) from 2021-02-08T17:17:44Z to 2021-02-20T17:37:23Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a inpatient encounter (Admission to intensive care unit (procedure)) from 2021-02-20T17:37:23Z to 2021-02-24T17:37:23Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a inpatient encounter (Hospital admission  for observation (procedure)) from 2021-02-24T17:37:23Z to 2021-02-26T17:37:23Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a outpatient encounter (Consultation for treatment) from 2021-07-19T16:31:45Z to 2021-07-19T16:46:45Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a wellness encounter (General examination of patient (procedure)) from 2021-11-05T16:31:45Z to 2021-11-05T16:46:45Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient on care plan: Respiratory therapy starting 2015-03-18 until 2015-10-02 for Acute bronchitis (disorder).",
+    "type": "careplan"
+  },
+  {
+    "text": "Patient on care plan: Wound care starting 2018-03-20 until 2018-04-12 for Laceration of foot.",
+    "type": "careplan"
+  },
+  {
+    "text": "Patient on care plan: Therapy (regime/therapy) starting 2018-11-29 (ongoing).",
+    "type": "careplan"
+  },
+  {
+    "text": "Patient on care plan: Routine antenatal care starting 2019-10-18 until 2020-05-29 for Normal pregnancy.",
+    "type": "careplan"
+  },
+  {
+    "text": "Patient on care plan: Physical therapy procedure starting 2020-03-26 until 2020-04-29 for Sprain of wrist.",
+    "type": "careplan"
+  },
+  {
+    "text": "Patient on care plan: Infectious disease care plan (record artifact) starting 2021-02-08 until 2021-02-27 for Suspected COVID-19.",
+    "type": "careplan"
+  },
+  {
+    "text": "Patient underwent procedure: Assessment of anxiety (procedure) on 2012-09-14T16:31:45Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Depression screening (procedure) on 2012-09-14T16:58:13Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Depression screening using Patient Health Questionnaire Nine Item score (procedure) on 2012-09-14T17:11:22Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Depression screening (procedure) on 2013-09-20T16:31:45Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Depression screening using Patient Health Questionnaire Nine Item score (procedure) on 2013-09-20T16:46:43Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Assessment of substance use (procedure) on 2013-09-20T17:12:58Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) on 2013-09-20T17:27:43Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Anticipatory guidance (procedure) on 2013-09-20T17:41:16Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Assessment of anxiety (procedure) on 2014-09-26T16:31:45Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Medication Reconciliation (procedure) on 2014-09-26T16:31:45Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Depression screening (procedure) on 2014-09-26T17:01:25Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Depression screening using Patient Health Questionnaire Nine Item score (procedure) on 2014-09-26T17:13:04Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Measurement of respiratory function (procedure) on 2015-03-18T16:31:45Z for Acute bronchitis (disorder).",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Depression screening (procedure) on 2015-03-27T16:31:45Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Depression screening using Patient Health Questionnaire Nine Item score (procedure) on 2015-03-27T16:43:40Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Depression screening (procedure) on 2015-10-02T16:31:45Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Depression screening using Patient Health Questionnaire Nine Item score (procedure) on 2015-10-02T16:41:53Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Assessment of substance use (procedure) on 2015-10-02T17:10:29Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) on 2015-10-02T17:21:10Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Anticipatory guidance (procedure) on 2015-10-02T17:50:48Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Depression screening (procedure) on 2016-10-07T16:31:45Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Depression screening using Patient Health Questionnaire Nine Item score (procedure) on 2016-10-07T16:45:30Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Assessment of substance use (procedure) on 2016-10-07T17:12:38Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) on 2016-10-07T17:25:51Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Anticipatory guidance (procedure) on 2016-10-07T17:52:49Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Assessment of anxiety (procedure) on 2017-10-13T16:31:45Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Depression screening (procedure) on 2017-10-13T16:46:58Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Depression screening using Patient Health Questionnaire Nine Item score (procedure) on 2017-10-13T17:01:39Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Assessment of substance use (procedure) on 2017-10-13T17:24:52Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) on 2017-10-13T17:38:56Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Anticipatory guidance (procedure) on 2017-10-13T18:01:16Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Suture open wound on 2018-03-20T16:31:45Z for Laceration of foot.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Assessment of health and social care needs (procedure) on 2018-10-19T16:31:45Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Depression screening (procedure) on 2018-10-19T17:26:45Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Depression screening using Patient Health Questionnaire Two-Item score (procedure) on 2018-10-19T17:41:14Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Assessment of substance use (procedure) on 2018-10-19T18:05:38Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Assessment using Alcohol Use Disorders Identification Test - Consumption (procedure) on 2018-10-19T18:19:46Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Standard pregnancy test on 2019-10-18T16:31:45Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Ultrasound scan for fetal viability on 2019-10-18T16:31:45Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Evaluation of uterine fundal height on 2019-10-18T16:31:45Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Auscultation of the fetal heart on 2019-10-18T16:31:45Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Blood typing  RH typing on 2019-10-18T16:31:45Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Hemoglobin / Hematocrit / Platelet count on 2019-10-18T16:31:45Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Hepatitis B Surface Antigen Measurement on 2019-10-18T16:31:45Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Human immunodeficiency virus antigen test on 2019-10-18T16:31:45Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Chlamydia antigen test on 2019-10-18T16:31:45Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Gonorrhea infection test on 2019-10-18T16:31:45Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Syphilis infection test on 2019-10-18T16:31:45Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Urine culture on 2019-10-18T16:31:45Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Cytopathology procedure  preparation of smear  genital source on 2019-10-18T16:31:45Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Urine screening test for diabetes on 2019-10-18T16:31:45Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Hepatitis C antibody test on 2019-10-18T16:31:45Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Rubella screening on 2019-10-18T16:31:45Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Measurement of Varicella-zoster virus antibody on 2019-10-18T16:31:45Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Skin test for tuberculosis on 2019-10-18T16:31:45Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Urine protein test on 2019-10-18T16:31:45Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Physical examination of mother on 2019-10-18T16:31:45Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Assessment of health and social care needs (procedure) on 2019-10-25T16:31:45Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Evaluation of uterine fundal height on 2019-11-15T16:31:45Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Auscultation of the fetal heart on 2019-11-15T16:31:45Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Screening for chromosomal aneuploidy in prenatal amniotic fluid on 2019-11-15T16:31:45Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Fetal anatomy study on 2019-12-13T16:31:45Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Alpha-fetoprotein test on 2019-12-13T16:31:45Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Evaluation of uterine fundal height on 2019-12-13T16:31:45Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Auscultation of the fetal heart on 2019-12-13T16:31:45Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Evaluation of uterine fundal height on 2020-01-10T16:31:45Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Auscultation of the fetal heart on 2020-01-10T16:31:45Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Evaluation of uterine fundal height on 2020-02-07T16:31:45Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Auscultation of the fetal heart on 2020-02-07T16:31:45Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Hemoglobin / Hematocrit / Platelet count on 2020-03-06T16:31:45Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Vaccination for diphtheria  pertussis  and tetanus on 2020-03-06T16:31:45Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Urine screening for glucose on 2020-03-06T16:31:45Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Evaluation of uterine fundal height on 2020-03-06T16:31:45Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Auscultation of the fetal heart on 2020-03-06T16:31:45Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Evaluation of uterine fundal height on 2020-04-03T16:31:45Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Auscultation of the fetal heart on 2020-04-03T16:31:45Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Streptococcus pneumoniae group B antigen test on 2020-05-01T16:31:45Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Evaluation of uterine fundal height on 2020-05-01T16:31:45Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Auscultation of the fetal heart on 2020-05-01T16:31:45Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Evaluation of uterine fundal height on 2020-05-15T16:31:45Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Auscultation of the fetal heart on 2020-05-15T16:31:45Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Evaluation of uterine fundal height on 2020-05-22T16:31:45Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Auscultation of the fetal heart on 2020-05-22T16:31:45Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Epidural anesthesia on 2020-05-29T16:31:45Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Childbirth on 2020-05-29T16:31:45Z for Normal pregnancy.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Physical examination following birth on 2020-07-10T16:31:45Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Depression screening on 2020-07-10T16:31:45Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Throat culture (procedure) on 2020-08-05T23:31:45Z for Acute viral pharyngitis (disorder).",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Assessment of health and social care needs (procedure) on 2020-10-30T16:31:45Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Assessment of anxiety (procedure) on 2020-10-30T17:22:47Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Depression screening (procedure) on 2020-10-30T17:48:32Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Depression screening using Patient Health Questionnaire Two-Item score (procedure) on 2020-10-30T18:00:09Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Face mask (physical object) on 2021-02-08T16:31:45Z for Suspected COVID-19.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Plain chest X-ray (procedure) on 2021-02-08T17:17:44Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Oxygen administration by mask (procedure) on 2021-02-08T17:37:23Z for Hypoxemia (disorder).",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Placing subject in prone position (procedure) on 2021-02-08T17:37:23Z for Hypoxemia (disorder).",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Oxygen administration by mask (procedure) on 2021-02-09T17:37:23Z for Hypoxemia (disorder).",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Placing subject in prone position (procedure) on 2021-02-09T17:37:23Z for Hypoxemia (disorder).",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Oxygen administration by mask (procedure) on 2021-02-10T17:37:23Z for Hypoxemia (disorder).",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Placing subject in prone position (procedure) on 2021-02-10T17:37:23Z for Hypoxemia (disorder).",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Oxygen administration by mask (procedure) on 2021-02-11T17:37:23Z for Hypoxemia (disorder).",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Placing subject in prone position (procedure) on 2021-02-11T17:37:23Z for Hypoxemia (disorder).",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Oxygen administration by mask (procedure) on 2021-02-12T17:37:23Z for Hypoxemia (disorder).",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Placing subject in prone position (procedure) on 2021-02-12T17:37:23Z for Hypoxemia (disorder).",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Oxygen administration by mask (procedure) on 2021-02-13T17:37:23Z for Hypoxemia (disorder).",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Placing subject in prone position (procedure) on 2021-02-13T17:37:23Z for Hypoxemia (disorder).",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Oxygen administration by mask (procedure) on 2021-02-14T17:37:23Z for Hypoxemia (disorder).",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Placing subject in prone position (procedure) on 2021-02-14T17:37:23Z for Hypoxemia (disorder).",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Oxygen administration by mask (procedure) on 2021-02-15T17:37:23Z for Hypoxemia (disorder).",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Placing subject in prone position (procedure) on 2021-02-15T17:37:23Z for Hypoxemia (disorder).",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Oxygen administration by mask (procedure) on 2021-02-16T17:37:23Z for Hypoxemia (disorder).",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Placing subject in prone position (procedure) on 2021-02-16T17:37:23Z for Hypoxemia (disorder).",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Oxygen administration by mask (procedure) on 2021-02-17T17:37:23Z for Hypoxemia (disorder).",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Placing subject in prone position (procedure) on 2021-02-17T17:37:23Z for Hypoxemia (disorder).",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Oxygen administration by mask (procedure) on 2021-02-18T17:37:23Z for Hypoxemia (disorder).",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Placing subject in prone position (procedure) on 2021-02-18T17:37:23Z for Hypoxemia (disorder).",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Oxygen administration by mask (procedure) on 2021-02-19T17:37:23Z for Hypoxemia (disorder).",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Placing subject in prone position (procedure) on 2021-02-19T17:37:23Z for Hypoxemia (disorder).",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Oxygen administration by mask (procedure) on 2021-02-20T17:37:23Z for Hypoxemia (disorder).",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Placing subject in prone position (procedure) on 2021-02-20T17:37:23Z for Hypoxemia (disorder).",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Oxygen administration by mask (procedure) on 2021-02-20T17:37:23Z for Hypoxemia (disorder).",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Oxygen administration by mask (procedure) on 2021-02-21T17:37:23Z for Hypoxemia (disorder).",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Oxygen administration by mask (procedure) on 2021-02-22T17:37:23Z for Hypoxemia (disorder).",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Oxygen administration by mask (procedure) on 2021-02-23T17:37:23Z for Hypoxemia (disorder).",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Oxygen administration by mask (procedure) on 2021-02-24T17:37:23Z for Hypoxemia (disorder).",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Assessment of health and social care needs (procedure) on 2021-11-05T16:31:45Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient received immunization: Influenza  seasonal  injectable  preservative free on 2012-09-14T16:31:45Z.",
+    "type": "immunization"
+  },
+  {
+    "text": "Patient received immunization: HPV  quadrivalent on 2012-09-14T16:31:45Z.",
+    "type": "immunization"
+  },
+  {
+    "text": "Patient received immunization: Influenza  seasonal  injectable  preservative free on 2013-09-20T16:31:45Z.",
+    "type": "immunization"
+  },
+  {
+    "text": "Patient received immunization: HPV  quadrivalent on 2013-09-20T16:31:45Z.",
+    "type": "immunization"
+  },
+  {
+    "text": "Patient received immunization: Influenza  seasonal  injectable  preservative free on 2014-09-26T16:31:45Z.",
+    "type": "immunization"
+  },
+  {
+    "text": "Patient received immunization: Influenza  seasonal  injectable  preservative free on 2015-03-27T16:31:45Z.",
+    "type": "immunization"
+  },
+  {
+    "text": "Patient received immunization: Influenza  seasonal  injectable  preservative free on 2016-10-07T16:31:45Z.",
+    "type": "immunization"
+  },
+  {
+    "text": "Patient received immunization: meningococcal MCV4P on 2016-10-07T16:31:45Z.",
+    "type": "immunization"
+  },
+  {
+    "text": "Patient received immunization: Influenza  seasonal  injectable  preservative free on 2017-10-13T16:31:45Z.",
+    "type": "immunization"
+  },
+  {
+    "text": "Patient received immunization: Influenza  seasonal  injectable  preservative free on 2018-10-19T16:31:45Z.",
+    "type": "immunization"
+  },
+  {
+    "text": "Patient received immunization: Influenza  seasonal  injectable  preservative free on 2019-10-25T16:31:45Z.",
+    "type": "immunization"
+  },
+  {
+    "text": "Patient received immunization: Influenza  seasonal  injectable  preservative free on 2020-10-30T16:31:45Z.",
+    "type": "immunization"
+  },
+  {
+    "text": "Patient received immunization: Hep B  adult on 2020-10-30T16:31:45Z.",
+    "type": "immunization"
+  },
+  {
+    "text": "Patient received immunization: Influenza  seasonal  injectable  preservative free on 2021-11-05T16:31:45Z.",
+    "type": "immunization"
+  },
+  {
+    "text": "Patient received immunization: Td (adult) preservative free on 2021-11-05T16:31:45Z.",
+    "type": "immunization"
+  },
+  {
+    "text": "Patient received immunization: Hep B  adult on 2021-11-05T16:31:45Z.",
+    "type": "immunization"
+  },
+  {
+    "text": "Patient received immunization: meningococcal MCV4P on 2021-11-05T16:31:45Z.",
+    "type": "immunization"
+  },
+  {
+    "text": "Patient received supply: Disposable air-purifying respirator (physical object), quantity: 2 on 2021-02-08.",
+    "type": "supply"
+  },
+  {
+    "text": "Patient received supply: Nitrile examination/treatment glove  non-powdered  sterile (physical object), quantity: 24 on 2021-02-08.",
+    "type": "supply"
+  },
+  {
+    "text": "Patient received supply: Isolation gown  single-use (physical object), quantity: 12 on 2021-02-08.",
+    "type": "supply"
+  },
+  {
+    "text": "Patient received supply: Face shield (physical object), quantity: 2 on 2021-02-08.",
+    "type": "supply"
+  },
+  {
+    "text": "Patient received supply: Alcohol disinfectant (substance), quantity: 1 on 2021-02-08.",
+    "type": "supply"
+  },
+  {
+    "text": "Patient received supply: Antiseptic towelette (physical object), quantity: 8 on 2021-02-08.",
+    "type": "supply"
+  },
+  {
+    "text": "Patient received supply: Disposable air-purifying respirator (physical object), quantity: 2 on 2021-02-09.",
+    "type": "supply"
+  },
+  {
+    "text": "Patient received supply: Nitrile examination/treatment glove  non-powdered  sterile (physical object), quantity: 24 on 2021-02-09.",
+    "type": "supply"
+  },
+  {
+    "text": "Patient received supply: Isolation gown  single-use (physical object), quantity: 12 on 2021-02-09.",
+    "type": "supply"
+  },
+  {
+    "text": "Patient received supply: Face shield (physical object), quantity: 2 on 2021-02-09.",
+    "type": "supply"
+  },
+  {
+    "text": "Patient received supply: Alcohol disinfectant (substance), quantity: 1 on 2021-02-09.",
+    "type": "supply"
+  },
+  {
+    "text": "Patient received supply: Antiseptic towelette (physical object), quantity: 8 on 2021-02-09.",
+    "type": "supply"
+  },
+  {
+    "text": "Patient received supply: Disposable air-purifying respirator (physical object), quantity: 2 on 2021-02-10.",
+    "type": "supply"
+  },
+  {
+    "text": "Patient received supply: Nitrile examination/treatment glove  non-powdered  sterile (physical object), quantity: 24 on 2021-02-10.",
+    "type": "supply"
+  },
+  {
+    "text": "Patient received supply: Isolation gown  single-use (physical object), quantity: 12 on 2021-02-10.",
+    "type": "supply"
+  },
+  {
+    "text": "Patient received supply: Face shield (physical object), quantity: 2 on 2021-02-10.",
+    "type": "supply"
+  },
+  {
+    "text": "Patient received supply: Alcohol disinfectant (substance), quantity: 1 on 2021-02-10.",
+    "type": "supply"
+  },
+  {
+    "text": "Patient received supply: Antiseptic towelette (physical object), quantity: 8 on 2021-02-10.",
+    "type": "supply"
+  },
+  {
+    "text": "Patient received supply: Disposable air-purifying respirator (physical object), quantity: 2 on 2021-02-11.",
+    "type": "supply"
+  },
+  {
+    "text": "Patient received supply: Nitrile examination/treatment glove  non-powdered  sterile (physical object), quantity: 24 on 2021-02-11.",
+    "type": "supply"
+  },
+  {
+    "text": "Patient received supply: Isolation gown  single-use (physical object), quantity: 12 on 2021-02-11.",
+    "type": "supply"
+  },
+  {
+    "text": "Patient received supply: Face shield (physical object), quantity: 2 on 2021-02-11.",
+    "type": "supply"
+  },
+  {
+    "text": "Patient received supply: Alcohol disinfectant (substance), quantity: 1 on 2021-02-11.",
+    "type": "supply"
+  },
+  {
+    "text": "Patient received supply: Antiseptic towelette (physical object), quantity: 8 on 2021-02-11.",
+    "type": "supply"
+  },
+  {
+    "text": "Patient received supply: Disposable air-purifying respirator (physical object), quantity: 2 on 2021-02-12.",
+    "type": "supply"
+  },
+  {
+    "text": "Patient received supply: Nitrile examination/treatment glove  non-powdered  sterile (physical object), quantity: 24 on 2021-02-12.",
+    "type": "supply"
+  },
+  {
+    "text": "Patient received supply: Isolation gown  single-use (physical object), quantity: 12 on 2021-02-12.",
+    "type": "supply"
+  },
+  {
+    "text": "Patient received supply: Face shield (physical object), quantity: 2 on 2021-02-12.",
+    "type": "supply"
+  },
+  {
+    "text": "Patient received supply: Alcohol disinfectant (substance), quantity: 1 on 2021-02-12.",
+    "type": "supply"
+  },
+  {
+    "text": "Patient received supply: Antiseptic towelette (physical object), quantity: 8 on 2021-02-12.",
+    "type": "supply"
+  },
+  {
+    "text": "Patient received supply: Disposable air-purifying respirator (physical object), quantity: 2 on 2021-02-13.",
+    "type": "supply"
+  },
+  {
+    "text": "Patient received supply: Nitrile examination/treatment glove  non-powdered  sterile (physical object), quantity: 24 on 2021-02-13.",
+    "type": "supply"
+  },
+  {
+    "text": "Patient received supply: Isolation gown  single-use (physical object), quantity: 12 on 2021-02-13.",
+    "type": "supply"
+  },
+  {
+    "text": "Patient received supply: Face shield (physical object), quantity: 2 on 2021-02-13.",
+    "type": "supply"
+  },
+  {
+    "text": "Patient received supply: Alcohol disinfectant (substance), quantity: 1 on 2021-02-13.",
+    "type": "supply"
+  },
+  {
+    "text": "Patient received supply: Antiseptic towelette (physical object), quantity: 8 on 2021-02-13.",
+    "type": "supply"
+  },
+  {
+    "text": "Patient received supply: Disposable air-purifying respirator (physical object), quantity: 2 on 2021-02-14.",
+    "type": "supply"
+  },
+  {
+    "text": "Patient received supply: Nitrile examination/treatment glove  non-powdered  sterile (physical object), quantity: 24 on 2021-02-14.",
+    "type": "supply"
+  },
+  {
+    "text": "Patient received supply: Isolation gown  single-use (physical object), quantity: 12 on 2021-02-14.",
+    "type": "supply"
+  },
+  {
+    "text": "Patient received supply: Face shield (physical object), quantity: 2 on 2021-02-14.",
+    "type": "supply"
+  },
+  {
+    "text": "Patient received supply: Alcohol disinfectant (substance), quantity: 1 on 2021-02-14.",
+    "type": "supply"
+  },
+  {
+    "text": "Patient received supply: Antiseptic towelette (physical object), quantity: 8 on 2021-02-14.",
+    "type": "supply"
+  },
+  {
+    "text": "Patient received supply: Disposable air-purifying respirator (physical object), quantity: 2 on 2021-02-15.",
+    "type": "supply"
+  },
+  {
+    "text": "Patient received supply: Nitrile examination/treatment glove  non-powdered  sterile (physical object), quantity: 24 on 2021-02-15.",
+    "type": "supply"
+  },
+  {
+    "text": "Patient received supply: Isolation gown  single-use (physical object), quantity: 12 on 2021-02-15.",
+    "type": "supply"
+  },
+  {
+    "text": "Patient received supply: Face shield (physical object), quantity: 2 on 2021-02-15.",
+    "type": "supply"
+  },
+  {
+    "text": "Patient received supply: Alcohol disinfectant (substance), quantity: 1 on 2021-02-15.",
+    "type": "supply"
+  },
+  {
+    "text": "Patient received supply: Antiseptic towelette (physical object), quantity: 8 on 2021-02-15.",
+    "type": "supply"
+  },
+  {
+    "text": "Patient received supply: Disposable air-purifying respirator (physical object), quantity: 2 on 2021-02-16.",
+    "type": "supply"
+  },
+  {
+    "text": "Patient received supply: Nitrile examination/treatment glove  non-powdered  sterile (physical object), quantity: 24 on 2021-02-16.",
+    "type": "supply"
+  },
+  {
+    "text": "Patient received supply: Isolation gown  single-use (physical object), quantity: 12 on 2021-02-16.",
+    "type": "supply"
+  },
+  {
+    "text": "Patient received supply: Face shield (physical object), quantity: 2 on 2021-02-16.",
+    "type": "supply"
+  },
+  {
+    "text": "Patient received supply: Alcohol disinfectant (substance), quantity: 1 on 2021-02-16.",
+    "type": "supply"
+  },
+  {
+    "text": "Patient received supply: Antiseptic towelette (physical object), quantity: 8 on 2021-02-16.",
+    "type": "supply"
+  },
+  {
+    "text": "Patient received supply: Disposable air-purifying respirator (physical object), quantity: 2 on 2021-02-17.",
+    "type": "supply"
+  },
+  {
+    "text": "Patient received supply: Nitrile examination/treatment glove  non-powdered  sterile (physical object), quantity: 24 on 2021-02-17.",
+    "type": "supply"
+  },
+  {
+    "text": "Patient received supply: Isolation gown  single-use (physical object), quantity: 12 on 2021-02-17.",
+    "type": "supply"
+  },
+  {
+    "text": "Patient received supply: Face shield (physical object), quantity: 2 on 2021-02-17.",
+    "type": "supply"
+  },
+  {
+    "text": "Patient received supply: Alcohol disinfectant (substance), quantity: 1 on 2021-02-17.",
+    "type": "supply"
+  },
+  {
+    "text": "Patient received supply: Antiseptic towelette (physical object), quantity: 8 on 2021-02-17.",
+    "type": "supply"
+  },
+  {
+    "text": "Patient received supply: Disposable air-purifying respirator (physical object), quantity: 2 on 2021-02-18.",
+    "type": "supply"
+  },
+  {
+    "text": "Patient received supply: Nitrile examination/treatment glove  non-powdered  sterile (physical object), quantity: 24 on 2021-02-18.",
+    "type": "supply"
+  },
+  {
+    "text": "Patient received supply: Isolation gown  single-use (physical object), quantity: 12 on 2021-02-18.",
+    "type": "supply"
+  },
+  {
+    "text": "Patient received supply: Face shield (physical object), quantity: 2 on 2021-02-18.",
+    "type": "supply"
+  },
+  {
+    "text": "Patient received supply: Alcohol disinfectant (substance), quantity: 1 on 2021-02-18.",
+    "type": "supply"
+  },
+  {
+    "text": "Patient received supply: Antiseptic towelette (physical object), quantity: 8 on 2021-02-18.",
+    "type": "supply"
+  },
+  {
+    "text": "Patient received supply: Disposable air-purifying respirator (physical object), quantity: 2 on 2021-02-19.",
+    "type": "supply"
+  },
+  {
+    "text": "Patient received supply: Nitrile examination/treatment glove  non-powdered  sterile (physical object), quantity: 24 on 2021-02-19.",
+    "type": "supply"
+  },
+  {
+    "text": "Patient received supply: Isolation gown  single-use (physical object), quantity: 12 on 2021-02-19.",
+    "type": "supply"
+  },
+  {
+    "text": "Patient received supply: Face shield (physical object), quantity: 2 on 2021-02-19.",
+    "type": "supply"
+  },
+  {
+    "text": "Patient received supply: Alcohol disinfectant (substance), quantity: 1 on 2021-02-19.",
+    "type": "supply"
+  },
+  {
+    "text": "Patient received supply: Antiseptic towelette (physical object), quantity: 8 on 2021-02-19.",
+    "type": "supply"
+  },
+  {
+    "text": "Patient received supply: Disposable air-purifying respirator (physical object), quantity: 2 on 2021-02-20.",
+    "type": "supply"
+  },
+  {
+    "text": "Patient received supply: Nitrile examination/treatment glove  non-powdered  sterile (physical object), quantity: 24 on 2021-02-20.",
+    "type": "supply"
+  },
+  {
+    "text": "Patient received supply: Isolation gown  single-use (physical object), quantity: 12 on 2021-02-20.",
+    "type": "supply"
+  },
+  {
+    "text": "Patient received supply: Face shield (physical object), quantity: 2 on 2021-02-20.",
+    "type": "supply"
+  },
+  {
+    "text": "Patient received supply: Alcohol disinfectant (substance), quantity: 1 on 2021-02-20.",
+    "type": "supply"
+  },
+  {
+    "text": "Patient received supply: Antiseptic towelette (physical object), quantity: 8 on 2021-02-20.",
+    "type": "supply"
+  },
+  {
+    "text": "Patient received supply: Nitrile examination/treatment glove  non-powdered  sterile (physical object), quantity: 44 on 2021-02-20.",
+    "type": "supply"
+  },
+  {
+    "text": "Patient received supply: Isolation gown  reusable (physical object), quantity: 2 on 2021-02-20.",
+    "type": "supply"
+  },
+  {
+    "text": "Patient received supply: Isolation gown  single-use (physical object), quantity: 10 on 2021-02-20.",
+    "type": "supply"
+  },
+  {
+    "text": "Patient received supply: Disposable air-purifying respirator (physical object), quantity: 2 on 2021-02-20.",
+    "type": "supply"
+  },
+  {
+    "text": "Patient received supply: Face shield (physical object), quantity: 2 on 2021-02-20.",
+    "type": "supply"
+  },
+  {
+    "text": "Patient received supply: Alcohol disinfectant (substance), quantity: 2 on 2021-02-20.",
+    "type": "supply"
+  },
+  {
+    "text": "Patient received supply: Antiseptic towelette (physical object), quantity: 16 on 2021-02-20.",
+    "type": "supply"
+  },
+  {
+    "text": "Patient received supply: Nitrile examination/treatment glove  non-powdered  sterile (physical object), quantity: 44 on 2021-02-21.",
+    "type": "supply"
+  },
+  {
+    "text": "Patient received supply: Isolation gown  reusable (physical object), quantity: 2 on 2021-02-21.",
+    "type": "supply"
+  },
+  {
+    "text": "Patient received supply: Isolation gown  single-use (physical object), quantity: 10 on 2021-02-21.",
+    "type": "supply"
+  },
+  {
+    "text": "Patient received supply: Disposable air-purifying respirator (physical object), quantity: 2 on 2021-02-21.",
+    "type": "supply"
+  },
+  {
+    "text": "Patient received supply: Face shield (physical object), quantity: 2 on 2021-02-21.",
+    "type": "supply"
+  },
+  {
+    "text": "Patient received supply: Alcohol disinfectant (substance), quantity: 2 on 2021-02-21.",
+    "type": "supply"
+  },
+  {
+    "text": "Patient received supply: Antiseptic towelette (physical object), quantity: 16 on 2021-02-21.",
+    "type": "supply"
+  },
+  {
+    "text": "Patient received supply: Nitrile examination/treatment glove  non-powdered  sterile (physical object), quantity: 44 on 2021-02-22.",
+    "type": "supply"
+  },
+  {
+    "text": "Patient received supply: Isolation gown  reusable (physical object), quantity: 2 on 2021-02-22.",
+    "type": "supply"
+  },
+  {
+    "text": "Patient received supply: Isolation gown  single-use (physical object), quantity: 10 on 2021-02-22.",
+    "type": "supply"
+  },
+  {
+    "text": "Patient received supply: Disposable air-purifying respirator (physical object), quantity: 2 on 2021-02-22.",
+    "type": "supply"
+  },
+  {
+    "text": "Patient received supply: Face shield (physical object), quantity: 2 on 2021-02-22.",
+    "type": "supply"
+  },
+  {
+    "text": "Patient received supply: Alcohol disinfectant (substance), quantity: 2 on 2021-02-22.",
+    "type": "supply"
+  },
+  {
+    "text": "Patient received supply: Antiseptic towelette (physical object), quantity: 16 on 2021-02-22.",
+    "type": "supply"
+  },
+  {
+    "text": "Patient received supply: Nitrile examination/treatment glove  non-powdered  sterile (physical object), quantity: 44 on 2021-02-23.",
+    "type": "supply"
+  },
+  {
+    "text": "Patient received supply: Isolation gown  reusable (physical object), quantity: 2 on 2021-02-23.",
+    "type": "supply"
+  },
+  {
+    "text": "Patient received supply: Isolation gown  single-use (physical object), quantity: 10 on 2021-02-23.",
+    "type": "supply"
+  },
+  {
+    "text": "Patient received supply: Disposable air-purifying respirator (physical object), quantity: 2 on 2021-02-23.",
+    "type": "supply"
+  },
+  {
+    "text": "Patient received supply: Face shield (physical object), quantity: 2 on 2021-02-23.",
+    "type": "supply"
+  },
+  {
+    "text": "Patient received supply: Alcohol disinfectant (substance), quantity: 2 on 2021-02-23.",
+    "type": "supply"
+  },
+  {
+    "text": "Patient received supply: Antiseptic towelette (physical object), quantity: 16 on 2021-02-23.",
+    "type": "supply"
+  },
+  {
+    "text": "Patient received supply: Nitrile examination/treatment glove  non-powdered  sterile (physical object), quantity: 44 on 2021-02-24.",
+    "type": "supply"
+  },
+  {
+    "text": "Patient received supply: Isolation gown  reusable (physical object), quantity: 2 on 2021-02-24.",
+    "type": "supply"
+  },
+  {
+    "text": "Patient received supply: Isolation gown  single-use (physical object), quantity: 10 on 2021-02-24.",
+    "type": "supply"
+  },
+  {
+    "text": "Patient received supply: Disposable air-purifying respirator (physical object), quantity: 2 on 2021-02-24.",
+    "type": "supply"
+  },
+  {
+    "text": "Patient received supply: Face shield (physical object), quantity: 2 on 2021-02-24.",
+    "type": "supply"
+  },
+  {
+    "text": "Patient received supply: Alcohol disinfectant (substance), quantity: 2 on 2021-02-24.",
+    "type": "supply"
+  },
+  {
+    "text": "Patient received supply: Antiseptic towelette (physical object), quantity: 16 on 2021-02-24.",
+    "type": "supply"
+  },
+  {
+    "text": "Patient insurance: Verla696 Hamill307 (ownership: Self) from 2000-09-01T16:31:45Z to 2001-09-07T16:31:45Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Verla696 Hamill307 (ownership: Self) from 2001-09-07T16:31:45Z to 2002-09-13T16:31:45Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Verla696 Hamill307 (ownership: Self) from 2002-09-13T16:31:45Z to 2003-09-19T16:31:45Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Verla696 Hamill307 (ownership: Self) from 2003-09-19T16:31:45Z to 2004-09-24T16:31:45Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Verla696 Hamill307 (ownership: Self) from 2004-09-24T16:31:45Z to 2005-09-30T16:31:45Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Verla696 Hamill307 (ownership: Self) from 2005-09-30T16:31:45Z to 2006-10-06T16:31:45Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Verla696 Hamill307 (ownership: Self) from 2006-10-06T16:31:45Z to 2007-10-12T16:31:45Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Verla696 Hamill307 (ownership: Self) from 2007-10-12T16:31:45Z to 2008-10-17T16:31:45Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Verla696 Hamill307 (ownership: Self) from 2008-10-17T16:31:45Z to 2009-10-23T16:31:45Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Verla696 Hamill307 (ownership: Self) from 2009-10-23T16:31:45Z to 2010-10-29T16:31:45Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Verla696 Hamill307 (ownership: Self) from 2010-10-29T16:31:45Z to 2011-11-04T16:31:45Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Verla696 Hamill307 (ownership: Self) from 2011-11-04T16:31:45Z to 2012-11-09T16:31:45Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Verla696 Hamill307 (ownership: Self) from 2012-11-09T16:31:45Z to 2013-11-15T16:31:45Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Verla696 Hamill307 (ownership: Self) from 2013-11-15T16:31:45Z to 2014-11-21T16:31:45Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Verla696 Hamill307 (ownership: Self) from 2014-11-21T16:31:45Z to 2015-11-27T16:31:45Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Verla696 Hamill307 (ownership: Self) from 2015-11-27T16:31:45Z to 2016-12-02T16:31:45Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Verla696 Hamill307 (ownership: Self) from 2016-12-02T16:31:45Z to 2017-12-08T16:31:45Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Verla696 Hamill307 (ownership: Self) from 2017-12-08T16:31:45Z to 2018-12-14T16:31:45Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Verla696 Hamill307 (ownership: Self) from 2018-12-14T16:31:45Z to 2019-12-06T16:31:45Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance:  (ownership: ) from 2019-12-06T16:31:45Z to 2020-01-03T16:31:45Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance:  (ownership: ) from 2020-01-03T16:31:45Z to 2020-02-07T16:31:45Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance:  (ownership: ) from 2020-02-07T16:31:45Z to 2020-03-06T16:31:45Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance:  (ownership: ) from 2020-03-06T16:31:45Z to 2020-04-03T16:31:45Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance:  (ownership: ) from 2020-04-03T16:31:45Z to 2020-05-01T16:31:45Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance:  (ownership: ) from 2020-05-01T16:31:45Z to 2020-06-05T16:31:45Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance:  (ownership: ) from 2020-06-05T16:31:45Z to 2021-04-02T16:31:45Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance:  (ownership: ) from 2021-04-02T16:31:45Z to 2022-04-02T16:31:45Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient observation \u2014 Body Height (vital-signs): 160.1 cm on 2012-09-14T16:31:45Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Pain severity - 0-10 verbal numeric rating [Score] - Reported (vital-signs): 1.0 {score} on 2012-09-14T16:31:45Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Body Weight (vital-signs): 48.9 kg on 2012-09-14T16:31:45Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Body Mass Index (vital-signs): 19.1 kg/m2 on 2012-09-14T16:31:45Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Body mass index (BMI) [Percentile] Per age and gender (vital-signs): 63.5 % on 2012-09-14T16:31:45Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Diastolic Blood Pressure (vital-signs): 78.0 mm[Hg] on 2012-09-14T16:31:45Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Systolic Blood Pressure (vital-signs): 111.0 mm[Hg] on 2012-09-14T16:31:45Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Heart rate (vital-signs): 61.0 /min on 2012-09-14T16:31:45Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Respiratory rate (vital-signs): 13.0 /min on 2012-09-14T16:31:45Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Tobacco smoking status NHIS (survey): Never smoker on 2012-09-14T16:31:45Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] (survey): 1.0 {score} on 2012-09-14T16:58:13Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] (survey): 2.0 {score} on 2012-09-14T17:40:21Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Body Height (vital-signs): 165.4 cm on 2013-09-20T16:31:45Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Pain severity - 0-10 verbal numeric rating [Score] - Reported (vital-signs): 3.0 {score} on 2013-09-20T16:31:45Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Body Weight (vital-signs): 55.3 kg on 2013-09-20T16:31:45Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Body Mass Index (vital-signs): 20.2 kg/m2 on 2013-09-20T16:31:45Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Body mass index (BMI) [Percentile] Per age and gender (vital-signs): 68.1 % on 2013-09-20T16:31:45Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Diastolic Blood Pressure (vital-signs): 73.0 mm[Hg] on 2013-09-20T16:31:45Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Systolic Blood Pressure (vital-signs): 110.0 mm[Hg] on 2013-09-20T16:31:45Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Heart rate (vital-signs): 66.0 /min on 2013-09-20T16:31:45Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Respiratory rate (vital-signs): 12.0 /min on 2013-09-20T16:31:45Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Tobacco smoking status NHIS (survey): Never smoker on 2013-09-20T16:31:45Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] (survey): 0.0 {score} on 2013-09-20T17:12:58Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Body Height (vital-signs): 168.4 cm on 2014-09-26T16:31:45Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Pain severity - 0-10 verbal numeric rating [Score] - Reported (vital-signs): 2.0 {score} on 2014-09-26T16:31:45Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Body Weight (vital-signs): 59.9 kg on 2014-09-26T16:31:45Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Body Mass Index (vital-signs): 21.1 kg/m2 on 2014-09-26T16:31:45Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Body mass index (BMI) [Percentile] Per age and gender (vital-signs): 69.9 % on 2014-09-26T16:31:45Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Diastolic Blood Pressure (vital-signs): 75.0 mm[Hg] on 2014-09-26T16:31:45Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Systolic Blood Pressure (vital-signs): 109.0 mm[Hg] on 2014-09-26T16:31:45Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Heart rate (vital-signs): 86.0 /min on 2014-09-26T16:31:45Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Respiratory rate (vital-signs): 14.0 /min on 2014-09-26T16:31:45Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Tobacco smoking status NHIS (survey): Never smoker on 2014-09-26T16:31:45Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ] (survey): 2.0 {score} on 2014-09-26T17:01:25Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] (survey): 3.0 {score} on 2014-09-26T17:36:01Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Body Height (vital-signs): 169.1 cm on 2015-03-27T16:31:45Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Pain severity - 0-10 verbal numeric rating [Score] - Reported (vital-signs): 3.0 {score} on 2015-03-27T16:31:45Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Body Weight (vital-signs): 61.5 kg on 2015-03-27T16:31:45Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Body Mass Index (vital-signs): 21.5 kg/m2 on 2015-03-27T16:31:45Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Body mass index (BMI) [Percentile] Per age and gender (vital-signs): 70.3 % on 2015-03-27T16:31:45Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Diastolic Blood Pressure (vital-signs): 74.0 mm[Hg] on 2015-03-27T16:31:45Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Systolic Blood Pressure (vital-signs): 122.0 mm[Hg] on 2015-03-27T16:31:45Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Heart rate (vital-signs): 88.0 /min on 2015-03-27T16:31:45Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Respiratory rate (vital-signs): 14.0 /min on 2015-03-27T16:31:45Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Tobacco smoking status NHIS (survey): Never smoker on 2015-03-27T16:31:45Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] (survey): 3.0 {score} on 2015-03-27T17:10:03Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Body Height (vital-signs): 169.6 cm on 2015-10-02T16:31:45Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Pain severity - 0-10 verbal numeric rating [Score] - Reported (vital-signs): 4.0 {score} on 2015-10-02T16:31:45Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Body Weight (vital-signs): 61.7 kg on 2015-10-02T16:31:45Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Body Mass Index (vital-signs): 21.4 kg/m2 on 2015-10-02T16:31:45Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Body mass index (BMI) [Percentile] Per age and gender (vital-signs): 66.9 % on 2015-10-02T16:31:45Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Diastolic Blood Pressure (vital-signs): 81.0 mm[Hg] on 2015-10-02T16:31:45Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Systolic Blood Pressure (vital-signs): 113.0 mm[Hg] on 2015-10-02T16:31:45Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Heart rate (vital-signs): 76.0 /min on 2015-10-02T16:31:45Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Respiratory rate (vital-signs): 13.0 /min on 2015-10-02T16:31:45Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Tobacco smoking status NHIS (survey): Never smoker on 2015-10-02T16:31:45Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen] (survey): 0.0 {score} on 2015-10-02T17:10:29Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Body Height (vital-signs): 170.2 cm on 2016-10-07T16:31:45Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Pain severity - 0-10 verbal numeric rating [Score] - Reported (vital-signs): 0.0 {score} on 2016-10-07T16:31:45Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Body Weight (vital-signs): 61.2 kg on 2016-10-07T16:31:45Z.",
+    "type": "observation"
+  }
+]

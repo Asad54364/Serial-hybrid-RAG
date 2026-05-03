@@ -1,0 +1,474 @@
+[
+  {
+    "text": "Patient prescribed cetirizine hydrochloride 5 MG Oral Tablet starting 2020-02-17T10:40:32Z (ongoing).",
+    "type": "medication"
+  },
+  {
+    "text": "Patient prescribed NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector starting 2020-02-17T10:40:32Z (ongoing).",
+    "type": "medication"
+  },
+  {
+    "text": "Patient had a wellness encounter (Well child visit (procedure)) from 2019-02-17T05:07:38Z to 2019-02-17T05:22:38Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a wellness encounter (Well child visit (procedure)) from 2019-03-24T05:07:38Z to 2019-03-24T05:22:38Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a wellness encounter (Well child visit (procedure)) from 2019-05-26T05:07:38Z to 2019-05-26T05:22:38Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a wellness encounter (Well child visit (procedure)) from 2019-07-28T05:07:38Z to 2019-07-28T05:22:38Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a wellness encounter (Well child visit (procedure)) from 2019-10-27T05:07:38Z to 2019-10-27T05:22:38Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a wellness encounter (Well child visit (procedure)) from 2020-01-26T05:07:38Z to 2020-01-26T05:22:38Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a ambulatory encounter (Encounter for problem) from 2020-02-05T06:07:38Z to 2020-02-05T06:22:38Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a ambulatory encounter (Encounter for problem) from 2020-02-17T10:07:38Z to 2020-02-17T10:40:32Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a wellness encounter (Well child visit (procedure)) from 2020-04-26T05:07:38Z to 2020-04-26T05:22:38Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a wellness encounter (Well child visit (procedure)) from 2020-07-26T05:07:38Z to 2020-07-26T05:22:38Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a wellness encounter (Well child visit (procedure)) from 2021-01-24T05:07:38Z to 2021-01-24T05:22:38Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a wellness encounter (Well child visit (procedure)) from 2021-07-25T05:07:38Z to 2021-07-25T05:22:38Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient has allergy to Latex (substance) (category: environment, type: allergy) (reaction: Wheal (finding)) \u2014 severity: MILD, noted 2020-02-17 (ongoing).",
+    "type": "allergy"
+  },
+  {
+    "text": "Patient has allergy to Mold (organism) (category: environment, type: allergy) (reaction: Sneezing) \u2014 severity: MILD, noted 2020-02-17 (ongoing).",
+    "type": "allergy"
+  },
+  {
+    "text": "Patient has allergy to House dust mite (organism) (category: environment, type: allergy), noted 2020-02-17 (ongoing).",
+    "type": "allergy"
+  },
+  {
+    "text": "Patient has allergy to Animal dander (substance) (category: environment, type: allergy) (reaction: Rhinoconjunctivitis (disorder)) \u2014 severity: MODERATE, noted 2020-02-17 (ongoing).",
+    "type": "allergy"
+  },
+  {
+    "text": "Patient has allergy to Grass pollen (substance) (category: environment, type: allergy), noted 2020-02-17 (ongoing).",
+    "type": "allergy"
+  },
+  {
+    "text": "Patient has allergy to Aspirin (category: medication, type: allergy), noted 2020-02-17 (ongoing).",
+    "type": "allergy"
+  },
+  {
+    "text": "Patient has allergy to Cow's milk (substance) (category: food, type: allergy) (reaction: Finding of vomiting (finding)) \u2014 severity: MODERATE, noted 2020-02-17 (ongoing).",
+    "type": "allergy"
+  },
+  {
+    "text": "Patient has allergy to Soya bean (substance) (category: food, type: allergy) (reaction: Finding of vomiting (finding)) \u2014 severity: MODERATE, noted 2020-02-17 (ongoing).",
+    "type": "allergy"
+  },
+  {
+    "text": "Patient has allergy to Shellfish (substance) (category: food, type: allergy) (reaction: Allergic angioedema (disorder)) \u2014 severity: MODERATE, noted 2020-02-17 (ongoing).",
+    "type": "allergy"
+  },
+  {
+    "text": "Patient on care plan: Self-care interventions (procedure) starting 2020-02-05 (ongoing).",
+    "type": "careplan"
+  },
+  {
+    "text": "Patient underwent procedure: Medication Reconciliation (procedure) on 2019-02-17T05:07:38Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Medication Reconciliation (procedure) on 2019-05-26T05:07:38Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Medication Reconciliation (procedure) on 2019-07-28T05:07:38Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Allergy screening test on 2020-02-17T10:07:38Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Medication Reconciliation (procedure) on 2020-04-26T05:07:38Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Medication Reconciliation (procedure) on 2021-01-24T05:07:38Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient received immunization: Hep B  adolescent or pediatric on 2019-02-17T05:07:38Z.",
+    "type": "immunization"
+  },
+  {
+    "text": "Patient received immunization: Hep B  adolescent or pediatric on 2019-03-24T05:07:38Z.",
+    "type": "immunization"
+  },
+  {
+    "text": "Patient received immunization: Hib (PRP-OMP) on 2019-05-26T05:07:38Z.",
+    "type": "immunization"
+  },
+  {
+    "text": "Patient received immunization: rotavirus  monovalent on 2019-05-26T05:07:38Z.",
+    "type": "immunization"
+  },
+  {
+    "text": "Patient received immunization: IPV on 2019-05-26T05:07:38Z.",
+    "type": "immunization"
+  },
+  {
+    "text": "Patient received immunization: DTaP on 2019-05-26T05:07:38Z.",
+    "type": "immunization"
+  },
+  {
+    "text": "Patient received immunization: Pneumococcal conjugate PCV 13 on 2019-05-26T05:07:38Z.",
+    "type": "immunization"
+  },
+  {
+    "text": "Patient received immunization: Hib (PRP-OMP) on 2019-07-28T05:07:38Z.",
+    "type": "immunization"
+  },
+  {
+    "text": "Patient received immunization: rotavirus  monovalent on 2019-07-28T05:07:38Z.",
+    "type": "immunization"
+  },
+  {
+    "text": "Patient received immunization: IPV on 2019-07-28T05:07:38Z.",
+    "type": "immunization"
+  },
+  {
+    "text": "Patient received immunization: DTaP on 2019-07-28T05:07:38Z.",
+    "type": "immunization"
+  },
+  {
+    "text": "Patient received immunization: Pneumococcal conjugate PCV 13 on 2019-07-28T05:07:38Z.",
+    "type": "immunization"
+  },
+  {
+    "text": "Patient received immunization: IPV on 2019-10-27T05:07:38Z.",
+    "type": "immunization"
+  },
+  {
+    "text": "Patient received immunization: Influenza  seasonal  injectable  preservative free on 2019-10-27T05:07:38Z.",
+    "type": "immunization"
+  },
+  {
+    "text": "Patient received immunization: DTaP on 2019-10-27T05:07:38Z.",
+    "type": "immunization"
+  },
+  {
+    "text": "Patient received immunization: Pneumococcal conjugate PCV 13 on 2019-10-27T05:07:38Z.",
+    "type": "immunization"
+  },
+  {
+    "text": "Patient received immunization: Hep B  adolescent or pediatric on 2019-10-27T05:07:38Z.",
+    "type": "immunization"
+  },
+  {
+    "text": "Patient received immunization: Hib (PRP-OMP) on 2020-04-26T05:07:38Z.",
+    "type": "immunization"
+  },
+  {
+    "text": "Patient received immunization: varicella on 2020-04-26T05:07:38Z.",
+    "type": "immunization"
+  },
+  {
+    "text": "Patient received immunization: MMR on 2020-04-26T05:07:38Z.",
+    "type": "immunization"
+  },
+  {
+    "text": "Patient received immunization: Pneumococcal conjugate PCV 13 on 2020-04-26T05:07:38Z.",
+    "type": "immunization"
+  },
+  {
+    "text": "Patient received immunization: Hep A  ped/adol  2 dose on 2020-04-26T05:07:38Z.",
+    "type": "immunization"
+  },
+  {
+    "text": "Patient received immunization: DTaP on 2020-07-26T05:07:38Z.",
+    "type": "immunization"
+  },
+  {
+    "text": "Patient received immunization: Influenza  seasonal  injectable  preservative free on 2021-01-24T05:07:38Z.",
+    "type": "immunization"
+  },
+  {
+    "text": "Patient received immunization: Hep A  ped/adol  2 dose on 2021-07-25T05:07:38Z.",
+    "type": "immunization"
+  },
+  {
+    "text": "Patient insurance: Damon455 Langosh790 (ownership: Self) from 2019-02-24T05:07:38Z to 2020-03-01T05:07:38Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Damon455 Langosh790 (ownership: Self) from 2020-03-01T05:07:38Z to 2021-03-07T05:07:38Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Damon455 Langosh790 (ownership: Self) from 2021-03-07T05:07:38Z to 2022-03-07T05:07:38Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient observation \u2014 Body Height (vital-signs): 51.4 cm on 2019-02-17T05:07:38Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Pain severity - 0-10 verbal numeric rating [Score] - Reported (vital-signs): 1.0 {score} on 2019-02-17T05:07:38Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Body Weight (vital-signs): 3.8 kg on 2019-02-17T05:07:38Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Weight-for-length Per age and sex (vital-signs): 57.9 % on 2019-02-17T05:07:38Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Head Occipital-frontal circumference (vital-signs): 34.8 cm on 2019-02-17T05:07:38Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Diastolic Blood Pressure (vital-signs): 89.0 mm[Hg] on 2019-02-17T05:07:38Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Systolic Blood Pressure (vital-signs): 115.0 mm[Hg] on 2019-02-17T05:07:38Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Heart rate (vital-signs): 94.0 /min on 2019-02-17T05:07:38Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Respiratory rate (vital-signs): 15.0 /min on 2019-02-17T05:07:38Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Leukocytes [#/volume] in Blood by Automated count (laboratory): 5.8 10*3/uL on 2019-02-17T05:07:38Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Erythrocytes [#/volume] in Blood by Automated count (laboratory): 4.1 10*6/uL on 2019-02-17T05:07:38Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Hemoglobin [Mass/volume] in Blood (laboratory): 17.4 g/dL on 2019-02-17T05:07:38Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Hematocrit [Volume Fraction] of Blood by Automated count (laboratory): 40.3 % on 2019-02-17T05:07:38Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 MCV [Entitic volume] by Automated count (laboratory): 91.1 fL on 2019-02-17T05:07:38Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 MCH [Entitic mass] by Automated count (laboratory): 29.3 pg on 2019-02-17T05:07:38Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 MCHC [Mass/volume] by Automated count (laboratory): 34.9 g/dL on 2019-02-17T05:07:38Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Erythrocyte distribution width [Entitic volume] by Automated count (laboratory): 39.5 fL on 2019-02-17T05:07:38Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Platelets [#/volume] in Blood by Automated count (laboratory): 407.0 10*3/uL on 2019-02-17T05:07:38Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Platelet distribution width [Entitic volume] in Blood by Automated count (laboratory): 449.5 fL on 2019-02-17T05:07:38Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Platelet mean volume [Entitic volume] in Blood by Automated count (laboratory): 10.0 fL on 2019-02-17T05:07:38Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Tobacco smoking status NHIS (survey): Never smoker on 2019-02-17T05:07:38Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Body Height (vital-signs): 55.4 cm on 2019-03-24T05:07:38Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Pain severity - 0-10 verbal numeric rating [Score] - Reported (vital-signs): 4.0 {score} on 2019-03-24T05:07:38Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Body Weight (vital-signs): 4.6 kg on 2019-03-24T05:07:38Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Weight-for-length Per age and sex (vital-signs): 39.0 % on 2019-03-24T05:07:38Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Head Occipital-frontal circumference (vital-signs): 38.4 cm on 2019-03-24T05:07:38Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Diastolic Blood Pressure (vital-signs): 71.0 mm[Hg] on 2019-03-24T05:07:38Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Systolic Blood Pressure (vital-signs): 115.0 mm[Hg] on 2019-03-24T05:07:38Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Heart rate (vital-signs): 89.0 /min on 2019-03-24T05:07:38Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Respiratory rate (vital-signs): 14.0 /min on 2019-03-24T05:07:38Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Tobacco smoking status NHIS (survey): Never smoker on 2019-03-24T05:07:38Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Body Height (vital-signs): 60.9 cm on 2019-05-26T05:07:38Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Pain severity - 0-10 verbal numeric rating [Score] - Reported (vital-signs): 4.0 {score} on 2019-05-26T05:07:38Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Body Weight (vital-signs): 6.1 kg on 2019-05-26T05:07:38Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Weight-for-length Per age and sex (vital-signs): 36.6 % on 2019-05-26T05:07:38Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Head Occipital-frontal circumference (vital-signs): 41.0 cm on 2019-05-26T05:07:38Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Diastolic Blood Pressure (vital-signs): 77.0 mm[Hg] on 2019-05-26T05:07:38Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Systolic Blood Pressure (vital-signs): 124.0 mm[Hg] on 2019-05-26T05:07:38Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Heart rate (vital-signs): 95.0 /min on 2019-05-26T05:07:38Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Respiratory rate (vital-signs): 16.0 /min on 2019-05-26T05:07:38Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Tobacco smoking status NHIS (survey): Never smoker on 2019-05-26T05:07:38Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Body Height (vital-signs): 64.9 cm on 2019-07-28T05:07:38Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Pain severity - 0-10 verbal numeric rating [Score] - Reported (vital-signs): 0.0 {score} on 2019-07-28T05:07:38Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Body Weight (vital-signs): 7.3 kg on 2019-07-28T05:07:38Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Weight-for-length Per age and sex (vital-signs): 49.7 % on 2019-07-28T05:07:38Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Head Occipital-frontal circumference (vital-signs): 42.7 cm on 2019-07-28T05:07:38Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Diastolic Blood Pressure (vital-signs): 82.0 mm[Hg] on 2019-07-28T05:07:38Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Systolic Blood Pressure (vital-signs): 112.0 mm[Hg] on 2019-07-28T05:07:38Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Heart rate (vital-signs): 88.0 /min on 2019-07-28T05:07:38Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Respiratory rate (vital-signs): 13.0 /min on 2019-07-28T05:07:38Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Tobacco smoking status NHIS (survey): Never smoker on 2019-07-28T05:07:38Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Body Height (vital-signs): 69.6 cm on 2019-10-27T05:07:38Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Pain severity - 0-10 verbal numeric rating [Score] - Reported (vital-signs): 1.0 {score} on 2019-10-27T05:07:38Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Body Weight (vital-signs): 8.7 kg on 2019-10-27T05:07:38Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Weight-for-length Per age and sex (vital-signs): 58.6 % on 2019-10-27T05:07:38Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Head Occipital-frontal circumference (vital-signs): 44.4 cm on 2019-10-27T05:07:38Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Diastolic Blood Pressure (vital-signs): 74.0 mm[Hg] on 2019-10-27T05:07:38Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Systolic Blood Pressure (vital-signs): 116.0 mm[Hg] on 2019-10-27T05:07:38Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Heart rate (vital-signs): 98.0 /min on 2019-10-27T05:07:38Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Respiratory rate (vital-signs): 15.0 /min on 2019-10-27T05:07:38Z.",
+    "type": "observation"
+  }
+]

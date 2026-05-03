@@ -1,0 +1,614 @@
+[
+  {
+    "text": "Patient diagnosed with Acute bronchitis (disorder) starting 2013-06-24 until 2013-07-02.",
+    "type": "condition"
+  },
+  {
+    "text": "Patient diagnosed with Laceration of forearm starting 2016-02-27 until 2016-03-14.",
+    "type": "condition"
+  },
+  {
+    "text": "Patient diagnosed with Viral sinusitis (disorder) starting 2016-08-11 until 2016-08-22.",
+    "type": "condition"
+  },
+  {
+    "text": "Patient diagnosed with Viral sinusitis (disorder) starting 2016-11-27 until 2016-12-17.",
+    "type": "condition"
+  },
+  {
+    "text": "Patient diagnosed with Fracture of ankle starting 2017-02-22 until 2017-06-02.",
+    "type": "condition"
+  },
+  {
+    "text": "Patient diagnosed with Sprain of ankle starting 2020-02-06 until 2020-03-14.",
+    "type": "condition"
+  },
+  {
+    "text": "Patient prescribed Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution starting 2013-06-24T06:39:19Z until 2013-07-02T06:39:19Z for Acute bronchitis (disorder).",
+    "type": "medication"
+  },
+  {
+    "text": "Patient prescribed Ibuprofen 100 MG Oral Tablet starting 2016-02-27T08:52:29Z until 2016-03-14T08:52:29Z.",
+    "type": "medication"
+  },
+  {
+    "text": "Patient prescribed Acetaminophen 160 MG Chewable Tablet starting 2017-02-22T09:25:31Z until 2017-06-02T09:25:31Z.",
+    "type": "medication"
+  },
+  {
+    "text": "Patient prescribed Naproxen sodium 220 MG Oral Tablet starting 2020-02-06T09:25:31Z until 2020-03-14T09:25:31Z.",
+    "type": "medication"
+  },
+  {
+    "text": "Patient prescribed 1 ML medroxyPROGESTERone acetate 150 MG/ML Injection starting 2021-06-23T08:20:52Z (ongoing).",
+    "type": "medication"
+  },
+  {
+    "text": "Patient had a wellness encounter (Well child visit (procedure)) from 2012-06-25T08:20:52Z to 2012-06-25T08:35:52Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a ambulatory encounter (Encounter for symptom) from 2013-06-24T06:20:52Z to 2013-06-24T06:39:19Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a wellness encounter (Well child visit (procedure)) from 2013-07-01T08:20:52Z to 2013-07-01T08:35:52Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a urgentcare encounter (Urgent care clinic (procedure)) from 2013-07-08T08:20:52Z to 2013-07-08T08:35:52Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a wellness encounter (Well child visit (procedure)) from 2014-07-07T08:20:52Z to 2014-07-07T08:35:52Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a wellness encounter (Well child visit (procedure)) from 2015-07-13T08:20:52Z to 2015-07-13T08:35:52Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a emergency encounter (Emergency room admission (procedure)) from 2016-02-27T08:20:52Z to 2016-02-27T09:20:52Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a wellness encounter (Well child visit (procedure)) from 2016-07-18T08:20:52Z to 2016-07-18T08:35:52Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a ambulatory encounter (Encounter for symptom) from 2016-08-12T03:20:52Z to 2016-08-12T03:35:52Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a ambulatory encounter (Encounter for symptom) from 2016-11-27T17:20:52Z to 2016-11-27T17:35:52Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a emergency encounter (Emergency room admission (procedure)) from 2017-02-22T08:52:29Z to 2017-02-22T09:52:29Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a ambulatory encounter (Encounter for 'check-up') from 2017-06-02T09:25:31Z to 2017-06-02T09:40:31Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a wellness encounter (Well child visit (procedure)) from 2017-07-24T08:20:52Z to 2017-07-24T08:35:52Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a wellness encounter (Well child visit (procedure)) from 2018-07-30T08:20:52Z to 2018-07-30T08:35:52Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a wellness encounter (Well child visit (procedure)) from 2019-08-05T08:20:52Z to 2019-08-05T08:35:52Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a emergency encounter (Emergency room admission (procedure)) from 2020-02-06T09:25:31Z to 2020-02-06T10:25:31Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a wellness encounter (Well child visit (procedure)) from 2020-08-10T08:20:52Z to 2020-08-10T08:35:52Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a outpatient encounter (Consultation for treatment) from 2021-06-23T08:20:52Z to 2021-06-23T08:35:52Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a wellness encounter (Well child visit (procedure)) from 2021-08-16T08:20:52Z to 2021-08-16T08:35:52Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient had a outpatient encounter (Patient encounter procedure) from 2021-10-04T08:20:52Z to 2021-10-04T08:39:21Z.",
+    "type": "encounter"
+  },
+  {
+    "text": "Patient on care plan: Respiratory therapy starting 2013-06-24 until 2014-07-07 for Acute bronchitis (disorder).",
+    "type": "careplan"
+  },
+  {
+    "text": "Patient on care plan: Wound care starting 2016-02-27 until 2016-03-14 for Laceration of forearm.",
+    "type": "careplan"
+  },
+  {
+    "text": "Patient on care plan: Fracture care starting 2017-02-22 until 2017-06-02 for Fracture of ankle.",
+    "type": "careplan"
+  },
+  {
+    "text": "Patient on care plan: Physical therapy procedure starting 2020-02-06 until 2020-03-14 for Sprain of ankle.",
+    "type": "careplan"
+  },
+  {
+    "text": "Patient underwent procedure: Measurement of respiratory function (procedure) on 2013-06-24T06:20:52Z for Acute bronchitis (disorder).",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Suture open wound on 2016-02-27T08:20:52Z for Laceration of forearm.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Injection of tetanus antitoxin on 2016-02-27T08:38:46Z for Laceration of forearm.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Medication Reconciliation (procedure) on 2016-07-18T08:20:52Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Ankle X-ray on 2017-02-22T08:52:29Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Bone immobilization on 2017-02-22T08:52:29Z for Fracture of ankle.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Assessment of anxiety (procedure) on 2017-07-24T08:20:52Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Depression screening (procedure) on 2017-07-24T08:39:43Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Depression screening using Patient Health Questionnaire Nine Item score (procedure) on 2017-07-24T08:49:54Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Assessment of substance use (procedure) on 2017-07-24T09:16:12Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) on 2017-07-24T09:27:27Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Anticipatory guidance (procedure) on 2017-07-24T09:54:03Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Medication Reconciliation (procedure) on 2018-07-30T08:20:52Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Assessment of substance use (procedure) on 2019-08-05T08:20:52Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Assessment using Car  Relax  Alone  Forget  Friends  Trouble Screening Test (procedure) on 2019-08-05T08:33:14Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Anticipatory guidance (procedure) on 2019-08-05T08:51:59Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Assessment of anxiety (procedure) on 2020-08-10T08:20:52Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Medication Reconciliation (procedure) on 2020-08-10T08:20:52Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Depression screening (procedure) on 2020-08-10T08:47:44Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Depression screening using Patient Health Questionnaire Nine Item score (procedure) on 2020-08-10T09:01:44Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Intramuscular injection on 2021-06-23T08:20:52Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Depression screening (procedure) on 2021-08-16T08:20:52Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Depression screening using Patient Health Questionnaire Nine Item score (procedure) on 2021-08-16T08:32:03Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient underwent procedure: Intramuscular injection on 2021-10-04T08:20:52Z.",
+    "type": "procedure"
+  },
+  {
+    "text": "Patient received immunization: Influenza  seasonal  injectable  preservative free on 2012-06-25T08:20:52Z.",
+    "type": "immunization"
+  },
+  {
+    "text": "Patient received immunization: Influenza  seasonal  injectable  preservative free on 2013-07-01T08:20:52Z.",
+    "type": "immunization"
+  },
+  {
+    "text": "Patient received immunization: Influenza  seasonal  injectable  preservative free on 2014-07-07T08:20:52Z.",
+    "type": "immunization"
+  },
+  {
+    "text": "Patient received immunization: Influenza  seasonal  injectable  preservative free on 2015-07-13T08:20:52Z.",
+    "type": "immunization"
+  },
+  {
+    "text": "Patient received immunization: Tdap on 2016-07-18T08:20:52Z.",
+    "type": "immunization"
+  },
+  {
+    "text": "Patient received immunization: Influenza  seasonal  injectable  preservative free on 2016-07-18T08:20:52Z.",
+    "type": "immunization"
+  },
+  {
+    "text": "Patient received immunization: HPV  quadrivalent on 2016-07-18T08:20:52Z.",
+    "type": "immunization"
+  },
+  {
+    "text": "Patient received immunization: meningococcal MCV4P on 2016-07-18T08:20:52Z.",
+    "type": "immunization"
+  },
+  {
+    "text": "Patient received immunization: Influenza  seasonal  injectable  preservative free on 2017-07-24T08:20:52Z.",
+    "type": "immunization"
+  },
+  {
+    "text": "Patient received immunization: HPV  quadrivalent on 2017-07-24T08:20:52Z.",
+    "type": "immunization"
+  },
+  {
+    "text": "Patient received immunization: Influenza  seasonal  injectable  preservative free on 2018-07-30T08:20:52Z.",
+    "type": "immunization"
+  },
+  {
+    "text": "Patient received immunization: HPV  quadrivalent on 2018-07-30T08:20:52Z.",
+    "type": "immunization"
+  },
+  {
+    "text": "Patient received immunization: Influenza  seasonal  injectable  preservative free on 2019-08-05T08:20:52Z.",
+    "type": "immunization"
+  },
+  {
+    "text": "Patient received immunization: Influenza  seasonal  injectable  preservative free on 2020-08-10T08:20:52Z.",
+    "type": "immunization"
+  },
+  {
+    "text": "Patient received immunization: Influenza  seasonal  injectable  preservative free on 2021-08-16T08:20:52Z.",
+    "type": "immunization"
+  },
+  {
+    "text": "Patient received immunization: meningococcal MCV4P on 2021-08-16T08:20:52Z.",
+    "type": "immunization"
+  },
+  {
+    "text": "Patient had imaging study: Digital Radiography of Ankle on 2017-02-22T08:52:29Z.",
+    "type": "imaging_study"
+  },
+  {
+    "text": "Patient insurance: Adalberto916 Wunsch504 (ownership: Guardian) from 2005-07-11T08:20:52Z to 2006-07-17T08:20:52Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Adalberto916 Wunsch504 (ownership: Guardian) from 2006-07-17T08:20:52Z to 2007-07-23T08:20:52Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Adalberto916 Wunsch504 (ownership: Guardian) from 2007-07-23T08:20:52Z to 2008-07-28T08:20:52Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Adalberto916 Wunsch504 (ownership: Guardian) from 2008-07-28T08:20:52Z to 2009-08-03T08:20:52Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Adalberto916 Wunsch504 (ownership: Guardian) from 2009-08-03T08:20:52Z to 2010-08-09T08:20:52Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Larissa293 Jerde200 (ownership: Guardian) from 2010-08-09T08:20:52Z to 2011-08-15T08:20:52Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Adalberto916 Wunsch504 (ownership: Guardian) from 2011-08-15T08:20:52Z to 2012-08-20T08:20:52Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Adalberto916 Wunsch504 (ownership: Guardian) from 2012-08-20T08:20:52Z to 2013-08-26T08:20:52Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Adalberto916 Wunsch504 (ownership: Guardian) from 2013-08-26T08:20:52Z to 2014-09-01T08:20:52Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Adalberto916 Wunsch504 (ownership: Guardian) from 2014-09-01T08:20:52Z to 2015-09-07T08:20:52Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Adalberto916 Wunsch504 (ownership: Guardian) from 2015-09-07T08:20:52Z to 2016-09-12T08:20:52Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Adalberto916 Wunsch504 (ownership: Guardian) from 2016-09-12T08:20:52Z to 2017-09-18T08:20:52Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Adalberto916 Wunsch504 (ownership: Guardian) from 2017-09-18T08:20:52Z to 2018-09-24T08:20:52Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Larissa293 Jerde200 (ownership: Guardian) from 2018-09-24T08:20:52Z to 2019-09-30T08:20:52Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Larissa293 Jerde200 (ownership: Guardian) from 2019-09-30T08:20:52Z to 2020-10-05T08:20:52Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Larissa293 Jerde200 (ownership: Guardian) from 2020-10-05T08:20:52Z to 2021-10-11T08:20:52Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient insurance: Adalberto916 Wunsch504 (ownership: Guardian) from 2021-10-11T08:20:52Z to 2022-10-11T08:20:52Z.",
+    "type": "payer_transition"
+  },
+  {
+    "text": "Patient observation \u2014 Body Height (vital-signs): 129.3 cm on 2012-06-25T08:20:52Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Pain severity - 0-10 verbal numeric rating [Score] - Reported (vital-signs): 3.0 {score} on 2012-06-25T08:20:52Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Body Weight (vital-signs): 27.1 kg on 2012-06-25T08:20:52Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Body Mass Index (vital-signs): 16.2 kg/m2 on 2012-06-25T08:20:52Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Body mass index (BMI) [Percentile] Per age and gender (vital-signs): 66.6 % on 2012-06-25T08:20:52Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Diastolic Blood Pressure (vital-signs): 75.0 mm[Hg] on 2012-06-25T08:20:52Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Systolic Blood Pressure (vital-signs): 132.0 mm[Hg] on 2012-06-25T08:20:52Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Heart rate (vital-signs): 68.0 /min on 2012-06-25T08:20:52Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Respiratory rate (vital-signs): 13.0 /min on 2012-06-25T08:20:52Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Tobacco smoking status NHIS (survey): Never smoker on 2012-06-25T08:20:52Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Body Height (vital-signs): 135.9 cm on 2013-07-01T08:20:52Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Pain severity - 0-10 verbal numeric rating [Score] - Reported (vital-signs): 3.0 {score} on 2013-07-01T08:20:52Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Body Weight (vital-signs): 29.6 kg on 2013-07-01T08:20:52Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Body Mass Index (vital-signs): 16.1 kg/m2 on 2013-07-01T08:20:52Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Body mass index (BMI) [Percentile] Per age and gender (vital-signs): 55.5 % on 2013-07-01T08:20:52Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Diastolic Blood Pressure (vital-signs): 85.0 mm[Hg] on 2013-07-01T08:20:52Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Systolic Blood Pressure (vital-signs): 125.0 mm[Hg] on 2013-07-01T08:20:52Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Heart rate (vital-signs): 98.0 /min on 2013-07-01T08:20:52Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Respiratory rate (vital-signs): 14.0 /min on 2013-07-01T08:20:52Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Tobacco smoking status NHIS (survey): Never smoker on 2013-07-01T08:20:52Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Body Height (vital-signs): 142.2 cm on 2014-07-07T08:20:52Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Pain severity - 0-10 verbal numeric rating [Score] - Reported (vital-signs): 4.0 {score} on 2014-07-07T08:20:52Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Body Weight (vital-signs): 32.7 kg on 2014-07-07T08:20:52Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Body Mass Index (vital-signs): 16.2 kg/m2 on 2014-07-07T08:20:52Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Body mass index (BMI) [Percentile] Per age and gender (vital-signs): 47.9 % on 2014-07-07T08:20:52Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Diastolic Blood Pressure (vital-signs): 76.0 mm[Hg] on 2014-07-07T08:20:52Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Systolic Blood Pressure (vital-signs): 127.0 mm[Hg] on 2014-07-07T08:20:52Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Heart rate (vital-signs): 65.0 /min on 2014-07-07T08:20:52Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Respiratory rate (vital-signs): 14.0 /min on 2014-07-07T08:20:52Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Tobacco smoking status NHIS (survey): Never smoker on 2014-07-07T08:20:52Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Body Height (vital-signs): 147.9 cm on 2015-07-13T08:20:52Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Pain severity - 0-10 verbal numeric rating [Score] - Reported (vital-signs): 2.0 {score} on 2015-07-13T08:20:52Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Body Weight (vital-signs): 36.0 kg on 2015-07-13T08:20:52Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Body Mass Index (vital-signs): 16.5 kg/m2 on 2015-07-13T08:20:52Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Body mass index (BMI) [Percentile] Per age and gender (vital-signs): 43.0 % on 2015-07-13T08:20:52Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Diastolic Blood Pressure (vital-signs): 81.0 mm[Hg] on 2015-07-13T08:20:52Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Systolic Blood Pressure (vital-signs): 107.0 mm[Hg] on 2015-07-13T08:20:52Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Heart rate (vital-signs): 68.0 /min on 2015-07-13T08:20:52Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Respiratory rate (vital-signs): 14.0 /min on 2015-07-13T08:20:52Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Tobacco smoking status NHIS (survey): Never smoker on 2015-07-13T08:20:52Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Body Height (vital-signs): 154.6 cm on 2016-07-18T08:20:52Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Pain severity - 0-10 verbal numeric rating [Score] - Reported (vital-signs): 3.0 {score} on 2016-07-18T08:20:52Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Body Weight (vital-signs): 42.2 kg on 2016-07-18T08:20:52Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Body Mass Index (vital-signs): 17.6 kg/m2 on 2016-07-18T08:20:52Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Body mass index (BMI) [Percentile] Per age and gender (vital-signs): 52.7 % on 2016-07-18T08:20:52Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Diastolic Blood Pressure (vital-signs): 73.0 mm[Hg] on 2016-07-18T08:20:52Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Systolic Blood Pressure (vital-signs): 109.0 mm[Hg] on 2016-07-18T08:20:52Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Heart rate (vital-signs): 99.0 /min on 2016-07-18T08:20:52Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Respiratory rate (vital-signs): 12.0 /min on 2016-07-18T08:20:52Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Leukocytes [#/volume] in Blood by Automated count (laboratory): 5.2 10*3/uL on 2016-07-18T08:20:52Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Erythrocytes [#/volume] in Blood by Automated count (laboratory): 5.5 10*6/uL on 2016-07-18T08:20:52Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Hemoglobin [Mass/volume] in Blood (laboratory): 14.0 g/dL on 2016-07-18T08:20:52Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Hematocrit [Volume Fraction] of Blood by Automated count (laboratory): 46.3 % on 2016-07-18T08:20:52Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 MCV [Entitic volume] by Automated count (laboratory): 80.0 fL on 2016-07-18T08:20:52Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 MCH [Entitic mass] by Automated count (laboratory): 31.4 pg on 2016-07-18T08:20:52Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 MCHC [Mass/volume] by Automated count (laboratory): 33.6 g/dL on 2016-07-18T08:20:52Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Erythrocyte distribution width [Entitic volume] by Automated count (laboratory): 42.3 fL on 2016-07-18T08:20:52Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Platelets [#/volume] in Blood by Automated count (laboratory): 203.3 10*3/uL on 2016-07-18T08:20:52Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Platelet distribution width [Entitic volume] in Blood by Automated count (laboratory): 222.1 fL on 2016-07-18T08:20:52Z.",
+    "type": "observation"
+  },
+  {
+    "text": "Patient observation \u2014 Platelet mean volume [Entitic volume] in Blood by Automated count (laboratory): 11.2 fL on 2016-07-18T08:20:52Z.",
+    "type": "observation"
+  }
+]
